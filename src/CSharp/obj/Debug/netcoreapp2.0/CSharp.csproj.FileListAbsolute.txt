@@ -1,0 +1,10 @@
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\bin\Debug\netcoreapp2.0\CSharp.deps.json
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\bin\Debug\netcoreapp2.0\CSharp.runtimeconfig.json
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\bin\Debug\netcoreapp2.0\CSharp.runtimeconfig.dev.json
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\bin\Debug\netcoreapp2.0\CSharp.dll
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\bin\Debug\netcoreapp2.0\CSharp.pdb
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\obj\Debug\netcoreapp2.0\CSharp.csproj.CoreCompileInputs.cache
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\obj\Debug\netcoreapp2.0\CSharp.AssemblyInfoInputs.cache
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\obj\Debug\netcoreapp2.0\CSharp.AssemblyInfo.cs
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\obj\Debug\netcoreapp2.0\CSharp.dll
+D:\_CodeLanguage\PeefyLeetCode\src\CSharp\obj\Debug\netcoreapp2.0\CSharp.pdb

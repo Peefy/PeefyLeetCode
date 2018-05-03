@@ -1,3 +1,8 @@
 {
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "files.associations": {
+        "iostream": "cpp",
+        "xlocale": "cpp",
+        "vector": "cpp"
+    }
 }
