@@ -20,7 +20,7 @@ public class Main {
         System.out.println(result[0]);
         System.out.println(result[1]);
         System.out.println("123");
-        System.out.println("asdadas");
+        System.out.println("code runner");
     }
 }
 

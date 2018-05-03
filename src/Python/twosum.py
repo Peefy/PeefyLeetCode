@@ -17,7 +17,7 @@ class Solution:
                 if nums[i] + nums[j] == target:
                     return [i, j]
 
-        # 使用递归会溢出
+        # recursive call overflow
         # return self.__twoSum(nums, n - 1, target)
    
     def __twoSum(self, nums, index, target):
