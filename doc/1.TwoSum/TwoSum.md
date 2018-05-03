@@ -1,5 +1,5 @@
 
-# Problem Two Sum
+# Problem : Two Sum
 
 <img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1.TwoSum/problem.png"/>
 
