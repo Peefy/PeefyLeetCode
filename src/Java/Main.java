@@ -19,6 +19,8 @@ public class Main {
         int[] result = two.twoSum(new int[]{1, 2, 3, 4, 5}, 7);
         System.out.println(result[0]);
         System.out.println(result[1]);
+        IntergerReverse re = new IntergerReverse();
+        System.out.println(re.reverse(1534236469));
         System.out.println("123");
         System.out.println("code runner");
     }

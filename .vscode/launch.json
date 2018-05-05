@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Attach (Remote Debug)",
+            "type": "pythonExperimental",
+            "request": "attach",
+            "port": 3000,
+            "host": "localhost"
+        },
+        {
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
