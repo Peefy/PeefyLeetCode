@@ -1,5 +1,5 @@
 
-# Problem : Reverse Integer
+# Problem 7 : Reverse Integer
 
 <img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/7.ReverseInteger/problem.png"/>
 
