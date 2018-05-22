@@ -17,7 +17,7 @@ These are LeetCode code files of Peefy contains C++, C#, Java, Python.
 #### Problem 6
 #### Problem 7 Reverse Integer
 #### Problem 8
-#### Problem 9
+#### Problem 9 palindrome Number
 #### Problem 10
 
 ## Problem 11 -  Problem 20
