@@ -1,5 +1,6 @@
 
 #ifndef __INT_REVERSE_H
+#define __INT_REVERSE_H
 
 #include <iostream>
 #include <vector>
