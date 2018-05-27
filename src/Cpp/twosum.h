@@ -8,7 +8,7 @@
 
 using namespace std;
 
-namespace twoSum{
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

@@ -8,6 +8,7 @@ import twosum
 import reverseinterger
 import palidromenumber
 import roman2int
+import longestCommonPrefix
 
 # solution = twosum.Solution()
 # print(solution.twoSum([2, 3, 4], 5))
@@ -29,6 +30,9 @@ print(solution.romanToInt('XI'))
 print(solution.romanToInt('LVIII'))
 print(solution.romanToInt('MCMXCIV'))
 print(solution.romanToInt('MMCDXXV'))
+
+solution = longestCommonPrefix.Solution()
+print(solution.longestCommonPrefix(["flower", "flo", "floght"]))
 
 # python src/Python/main.py
 # python3 src/Python/main.py

@@ -3,16 +3,14 @@
 #include <vector>
 #include <map>
 
-#include "twosum.h"
+#include "longest_common_prefix.h"
 
 int main()
 {
-    twoSum::Solution solution;
-    vector<int> nums = {2, 7, 11, 15};
-    auto result = solution.twoSum(nums, 9);
-    std::cout << result[0] << '\n';
-    std::cout << result[1] << '\n';
-    std::cout << "adad" << '\n';
+    Solution solution;
+    vector<string> nums = {"flower", "flow", "flaa"};
+    auto result = solution.longestCommonPrefix(nums);
+    cout << result.c_str() << endl;
     getchar();
     return 0;
 }

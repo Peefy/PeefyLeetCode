@@ -9,17 +9,14 @@ public class TwoSum {
         result[0] = 1;
         result[1] = 2;
         ArrayList<Integer> list = new ArrayList<Integer>(10);
-        for(int num : nums)
-        {
+        for (int num : nums) {
             list.add(num);
         }
         Collections.sort(list);
         int num = nums.length;
-        for(int i = 0;i < num;++i)
-        {
-            for(int j = i + 1;j < num; ++j)
-            {
-                if(nums[i] + nums[j] == target){
+        for (int i = 0; i < num; ++i) {
+            for (int j = i + 1; j < num; ++j) {
+                if (nums[i] + nums[j] == target) {
                     result[0] = i;
                     result[1] = j;
                 }
