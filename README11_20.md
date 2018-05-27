@@ -11,3 +11,8 @@ These are LeetCode code files of Peefy contains C++, C#, Java, Python.
 
 <img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/14.LongestCommonPrefix/problem.png"/>
 [doc](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/14.LongestCommonPrefix/README.md)
+
+## Problem 20 Valid Parentheses
+
+<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/20.ValidParentheses/problem.png"/>
+[doc](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/20.ValidParentheses/README.md)

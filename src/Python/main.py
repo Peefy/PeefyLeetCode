@@ -34,5 +34,8 @@ print(solution.romanToInt('MMCDXXV'))
 solution = longestCommonPrefix.Solution()
 print(solution.longestCommonPrefix(["flower", "flo", "floght"]))
 
+brakets = "()[]{}"
+print(brakets)
+
 # python src/Python/main.py
 # python3 src/Python/main.py

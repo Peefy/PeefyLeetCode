@@ -23,6 +23,13 @@ public class Main {
         System.out.println(re.reverse(1534236469));
         System.out.println("123");
         System.out.println("code runner");
+        ValidParentheses solution = new ValidParentheses();
+        System.out.println(solution.isValid(""));
+        System.out.println(solution.isValid("()"));
+        System.out.println(solution.isValid("[(])"));
+        System.out.println(solution.isValid("{()}"));
+        System.out.println(solution.isValid("){"));
+        System.out.println(solution.isValid(""));
     }
 }
 
