@@ -9,6 +9,7 @@ import reverseinterger
 import palidromenumber
 import roman2int
 import longestCommonPrefix
+import merge_two_sorted_lists as m
 
 # solution = twosum.Solution()
 # print(solution.twoSum([2, 3, 4], 5))
@@ -36,6 +37,15 @@ print(solution.longestCommonPrefix(["flower", "flo", "floght"]))
 
 brakets = "()[]{}"
 print(brakets)
+
+solution = m.Solution()
+l1 = m.ListNode(1)
+l1.next = m.ListNode(2)
+l1.next.next = m.ListNode(4)
+l2 = m.ListNode(1)
+l2.next = m.ListNode(3)
+l2.next.next = m.ListNode(4)
+print(solution.mergeTwoLists(l1, l2))
 
 # python src/Python/main.py
 # python3 src/Python/main.py
