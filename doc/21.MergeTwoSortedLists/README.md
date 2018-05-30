@@ -1,39 +1,33 @@
 
-# problem 20 : Valid Parentheses
+# problem 21 : Merge Two Sorted Lists
 
-<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/20.ValidParentheses/problem.png"/>
+<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/21.MergeTwoSortedLists/problem.png"/>
 
 ## C++ Solution
 
 ```c++
 
+struct ListNode {
+    int val;
+    ListNode *next;
+    ListNode(int x) : val(x), next(NULL) {}
+};
+
 class Solution {
 public:
-    public:
-    bool isValid(string s) {
-        stack<char> cstack;
-        for(auto c : s){
-            if(c == '(' || c == '[' || c == '{'){
-                cstack.push(c);
-            }
-            else{
-                if(cstack.empty()){
-                    return false;
-                }
-                else{
-                    auto last = cstack.top();
-                    if((last == '(' && c == ')') || 
-                        (last == '[' && c == ']') ||
-                        (last == '{' && c == '}')){
-                            cstack.pop();
-                        }
-                    else{
-                        return false;
-                    }
-                }
-            }
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        if (l1 == NULL) return l2;
+        if (l2 == NULL) return l1;
+        ListNode* ans = NULL;
+        if (l1->val < l2->val){
+            ans = l1;
+            ans->next = this->mergeTwoLists(l1->next, l2);
         }
-        return cstack.empty();
+        else{
+            ans = l2;
+            ans->next = this->mergeTwoLists(l1, l2->next);
+        }
+        return ans;
     }
 };
 
@@ -43,58 +37,42 @@ public:
 
 ```csharp
 
-public class Solution
+    public class ListNode 
     {
-        public bool IsValid(string s)
-        {
-            var n = s.Length;
-            // 开辟一个数组充当stack
-            char[] a = new char[n / 2 + 1];
-            var top = 0;
-            for (var i = 0; i < n; ++i)
+        public int val;
+        public ListNode next;
+        public ListNode(int x) { val = x; }
+    }
+
+    public class Solution 
+    {
+        public ListNode MergeTwoLists(ListNode l1, ListNode l2) {
+            var r = new ListNode(-1);
+            var head = r;
+            while(l1 != null && l2 != null)
             {
-                var c = s[i];
-                switch (c)
+                if(l1.val < l2.val)
                 {
-                    case '(':
-                    case '{':
-                    case '[':
-                        a[top++] = c;
-                        if (top >= n / 2 + 1)
-                            return false;
-                        break;
-                    case ')':
-                        if (top > 0)
-                            if (a[top - 1] == '(')
-                            {
-                                top--;
-                                break;
-                            }
-                        return false;
-                    case '}':
-                        if (top > 0)
-                            if (a[top - 1] == '{')
-                            {
-                                top--;
-                                break;
-                            }
-                        return false;
-                    case ']':
-                        if (top > 0)
-                            if (a[top - 1] == '[')
-                            {
-                                top--;
-                                break;
-                            }
-                        return false;
-
-                    default:
-                        return false;
+                    r.next = l1;
+                    l1 = l1.next;
                 }
+                else
+                {
+                    r.next = l2;
+                    l2 = l2.next;
+                }
+                r = r.next;
             }
-            return !(top > 0);
+            if(l1 == null)
+            {
+                r.next = l2;
+            }
+            else
+            {
+                r.next = l1;
+            }
+            return head.next;
         }
-
     }
 
 ```
@@ -103,42 +81,29 @@ public class Solution
 
 ```java
 
-public class Solution {
-    public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        int n = s.length();
-        if(n % 2 == 1){
-            return false;
-        }
-        for(int i = 0;i < n; ++i){
-            Character c = s.charAt(i);
-            if(c == '(' || c == '[' || c == '{'){
-                stack.push(c);
+public class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) { val = x; }
+}
+
+public class MergeTwoSortedLists {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode r = new ListNode(0);
+        ListNode start = r;
+        while (l1 != null && l2 != null ){
+            if (l1.val < l2.val){
+                r.next = l1;
+                l1 = l1.next;
             }
             else{
-                if(c == ')' || c == ']' || c == '}'){
-                    if(stack.empty() == true)
-                        return false;
-                    Character last = stack.pop();
-                    if(last == '(' && c == ')'){
-                        continue;
-                    }
-                    if(last == '[' && c == ']'){
-                        continue;
-                    }
-                    if(last == '{' && c == '}'){
-                        continue;
-                    }
-                    else{
-                        return false;
-                    }
-                }
-                else{
-                    return false;
-                }
+                r.next = l2;
+                l2 = l2.next;
             }
+            r = r.next;
         }
-        return stack.empty();
+        r.next = l1 == null ? l2 : l1;
+        return start.next;
     }
 }
 
@@ -147,33 +112,34 @@ public class Solution {
 ## Python Solution
 
 ```python
+
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
 class Solution:
-    def isValid(self, s):
+    def mergeTwoLists(self, l1, l2):
         """
-        :type s: str
-        :rtype: bool
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
         """
-        brakets = "()[]{}"
-        index = []
-        n = len(s)
-        if n % 2 == 1:
-            return False 
-        for i in range(n):
-            c = s[i]
-            index.append(brakets.index(c))
-        i = 0
-        while i < len(index) - 1:
-            one = index[i]
-            two = index[i + 1]
-            if one + 1 == two:
-                index.pop(i)
-                index.pop(i)
-                i = 0
+        r = ListNode(0)
+        start = r
+        while l1 is not None and l2 is not None:
+            if l1.val < l2.val:
+                r.next = ListNode(l1.val)
+                l1 = l1.next
             else:
-                i += 1
-        if len(index) == 0:
-            return True
-        return False
+                r.next = ListNode(l2.val)
+                l2 = l2.next
+            r = r.next
+        if l1 is None:
+            r.next = l2
+        else:
+            r.next = l1
+        return start.next
 
 ```
 

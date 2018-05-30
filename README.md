@@ -33,3 +33,18 @@ These are LeetCode code files of Peefy contains C++, C#, Java, Python.
 #### Problem 18
 #### Problem 19
 #### Problem 20 *Valid Parentheses*
+
+## Problem 21 - Problem 30
+
+### [link](https://github.com/Peefy/PeefyLeetCode/blob/master/README21_30.md)
+
+#### Problem 21 *Merge Two Sorted Lists*
+#### Problem 22
+#### Problem 23 
+#### Problem 24 
+#### Problem 25
+#### Problem 26
+#### Problem 27
+#### Problem 28
+#### Problem 29
+#### Problem 30 
