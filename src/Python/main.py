@@ -10,6 +10,7 @@ import palidromenumber
 import roman2int
 import longestCommonPrefix
 import merge_two_sorted_lists as m
+import numpy as np
 
 # solution = twosum.Solution()
 # print(solution.twoSum([2, 3, 4], 5))
