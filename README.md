@@ -37,7 +37,7 @@ These are LeetCode code files of Peefy contains C++, C#, Java, Python.
 #### Problem 23 
 #### Problem 24 
 #### Problem 25
-#### Problem 26
+#### Problem 26 (Easy) [*Remove Duplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/26.RemoveDuplicates/README.md)
 #### Problem 27
 #### Problem 28
 #### Problem 29
