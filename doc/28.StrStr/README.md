@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/28.StrStr/problem.png"/>
 
-## C++ Solution
+## C/C++ Solution
 
 ```c
 
