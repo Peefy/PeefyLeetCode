@@ -12,6 +12,7 @@ import longestCommonPrefix
 import merge_two_sorted_lists as m
 import numpy as np
 import removeduplicates
+import removeElement
 
 # solution = twosum.Solution()
 # print(solution.twoSum([2, 3, 4], 5))
@@ -51,6 +52,9 @@ print(solution.mergeTwoLists(l1, l2))
 
 solution = removeduplicates.Solution()
 print(solution.removeDuplicates([1, 1, 2]));
+
+solution = removeElement.Solution()
+print(solution.removeElement([3,2,2,2], 3))
 
 # python src/Python/main.py
 # python3 src/Python/main.py
