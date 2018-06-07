@@ -68,7 +68,6 @@ class Solution {
 ## Python Solution
 
 ```python
-
 class Solution:
     def removeElement(self, nums, val):
         """
