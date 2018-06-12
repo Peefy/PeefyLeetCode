@@ -42,3 +42,16 @@ These are LeetCode code files of Peefy contains C++, C#, Java, Python.
 #### Problem 28 (Easy) [*StrStr*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/28.StrStr/README.md)
 #### Problem 29
 #### Problem 30 
+
+## Problem 31 - Problem 40
+
+#### Problem 31 (Easy)
+#### Problem 32 (Easy)
+#### Problem 33 (Easy)
+#### Problem 34 (Easy)
+#### Problem 35 (Easy) [*SearchInsert*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/35.SearchInsert/README.md)
+#### Problem 36 (Easy)
+#### Problem 37 (Easy)
+#### Problem 38 (Easy)
+#### Problem 39 (Easy)
+#### Problem 40 (Easy)
