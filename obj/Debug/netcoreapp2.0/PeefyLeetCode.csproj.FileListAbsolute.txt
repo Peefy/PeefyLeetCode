@@ -1,0 +1,10 @@
+f:\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.deps.json
+f:\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.runtimeconfig.json
+f:\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.runtimeconfig.dev.json
+f:\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.dll
+f:\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.pdb
+f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.csproj.CoreCompileInputs.cache
+f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.AssemblyInfoInputs.cache
+f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.AssemblyInfo.cs
+f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.dll
+f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.pdb

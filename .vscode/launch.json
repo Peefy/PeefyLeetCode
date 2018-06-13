@@ -4,67 +4,24 @@
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "type": "java",
-            "name": "Debug (Launch)",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "stopOnEntry": false,
-            "mainClass": "Main",
-            "args": ""
-        },
-        {
-            "name": "Python: Current File",
-            "type": "python",
-            "request": "launch",
-            "program": "${file}"
-        },
-        {
-            "name": "Attach (Remote Debug)",
-            "type": "pythonExperimental",
-            "request": "attach",
-            "port": 3000,
-            "host": "localhost"
-        },
-        {
-            "name": "(Windows) Launch",
-            "type": "cppvsdbg",
-            "request": "launch",
-            "program": "enter program name, for example ${workspaceFolder}/a.exe",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
-            "environment": [],
-            "externalConsole": true
-        },
+        
         {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/bin/Debug/<target-framework>/<project-name.dll>",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.0/PeefyLeetCode.dll",
             "args": [],
-            "cwd": "${workspaceRoot}",
-            "stopAtEntry": false,
-            "console": "internalConsole"
-        },
-        {
-            "type": "java",
-            "name": "Debug (Launch)-Main",
-            "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
-            "stopOnEntry": false,
-            "mainClass": "Main",
-            "args": ""
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
         },
         {
-            "type": "java",
-            "name": "Debug (Attach)",
+            "name": ".NET Core Attach",
+            "type": "coreclr",
             "request": "attach",
-            "hostName": "localhost",
-            "port": 0
+            "processId": "${command:pickProcess}"
         }
     ]
 }

@@ -29,6 +29,9 @@ public class Main {
         System.out.println(solution.isValid("{()}"));
         System.out.println(solution.isValid("){"));
         System.out.println(solution.isValid(""));
+        CountAndSay s = new CountAndSay();
+        System.out.println(s.countAndSay(2));
+        System.out.println(s.countAndSay(3));
     }
 }
 

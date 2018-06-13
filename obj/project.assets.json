@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\_CodeLanguage\\PeefyLeetCode\\PeefyLeetCode.csproj",
+      "projectUniqueName": "f:\\_CodeLanguage\\PeefyLeetCode\\PeefyLeetCode.csproj",
       "projectName": "PeefyLeetCode",
-      "projectPath": "F:\\_CodeLanguage\\PeefyLeetCode\\PeefyLeetCode.csproj",
+      "projectPath": "f:\\_CodeLanguage\\PeefyLeetCode\\PeefyLeetCode.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\_CodeLanguage\\PeefyLeetCode\\obj\\",
+      "outputPath": "f:\\_CodeLanguage\\PeefyLeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
