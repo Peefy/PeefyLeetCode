@@ -52,6 +52,32 @@ These are LeetCode code files of Peefy contains C++, C#, Java, Python.
 #### Problem 35 (Easy) [*SearchInsert*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/35.SearchInsert/README.md)
 #### Problem 36 (Easy)
 #### Problem 37 (Easy)
-#### Problem 38 (Easy)
+#### Problem 38 (Easy) [*CountAndSay*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/38.CountAndSay/README.md)
 #### Problem 39 (Easy)
 #### Problem 40 (Easy)
+
+## Problem 41 - Problem 50
+
+#### Problem 41 (Easy)
+#### Problem 42 (Easy)
+#### Problem 43 (Easy)
+#### Problem 44 (Easy)
+#### Problem 45 (Easy) 
+#### Problem 46 (Easy)
+#### Problem 47 (Easy)
+#### Problem 48 (Easy) 
+#### Problem 49 (Easy)
+#### Problem 50 (Easy)
+
+## Problem 51 - Problem 60
+
+#### Problem 51 (Easy)
+#### Problem 52 (Easy)
+#### Problem 53 (Easy) [*MaxSubArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/53.MaxSubArray/README.md)
+#### Problem 54 (Easy)
+#### Problem 55 (Easy) 
+#### Problem 56 (Easy) 
+#### Problem 57 (Easy) 
+#### Problem 58 (Easy) 
+#### Problem 59 (Easy)
+#### Problem 60 (Easy)
