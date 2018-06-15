@@ -78,6 +78,6 @@ These are LeetCode code files of Peefy contains C++, C#, Java, Python.
 #### Problem 55 (Easy) 
 #### Problem 56 (Easy) 
 #### Problem 57 (Easy) 
-#### Problem 58 (Easy) 
+#### Problem 58 (Easy) [*LengthOfLastWord*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/58.LengthOfLastWord/README.md)
 #### Problem 59 (Easy)
 #### Problem 60 (Easy)
