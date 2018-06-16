@@ -4,6 +4,8 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ### [Blog](https://peefy.github.io)
 
+### [View in order of difficulty](https://github.com/Peefy/PeefyLeetCode/blob/master/README_ORDER.md)
+
 ## Problem 1 - Problem 10
 
 #### Problem 1 (Easy) [*Two Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1.TwoSum/README.md)
