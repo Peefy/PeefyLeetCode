@@ -6,7 +6,9 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 #### [Visual Studio Code](https://code.visualstudio.com/)
 
-### [Blog](https://peefy.github.io)
+### [Blog]
+
+#### [Link](https://peefy.github.io)
 
 ### Code Source
 
@@ -18,11 +20,11 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 #### [*Python*](https://github.com/Peefy/PeefyLeetCode/blob/master/src/Python)
 
-### [View in order of difficulty](https://github.com/Peefy/PeefyLeetCode/blob/master/README_ORDER.md)
-
 ### Thanks for **fork** and **star**
 
 ### Doc (*Continued to increase*)
+
+#### [View in order of difficulty](https://github.com/Peefy/PeefyLeetCode/blob/master/README_ORDER.md)
 
 ## Problem 1 - Problem 10
 
@@ -114,3 +116,8 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 #### Problem 68 (Easy) 
 #### Problem 69 (Easy)
 #### Problem 70 (Easy)
+
+### LICENSE
+
+Apache License
+
