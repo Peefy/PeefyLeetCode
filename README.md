@@ -1,6 +1,6 @@
 ## PeefyLeetCode
 
-    These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
+These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ### Code Editor
 
