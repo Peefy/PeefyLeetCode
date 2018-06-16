@@ -89,7 +89,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 #### Problem 63 (Easy) 
 #### Problem 64 (Easy)
 #### Problem 65 (Easy) 
-#### Problem 66 (Easy) [*LengthOfLastWord*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/66.PlusOne/README.md)
+#### Problem 66 (Easy) [*PlusOne*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/66.PlusOne/README.md)
 #### Problem 67 (Easy) 
 #### Problem 68 (Easy) 
 #### Problem 69 (Easy)
