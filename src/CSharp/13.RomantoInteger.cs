@@ -4,7 +4,7 @@ using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace RomanToInteger
+namespace PeefyLeetCode.RomantoInteger
 {
     public class Solution 
     {

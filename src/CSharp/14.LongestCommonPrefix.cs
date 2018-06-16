@@ -4,7 +4,7 @@ using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace LongestCommonPrefix
+namespace PeefyLeetCode.LongestCommonPrefix
 {
     public class Solution
     {

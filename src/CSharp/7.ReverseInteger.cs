@@ -1,5 +1,5 @@
 
-namespace IntegerReverseSolution
+namespace PeefyLeetCode.ReverseInteger
 {
     public class Solution
     {

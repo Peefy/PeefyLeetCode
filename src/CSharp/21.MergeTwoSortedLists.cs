@@ -1,4 +1,4 @@
-namespace PeefyLeetCode.src.CSharp
+namespace PeefyLeetCode.MergeTwoSortedLists
 {
 
    public class ListNode 
