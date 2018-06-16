@@ -20,9 +20,9 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ### [View in order of difficulty](https://github.com/Peefy/PeefyLeetCode/blob/master/README_ORDER.md)
 
-### Thanks for *fork* and *star*
+### Thanks for **fork** and **star**
 
-### Doc
+### Doc (*Continued to increase*)
 
 ## Problem 1 - Problem 10
 
