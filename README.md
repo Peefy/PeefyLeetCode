@@ -6,7 +6,7 @@
 
 * #### [Visual Studio Code](https://code.visualstudio.com/)
 
-### [Blog]
+### Blog
 
 * #### [Link](https://peefy.github.io)
 
