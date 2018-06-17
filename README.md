@@ -112,8 +112,8 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 66 (Easy) [*PlusOne*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/66.PlusOne/README.md)
 * #### Problem 67 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/67.AddBinary/README.md)
 * #### Problem 68 (Easy) 
-* #### Problem 69 (Easy)
-* #### Problem 70 (Easy)
+* #### Problem 69 (Easy) [*MySqrt*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/69.MySqrt/README.md)
+* #### Problem 70 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/70.ClimbStairs/README.md)
 
 ### LICENSE
 

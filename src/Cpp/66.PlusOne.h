@@ -1,6 +1,6 @@
 
-#ifndef __58LengthOfLastWord_H
-#define __58LengthOfLastWord_H
+#ifndef __PLUS_ONE_H
+#define __PLUS_ONE_H
 
 #include <iostream>
 #include <vector>
