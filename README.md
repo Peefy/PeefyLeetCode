@@ -115,6 +115,33 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 69 (Easy) [*MySqrt*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/69.MySqrt/README.md)
 * #### Problem 70 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/70.ClimbStairs/README.md)
 
+## Problem 71 - Problem 80
+
+* #### Problem 71 (Easy)
+* #### Problem 72 (Easy)
+* #### Problem 73 (Easy) 
+* #### Problem 74 (Easy)
+* #### Problem 75 (Easy) 
+* #### Problem 76 (Easy) 
+* #### Problem 77 (Easy) 
+* #### Problem 78 (Easy) 
+* #### Problem 79 (Easy) 
+* #### Problem 80 (Easy) [*ListDeleteDuplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/80.ListDeleteDuplicates/README.md)
+
+
+## Problem 81 - Problem 90
+
+* #### Problem 81 (Easy)
+* #### Problem 82 (Easy)
+* #### Problem 83 (Easy) 
+* #### Problem 84 (Easy)
+* #### Problem 85 (Easy) 
+* #### Problem 86 (Easy) 
+* #### Problem 87 (Easy) 
+* #### Problem 88 (Easy) [*MergeArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/88.MergeArray/README.md)
+* #### Problem 89 (Easy) 
+* #### Problem 90 (Easy) 
+
 ### LICENSE
 
 Apache License

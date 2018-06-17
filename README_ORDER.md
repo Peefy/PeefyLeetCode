@@ -34,7 +34,12 @@
 * #### Problem 67 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/67.AddBinary/README.md)
 
 * #### Problem 69 (Easy) [*MySqrt*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/69.MySqrt/README.md)
+
 * #### Problem 70 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/70.ClimbStairs/README.md)
+
+* #### Problem 80 (Easy) [*ListDeleteDuplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/80.ListDeleteDuplicates/README.md)
+
+* #### Problem 88 (Easy) [*MergeArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/88.MergeArray/README.md)
 
 ## Normal
 
