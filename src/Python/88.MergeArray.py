@@ -37,6 +37,5 @@ class Solution(object):
 if __name__ == '__main__':
     solution = Solution()
     print(solution.merge([1,2,3,4,0,0,0,0,0],4, [2,5,6], 3))
-
 else:
     pass

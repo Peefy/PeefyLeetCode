@@ -41,6 +41,8 @@
 
 * #### Problem 88 (Easy) [*MergeArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/88.MergeArray/README.md)
 
+* #### Problem 100 (Easy) [*IsSameTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/100.IsSameTree/README.md)
+
 ## Normal
 
 ## Hard
