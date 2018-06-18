@@ -45,6 +45,8 @@
 
 * #### Problem 101 (Easy) [*IsSymmetricTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101.IsSymmetricTree/README.md)
 
+* #### Problem 104 (Easy) [*TreeMaxDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/104.TreeMaxDepth/README.md)
+
 ## Normal
 
 ## Hard
