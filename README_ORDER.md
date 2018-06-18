@@ -43,6 +43,8 @@
 
 * #### Problem 100 (Easy) [*IsSameTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/100.IsSameTree/README.md)
 
+* #### Problem 101 (Easy) [*IsSymmetricTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101.IsSymmetricTree/README.md)
+
 ## Normal
 
 ## Hard
