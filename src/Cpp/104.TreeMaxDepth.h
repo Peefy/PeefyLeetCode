@@ -1,6 +1,6 @@
 
-#ifndef __CLIMB_STAIRS_H
-#define __CLIMB_STAIRS_H
+#ifndef __TREE_MAX_DEPTH_H
+#define __TREE_MAX_DEPTH_H
 
 #include <iostream>
 #include <vector>

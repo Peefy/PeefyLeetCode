@@ -1,6 +1,6 @@
 
-#ifndef __CLIMB_STAIRS_H
-#define __CLIMB_STAIRS_H
+#ifndef __SORTED_ARRAY_TO_BST_H
+#define __SORTED_ARRAY_TO_BST_H
 
 #include <iostream>
 #include <vector>

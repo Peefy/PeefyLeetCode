@@ -1,6 +1,6 @@
 
-#ifndef __CLIMB_STAIRS_H
-#define __CLIMB_STAIRS_H
+#ifndef __TREE_IS_BALANCED_H
+#define __TREE_IS_BALANCED_H
 
 #include <iostream>
 #include <vector>

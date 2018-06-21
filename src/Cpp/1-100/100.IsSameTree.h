@@ -1,6 +1,6 @@
 
-#ifndef __CLIMB_STAIRS_H
-#define __CLIMB_STAIRS_H
+#ifndef __IS_SAME_TREE_H
+#define __IS_SAME_TREE_H
 
 #include <iostream>
 #include <vector>

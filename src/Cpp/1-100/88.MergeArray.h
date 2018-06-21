@@ -1,6 +1,6 @@
 
-#ifndef __CLIMB_STAIRS_H
-#define __CLIMB_STAIRS_H
+#ifndef __MERGE_ARRAY_H
+#define __MERGE_ARRAY_H
 
 #include <iostream>
 #include <vector>

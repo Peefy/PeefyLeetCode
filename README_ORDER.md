@@ -51,6 +51,10 @@
 
 * #### Problem 108 (Easy) [*SortedArrayToBST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/108.SortedArrayToBST/README.md)
 
+* #### Problem 110 (Easy) [*TreeIsBalanced*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/110.TreeIsBalanced/README.md)
+
+* #### Problem 111 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/111.TreeMinDepth/README.md) 
+
 ## Normal
 
 ## Hard

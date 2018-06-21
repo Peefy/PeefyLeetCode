@@ -1,6 +1,6 @@
 
-#ifndef __CLIMB_STAIRS_H
-#define __CLIMB_STAIRS_H
+#ifndef __LIST_DELETE_DUPLICATES_H
+#define __LIST_DELETE_DUPLICATES_H
 
 #include <iostream>
 #include <vector>
