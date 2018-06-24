@@ -55,6 +55,8 @@
 
 * #### Problem 111 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/111.TreeMinDepth/README.md) 
 
+* #### Problem 112 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/112.TreeHasPathSum/README.md) 
+
 ## Normal
 
 ## Hard

@@ -171,7 +171,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 111 - Problem 120
 
 * #### Problem 111 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/111.TreeMinDepth/README.md) 
-* #### Problem 112 (Easy)
+* #### Problem 112 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/112.TreeHasPathSum/README.md) 
 * #### Problem 113 (Easy) 
 * #### Problem 114 (Easy) 
 * #### Problem 115 (Easy) 
