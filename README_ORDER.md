@@ -61,6 +61,8 @@
 
 * #### Problem 119 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/119.YangHuiTriangleII/README.md) 
 
+* #### Problem 121 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/121.MaxProfit/README.md) 
+
 ## Normal
 
 ## Hard
