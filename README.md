@@ -178,16 +178,16 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 116 (Easy) 
 * #### Problem 117 (Easy) 
 * #### Problem 118 (Easy) [*YangHuiTriangle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/118.YangHuiTriangle/README.md) 
-* #### Problem 119 (Easy) [*YangHuiTriangleII*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/119.YangHuiTriangleII/README.md) 
+* #### Problem 119 (Easy) [*YangHuiTriangle II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/119.YangHuiTriangleII/README.md) 
 * #### Problem 120 (Easy) 
 
 ## Problem 121 - Problem 130
 
 * #### Problem 121 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/121.MaxProfit/README.md) 
-* #### Problem 122 (Easy)
+* #### Problem 122 (Easy) [*MaxProfit II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/121.MaxProfitII/README.md) 
 * #### Problem 123 (Easy) 
 * #### Problem 124 (Easy) 
-* #### Problem 125 (Easy) 
+* #### Problem 125 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/125.StringIsPalindrome/README.md) 
 * #### Problem 126 (Easy) 
 * #### Problem 127 (Easy) 
 * #### Problem 128 (Easy) 

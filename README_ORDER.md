@@ -63,6 +63,10 @@
 
 * #### Problem 121 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/121.MaxProfit/README.md) 
 
+* #### Problem 122 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/121.MaxProfitII/README.md) 
+
+* #### Problem 125 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/125.StringIsPalindrome/README.md) 
+
 ## Normal
 
 ## Hard
