@@ -209,7 +209,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 141 - Problem 150
 
-* #### Problem 141 (Easy)
+* #### Problem 141 (Easy) [*141.ListHasCycle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/141.ListHasCycle/README.md) 
 * #### Problem 142 (Easy)
 * #### Problem 143 (Easy)
 * #### Problem 144 (Easy)

@@ -69,6 +69,8 @@
 
 * #### Problem 136 (Easy) [*SingleNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/136.SingleNumber/README.md) 
 
+* #### Problem 141 (Easy) [*141.ListHasCycle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/141.ListHasCycle/README.md) 
+
 ## Normal
 
 ## Hard
