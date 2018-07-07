@@ -231,7 +231,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 157 (Easy)
 * #### Problem 158 (Easy)
 * #### Problem 159 (Easy)
-* #### Problem 160 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/151.MinStack/README.md) 
+* #### Problem 160 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/160.GetIntersectionNode/README.md) 
 
 ## Problem 161 - Problem 170
 

@@ -73,6 +73,8 @@
 
 * #### Problem 151 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/151.MinStack/README.md) 
 
+* #### Problem 160 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/160.GetIntersectionNode/README.md) 
+
 ## Normal
 
 ## Hard
