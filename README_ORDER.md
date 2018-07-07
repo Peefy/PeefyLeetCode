@@ -71,6 +71,8 @@
 
 * #### Problem 141 (Easy) [*141.ListHasCycle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/141.ListHasCycle/README.md) 
 
+* #### Problem 151 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/151.MinStack/README.md) 
+
 ## Normal
 
 ## Hard
