@@ -241,7 +241,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 164 (Easy)
 * #### Problem 165 (Easy)
 * #### Problem 166 (Easy)
-* #### Problem 167 (Easy)
+* #### Problem 167 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/167.TwoSumII/README.md) 
 * #### Problem 168 (Easy)
 * #### Problem 169 (Easy)
 * #### Problem 170 (Easy)

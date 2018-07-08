@@ -7,7 +7,6 @@
 
 ```c++
 
-
 struct ListNode
 {
     int val;
