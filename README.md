@@ -243,12 +243,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 166 (Easy)
 * #### Problem 167 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/167.TwoSumII/README.md) 
 * #### Problem 168 (Easy) [*ConvertToExcelTitle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/168.ConvertToExcelTitle/README.md) 
-* #### Problem 169 (Easy) [*169.MajorityElement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/169.MajorityElement/README.md) 
+* #### Problem 169 (Easy) [*MajorityElement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/169.MajorityElement/README.md) 
 * #### Problem 170 (Easy)
 
 ## Problem 171 - Problem 180
 
-* #### Problem 171 (Easy)
+* #### Problem 171 (Easy) [*ExcelConvertToNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/171.ExcelConvertToNumber/README.md) 
 * #### Problem 172 (Easy)
 * #### Problem 173 (Easy)
 * #### Problem 174 (Easy)

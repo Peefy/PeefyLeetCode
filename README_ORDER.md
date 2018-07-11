@@ -79,8 +79,10 @@
 
 * Problem 169 (Easy) [*169.MajorityElement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/169.MajorityElement/README.md) 
 
+* Problem 171 (Easy) [*ExcelConvertToNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/171.ExcelConvertToNumber/README.md) 
+
 ## Normal
 
 ## Hard
 
-#### Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/4.MedianOfTwoSortedArrays/README.md)
+* Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/4.MedianOfTwoSortedArrays/README.md)

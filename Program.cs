@@ -10,10 +10,7 @@ namespace PeefyLeetCode
             var filename = "test.md";
             var i = 1;
             var j = 13;
-<<<<<<< HEAD
             
-=======
->>>>>>> 2ef726c448357e2f40c237d9c7baf95afe6421ae
             while (i <= 10)
             {
                 if (i == 1)

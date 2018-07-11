@@ -1,4 +1,6 @@
 
+using System;
+
 namespace PeefyLeetCode.MajorityElement {
     public class Solution {
         public int MajorityElement (int[] nums) {
