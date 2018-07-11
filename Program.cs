@@ -10,7 +10,10 @@ namespace PeefyLeetCode
             var filename = "test.md";
             var i = 1;
             var j = 13;
+<<<<<<< HEAD
             
+=======
+>>>>>>> 2ef726c448357e2f40c237d9c7baf95afe6421ae
             while (i <= 10)
             {
                 if (i == 1)
@@ -19,9 +22,8 @@ namespace PeefyLeetCode
                 }
                 if (i < 10)
                 {
-File.AppendAllText(filename, $"* #### Problem {j}{i} (Easy)\r\n");
+                    File.AppendAllText(filename, $"* #### Problem {j}{i} (Easy)\r\n");
                 }
-                
                 if (i == 10)
                 {
                     ++j;
@@ -33,7 +35,6 @@ File.AppendAllText(filename, $"* #### Problem {j}{i} (Easy)\r\n");
                 }
                 ++i;
             }
-
             Console.WriteLine("Hello World!");
         }
     }

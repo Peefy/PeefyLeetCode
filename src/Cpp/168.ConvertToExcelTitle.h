@@ -1,6 +1,6 @@
 
 #ifndef __CONVERT_TO_EXCEL_TITLE_H
-#define __TWO_SUM_II_H
+#define __CONVERT_TO_EXCEL_TITLE_H
 
 #include <iostream>
 #include <vector>

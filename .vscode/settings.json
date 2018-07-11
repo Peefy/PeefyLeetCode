@@ -42,5 +42,10 @@
         "xutility": "cpp",
         "stack": "cpp"
     },
+<<<<<<< HEAD
     "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.6/bin/python3"
+=======
+    "python.pythonPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+>>>>>>> 2ef726c448357e2f40c237d9c7baf95afe6421ae
 }
