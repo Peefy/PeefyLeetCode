@@ -81,6 +81,8 @@
 
 * Problem 171 (Easy) [*ExcelConvertToNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/171.ExcelConvertToNumber/README.md) 
 
+* Problem 172 (Easy) [*TrailingZeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/172.TrailingZeroes/README.md) 
+
 ## Normal
 
 ## Hard

@@ -249,7 +249,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 171 - Problem 180
 
 * #### Problem 171 (Easy) [*ExcelConvertToNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/171.ExcelConvertToNumber/README.md) 
-* #### Problem 172 (Easy)
+* #### Problem 172 (Easy) [*TrailingZeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/172.TrailingZeroes/README.md) 
 * #### Problem 173 (Easy)
 * #### Problem 174 (Easy)
 * #### Problem 175 (Easy)
