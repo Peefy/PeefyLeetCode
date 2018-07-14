@@ -8,3 +8,4 @@ f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.AssemblyInf
 f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.AssemblyInfo.cs
 f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.dll
 f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.pdb
+F:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.csprojAssemblyReference.cache
