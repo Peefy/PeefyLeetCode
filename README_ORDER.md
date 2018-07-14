@@ -77,7 +77,7 @@
 
 * Problem 167 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/167.TwoSumII/README.md) 
 
-* Problem 169 (Easy) [*169.MajorityElement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/169.MajorityElement/README.md) 
+* Problem 169 (Easy) [*MajorityElement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/169.MajorityElement/README.md) 
 
 * Problem 171 (Easy) [*ExcelConvertToNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/171.ExcelConvertToNumber/README.md) 
 
