@@ -83,6 +83,18 @@
 
 * Problem 172 (Easy) [*TrailingZeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/172.TrailingZeroes/README.md) 
 
+* Problem 175 (Easy) [*SqlCombineTwoTables*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/175.SqlCombineTwoTables/README.md) 
+
+* Problem 176 (Easy) [*SqlSecondHighestSalary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/176.SqlSecondHighestSalary/README.md) 
+
+* Problem 181 (Easy) [*SqlManagerMoreThanEmployee*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/181.SqlManagerMoreThanEmployee/README.md) 
+
+* Problem 182 (Easy) [*SqlDuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/182.SqlDuplicateEmail/README.md) 
+
+* Problem 183 (Easy) [*SqlCustomerNotOrder*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/183.SqlCustomerNotOrder/README.md) 
+
+* Problem 189 (Easy) [*RotateArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/189.RotateArray/README.md) 
+
 ## Normal
 
 ## Hard

@@ -252,8 +252,8 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 172 (Easy) [*TrailingZeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/172.TrailingZeroes/README.md) 
 * #### Problem 173 (Easy)
 * #### Problem 174 (Easy)
-* #### Problem 175 (Easy)
-* #### Problem 176 (Easy)
+* #### Problem 175 (Easy) [*SqlCombineTwoTables*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/175.SqlCombineTwoTables/README.md) 
+* #### Problem 176 (Easy) [*SqlSecondHighestSalary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/176.SqlSecondHighestSalary/README.md) 
 * #### Problem 177 (Easy)
 * #### Problem 178 (Easy)
 * #### Problem 179 (Easy)
@@ -261,15 +261,15 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 181 - Problem 190
 
-* #### Problem 181 (Easy)
-* #### Problem 182 (Easy)
-* #### Problem 183 (Easy)
+* #### Problem 181 (Easy) [*SqlManagerMoreThanEmployee*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/181.SqlManagerMoreThanEmployee/README.md) 
+* #### Problem 182 (Easy) [*SqlDuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/182.SqlDuplicateEmail/README.md) 
+* #### Problem 183 (Easy) [*SqlCustomerNotOrder*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/183.SqlCustomerNotOrder/README.md) 
 * #### Problem 184 (Easy)
 * #### Problem 185 (Easy)
 * #### Problem 186 (Easy)
 * #### Problem 187 (Easy)
 * #### Problem 188 (Easy)
-* #### Problem 189 (Easy)
+* #### Problem 189 (Easy) [*RotateArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/189.RotateArray/README.md) 
 * #### Problem 190 (Easy)
 
 ## Problem 191 - Problem 200
