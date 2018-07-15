@@ -23,93 +23,93 @@
 
 * Problem 28 (Easy) [*StrStr*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/28.StrStr/README.md)
 
-* Problem 35 (Easy) [*SearchInsert*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/35.SearchInsert/README.md)
+* Problem 35 (Easy) [*SearchInsert*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/35.SearchInsert/README.md)
 
-* Problem 38 (Easy) [*CountAndSay*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/38.CountAndSay/README.md)
+* Problem 38 (Easy) [*CountAndSay*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/38.CountAndSay/README.md)
 
-* Problem 53 (Easy) [*MaxSubArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/53.MaxSubArray/README.md)
+* Problem 53 (Easy) [*MaxSubArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/53.MaxSubArray/README.md)
 
-* Problem 66 (Easy) [*PlusOne*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/66.PlusOne/README.md)
+* Problem 66 (Easy) [*PlusOne*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/66.PlusOne/README.md)
 
-* Problem 67 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/67.AddBinary/README.md)
+* Problem 67 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/67.AddBinary/README.md)
 
-* Problem 69 (Easy) [*MySqrt*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/69.MySqrt/README.md)
+* Problem 69 (Easy) [*MySqrt*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/69.MySqrt/README.md)
 
-* Problem 70 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/70.ClimbStairs/README.md)
+* Problem 70 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/70.ClimbStairs/README.md)
 
-* Problem 80 (Easy) [*ListDeleteDuplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/80.ListDeleteDuplicates/README.md)
+* Problem 80 (Easy) [*ListDeleteDuplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/80.ListDeleteDuplicates/README.md)
 
-* Problem 88 (Easy) [*MergeArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/88.MergeArray/README.md)
+* Problem 88 (Easy) [*MergeArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/88.MergeArray/README.md)
 
-* Problem 100 (Easy) [*IsSameTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/100.IsSameTree/README.md)
+* Problem 100 (Easy) [*IsSameTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/100.IsSameTree/README.md)
 
-* Problem 101 (Easy) [*IsSymmetricTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101.IsSymmetricTree/README.md)
+* Problem 101 (Easy) [*IsSymmetricTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/101.IsSymmetricTree/README.md)
 
-* Problem 104 (Easy) [*TreeMaxDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/104.TreeMaxDepth/README.md)
+* Problem 104 (Easy) [*TreeMaxDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/104.TreeMaxDepth/README.md)
 
-* Problem 107 (Easy) [*TreeLevelOrderBottom*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/107.TreeLevelOrderBottom/README.md)
+* Problem 107 (Easy) [*TreeLevelOrderBottom*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/107.TreeLevelOrderBottom/README.md)
 
-* Problem 108 (Easy) [*SortedArrayToBST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/108.SortedArrayToBST/README.md)
+* Problem 108 (Easy) [*SortedArrayToBST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/108.SortedArrayToBST/README.md)
 
-* Problem 110 (Easy) [*TreeIsBalanced*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/110.TreeIsBalanced/README.md)
+* Problem 110 (Easy) [*TreeIsBalanced*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/110.TreeIsBalanced/README.md)
 
-* Problem 111 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/111.TreeMinDepth/README.md) 
+* Problem 111 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/111.TreeMinDepth/README.md) 
 
-* Problem 112 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/112.TreeHasPathSum/README.md) 
+* Problem 112 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/112.TreeHasPathSum/README.md) 
 
-* Problem 118 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/118.YangHuiTriangle/README.md) 
+* Problem 118 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/118.YangHuiTriangle/README.md) 
 
-* Problem 119 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/119.YangHuiTriangleII/README.md) 
+* Problem 119 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/119.YangHuiTriangleII/README.md) 
 
-* Problem 121 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/121.MaxProfit/README.md) 
+* Problem 121 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/121.MaxProfit/README.md) 
 
-* Problem 122 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/121.MaxProfitII/README.md) 
+* Problem 122 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/121.MaxProfitII/README.md) 
 
-* Problem 125 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/125.StringIsPalindrome/README.md) 
+* Problem 125 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/125.StringIsPalindrome/README.md) 
 
-* Problem 136 (Easy) [*SingleNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/136.SingleNumber/README.md) 
+* Problem 136 (Easy) [*SingleNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/136.SingleNumber/README.md) 
 
-* Problem 141 (Easy) [*141.ListHasCycle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/141.ListHasCycle/README.md) 
+* Problem 141 (Easy) [*141.ListHasCycle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/141.ListHasCycle/README.md) 
 
-* Problem 151 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/151.MinStack/README.md) 
+* Problem 151 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/151.MinStack/README.md) 
 
-* Problem 160 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/160.GetIntersectionNode/README.md) 
+* Problem 160 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/160.GetIntersectionNode/README.md) 
 
-* Problem 167 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/167.TwoSumII/README.md) 
+* Problem 167 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/167.TwoSumII/README.md) 
 
-* Problem 169 (Easy) [*MajorityElement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/169.MajorityElement/README.md) 
+* Problem 169 (Easy) [*MajorityElement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/169.MajorityElement/README.md) 
 
-* Problem 171 (Easy) [*ExcelConvertToNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/171.ExcelConvertToNumber/README.md) 
+* Problem 171 (Easy) [*ExcelConvertToNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/171.ExcelConvertToNumber/README.md) 
 
-* Problem 172 (Easy) [*TrailingZeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/172.TrailingZeroes/README.md) 
+* Problem 172 (Easy) [*TrailingZeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/172.TrailingZeroes/README.md) 
 
-* Problem 175 (Easy) [*SqlCombineTwoTables*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/175.SqlCombineTwoTables/README.md) 
+* Problem 175 (Easy) [*SqlCombineTwoTables*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/175.SqlCombineTwoTables/README.md) 
 
-* Problem 176 (Easy) [*SqlSecondHighestSalary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/176.SqlSecondHighestSalary/README.md) 
+* Problem 176 (Easy) [*SqlSecondHighestSalary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/176.SqlSecondHighestSalary/README.md) 
 
-* Problem 181 (Easy) [*SqlManagerMoreThanEmployee*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/181.SqlManagerMoreThanEmployee/README.md) 
+* Problem 181 (Easy) [*SqlManagerMoreThanEmployee*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/181.SqlManagerMoreThanEmployee/README.md) 
 
-* Problem 182 (Easy) [*SqlDuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/182.SqlDuplicateEmail/README.md) 
+* Problem 182 (Easy) [*SqlDuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/182.SqlDuplicateEmail/README.md) 
 
-* Problem 183 (Easy) [*SqlCustomerNotOrder*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/183.SqlCustomerNotOrder/README.md) 
+* Problem 183 (Easy) [*SqlCustomerNotOrder*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/183.SqlCustomerNotOrder/README.md) 
 
-* Problem 189 (Easy) [*RotateArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/189.RotateArray/README.md) 
+* Problem 189 (Easy) [*RotateArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/189.RotateArray/README.md) 
 
-* Problem 190 (Easy) [*IntReverseBits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/190.IntReverseBits/README.md) 
+* Problem 190 (Easy) [*IntReverseBits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/190.IntReverseBits/README.md) 
 
-* Problem 191 (Easy) [*IntHammingWeight*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/191.IntHammingWeight/README.md) 
+* Problem 191 (Easy) [*IntHammingWeight*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/191.IntHammingWeight/README.md) 
 
-* Problem 193 (Easy) [*ShellValidPhoneNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/193.ShellValidPhoneNumber/README.md) 
+* Problem 193 (Easy) [*ShellValidPhoneNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/193.ShellValidPhoneNumber/README.md) 
 
-* Problem 195 (Easy) [*ShellTenthLine*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/195.ShellTenthLine/README.md) 
+* Problem 195 (Easy) [*ShellTenthLine*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/195.ShellTenthLine/README.md) 
 
-* Problem 196 (Easy) [*SqlDeleteDuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/196.SqlDeleteDuplicateEmail/README.md) 
+* Problem 196 (Easy) [*SqlDeleteDuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/196.SqlDeleteDuplicateEmail/README.md) 
 
-* Problem 197 (Easy) [*SqlRisingTemperature*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/197.SqlRisingTemperature/README.md) 
+* Problem 197 (Easy) [*SqlRisingTemperature*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/197.SqlRisingTemperature/README.md) 
 
-* Problem 198 (Easy) [*Rob*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/198.Rob/README.md) 
+* Problem 198 (Easy) [*Rob*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/198.Rob/README.md) 
 
-* Problem 202 (Easy) [*IsHappyNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/202.IsHappyNumber/README.md) 
+* Problem 202 (Easy) [*IsHappyNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/202.IsHappyNumber/README.md) 
 
 ## Normal
 
