@@ -1,5 +1,5 @@
 
-# problem 189 RotateArray
+# problem 189 : RotateArray
 
 <img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/189.RotateArray/problem.png"/>
 
