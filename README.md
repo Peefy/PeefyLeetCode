@@ -276,12 +276,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 191 (Easy) [*IntHammingWeight*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/191.IntHammingWeight/README.md) 
 * #### Problem 192 (Easy)
-* #### Problem 193 (Easy)
+* #### Problem 193 (Easy) [*ShellValidPhoneNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/193.ShellValidPhoneNumber/README.md) 
 * #### Problem 194 (Easy)
-* #### Problem 195 (Easy)
-* #### Problem 196 (Easy)
-* #### Problem 197 (Easy)
-* #### Problem 198 (Easy)
+* #### Problem 195 (Easy) [*ShellTenthLine*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/195.ShellTenthLine/README.md) 
+* #### Problem 196 (Easy) [*SqlDeleteDuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/196.SqlDeleteDuplicateEmail/README.md) 
+* #### Problem 197 (Easy) [*SqlRisingTemperature*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/197.SqlRisingTemperature/README.md) 
+* #### Problem 198 (Easy) [*Rob*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/198.Rob/README.md) 
 * #### Problem 199 (Easy)
 * #### Problem 200 (Easy)
 
