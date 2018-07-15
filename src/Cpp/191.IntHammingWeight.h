@@ -1,6 +1,6 @@
 
-#ifndef __INT_REVERSE_BITS_H
-#define __INT_REVERSE_BITS_H
+#ifndef __INT_HAMMING_WEIGHT_H
+#define __INT_HAMMING_WEIGHT_H
 
 #include <iostream>
 #include <vector>
@@ -23,15 +23,14 @@ static int x = []() {
 
 class Solution {
 public:
-    uint32_t reverseBits(uint32_t n) {
-        uint32_t r = 0;
-        for (int i = 0; i < 32; i++) {
-            r <<= 1;
-            int bit = (((n)>>(i))&0x01);  
-            r |= bit;         
+    int hammingWeight(uint32_t n) {
+        int count = 0;
+        while (n > 0) {
+            if ((n & 1) == 1)
+                ++count;
+            n >>= 1;
         }
-        return r;
+        return count;
     }
 };
-
 #endif

@@ -95,6 +95,10 @@
 
 * Problem 189 (Easy) [*RotateArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/189.RotateArray/README.md) 
 
+* Problem 190 (Easy) [*IntReverseBits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/190.IntReverseBits/README.md) 
+
+* Problem 191 (Easy) [*IntHammingWeight*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/191.IntHammingWeight/README.md) 
+
 ## Normal
 
 ## Hard

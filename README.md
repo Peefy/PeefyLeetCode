@@ -270,11 +270,11 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 187 (Easy)
 * #### Problem 188 (Easy)
 * #### Problem 189 (Easy) [*RotateArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/189.RotateArray/README.md) 
-* #### Problem 190 (Easy)[*IntReverseBits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/190.IntReverseBits/README.md) 
+* #### Problem 190 (Easy) [*IntReverseBits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/190.IntReverseBits/README.md) 
 
 ## Problem 191 - Problem 200
 
-* #### Problem 191 (Easy)
+* #### Problem 191 (Easy) [*IntHammingWeight*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/191.IntHammingWeight/README.md) 
 * #### Problem 192 (Easy)
 * #### Problem 193 (Easy)
 * #### Problem 194 (Easy)
