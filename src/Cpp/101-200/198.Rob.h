@@ -1,6 +1,6 @@
 
-#ifndef __INT_REVERSE_BITS_H
-#define __INT_REVERSE_BITS_H
+#ifndef __ROB_H
+#define __ROB_H
 
 #include <iostream>
 #include <vector>
