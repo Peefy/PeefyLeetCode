@@ -8,9 +8,6 @@
 
 ```c++
 
-<<<<<<< HEAD
-
-=======
 struct ListNode
 {
     int val;
@@ -36,7 +33,6 @@ public:
         return head->next;
     }
 };
->>>>>>> a6fb335398eb30a7c63b502e5fd9204b7dc405fe
 
 ```
 
