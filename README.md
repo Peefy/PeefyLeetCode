@@ -289,8 +289,8 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 201 (Easy)
 * #### Problem 202 (Easy) [*IsHappyNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/202.IsHappyNumber/README.md) 
-* #### Problem 203 (Easy) [*ListRemoveElements *](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/203.ListRemoveElements /README.md) 
-* #### Problem 204 (Easy)
+* #### Problem 203 (Easy) [*ListRemoveElements*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/203.ListRemoveElements/README.md) 
+* #### Problem 204 (Easy) [*CountPrimes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/204.CountPrimes/README.md) 
 * #### Problem 205 (Easy)
 * #### Problem 206 (Easy)
 * #### Problem 207 (Easy)
