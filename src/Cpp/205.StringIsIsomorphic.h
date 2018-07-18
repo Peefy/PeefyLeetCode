@@ -1,4 +1,4 @@
-
+ 
 #ifndef __STRING_IS_ISOMORPHIC_H
 #define __STRING_IS_ISOMORPHIC_H
 
