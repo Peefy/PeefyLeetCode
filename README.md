@@ -306,9 +306,9 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 214 (Easy)
 * #### Problem 215 (Easy)
 * #### Problem 216 (Easy)
-* #### Problem 217 (Easy)
+* #### Problem 217 (Easy) [*ContainsDuplicate *](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/217.ContainsDuplicate /README.md)
 * #### Problem 218 (Easy)
-* #### Problem 219 (Easy)
+* #### Problem 219 (Easy) [*ContainsNearbyDuplicate*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/219.ContainsNearbyDuplicate/README.md)
 * #### Problem 220 (Easy)
 
 ## Problem 221 - Problem 230
@@ -317,7 +317,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 222 (Easy)
 * #### Problem 223 (Easy)
 * #### Problem 224 (Easy)
-* #### Problem 225 (Easy)
+* #### Problem 225 (Easy) [*StackUsingQueue *](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/225.StackUsingQueue /README.md)
 * #### Problem 226 (Easy)
 * #### Problem 227 (Easy)
 * #### Problem 228 (Easy)

@@ -119,6 +119,12 @@
 
 * Problem 206 (Easy) [*ReverseList*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/206.ReverseList/README.md)
 
+* Problem 217 (Easy) [*ContainsDuplicate*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/217.ContainsDuplicate /README.md)
+
+* Problem 219 (Easy) [*ContainsNearbyDuplicate*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/219.ContainsNearbyDuplicate/README.md)
+
+* Problem 225 (Easy) [*StackUsingQueue*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/225.StackUsingQueue/README.md)
+
 ## Normal
 
 ## Hard
