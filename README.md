@@ -317,8 +317,8 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 222 (Easy)
 * #### Problem 223 (Easy)
 * #### Problem 224 (Easy)
-* #### Problem 225 (Easy) [*StackUsingQueue *](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/225.StackUsingQueue /README.md)
-* #### Problem 226 (Easy)
+* #### Problem 225 (Easy) [*StackUsingQueue*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/225.StackUsingQueue/README.md)
+* #### Problem 226 (Easy) [*InvertTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/226.InvertTree/README.md)
 * #### Problem 227 (Easy)
 * #### Problem 228 (Easy)
 * #### Problem 229 (Easy)
@@ -326,7 +326,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 231 - Problem 240
 
-* #### Problem 231 (Easy)
+* #### Problem 231 (Easy) [*IsPowerOfTwo*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/231.IsPowerOfTwo/README.md)
 * #### Problem 232 (Easy)
 * #### Problem 233 (Easy)
 * #### Problem 234 (Easy)

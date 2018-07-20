@@ -125,6 +125,8 @@
 
 * Problem 225 (Easy) [*StackUsingQueue*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/225.StackUsingQueue/README.md)
 
+* Problem 226 (Easy) [*InvertTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/226.InvertTree/README.md)
+
 ## Normal
 
 ## Hard
