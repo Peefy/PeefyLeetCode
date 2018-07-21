@@ -327,9 +327,9 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 231 - Problem 240
 
 * #### Problem 231 (Easy) [*IsPowerOfTwo*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/231.IsPowerOfTwo/README.md)
-* #### Problem 232 (Easy)
+* #### Problem 232 (Easy) [*QuueUsingStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/232.QuueUsingStack/README.md)
 * #### Problem 233 (Easy)
-* #### Problem 234 (Easy)
+* #### Problem 234 (Easy) [*ListIsPalindrome *](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/234.ListIsPalindrome /README.md)
 * #### Problem 235 (Easy)
 * #### Problem 236 (Easy)
 * #### Problem 237 (Easy)

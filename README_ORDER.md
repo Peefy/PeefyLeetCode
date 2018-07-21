@@ -127,6 +127,12 @@
 
 * Problem 226 (Easy) [*InvertTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/226.InvertTree/README.md)
 
+* Problem 231 (Easy) [*IsPowerOfTwo*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/231.IsPowerOfTwo/README.md)
+
+* Problem 232 (Easy) [*QuueUsingStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/232.QuueUsingStack/README.md)
+
+* Problem 234 (Easy) [*ListIsPalindrome *](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/234.ListIsPalindrome /README.md)
+
 ## Normal
 
 ## Hard
