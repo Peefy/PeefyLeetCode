@@ -1,3 +1,5 @@
+using System;
+
 namespace PeefyLeetCode.CountPrimes {
     public class Solution {
         public int CountPrimes (int n) {
