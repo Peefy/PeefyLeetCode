@@ -1,6 +1,6 @@
 
-#ifndef __REVERSE_LIST_H
-#define __REVERSE_LIST_H
+#ifndef __LIST_IS_PALINDROME_H
+#define __LIST_IS_PALINDROME_H
 
 #include <iostream>
 #include <vector>
