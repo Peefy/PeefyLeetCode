@@ -1,7 +1,7 @@
 
-# problem 151 : MinStack
+# problem 155 : MinStack
 
-<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/151.MinStack/problem.png"/>
+<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/155.MinStack/problem.png"/>
 
 ## C++ Solution
 

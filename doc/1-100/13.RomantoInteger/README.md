@@ -3,8 +3,6 @@
 
 <img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/13.RomantoInteger/problem.png"/>
 
-<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/13.RomantoInteger/problem1.png"/>
-
 ## C++ Solution
 
 ```c++

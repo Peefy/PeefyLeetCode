@@ -1,7 +1,7 @@
 
-# problem 80 : ListDeleteDuplicates
+# problem 83 : ListDeleteDuplicates
 
-<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/80.ListDeleteDuplicates/problem.png"/>
+<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/83.ListDeleteDuplicates/problem.png"/>
 
 ## C++ Solution
 

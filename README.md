@@ -126,14 +126,14 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 77 (Easy) 
 * #### Problem 78 (Easy) 
 * #### Problem 79 (Easy) 
-* #### Problem 80 (Easy) [*ListDeleteDuplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/80.ListDeleteDuplicates/README.md)
+* #### Problem 80 (Easy)
 
 
 ## Problem 81 - Problem 90
 
 * #### Problem 81 (Easy)
 * #### Problem 82 (Easy)
-* #### Problem 83 (Easy) 
+* #### Problem 83 (Easy) [*ListDeleteDuplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/83.ListDeleteDuplicates/README.md) 
 * #### Problem 84 (Easy)
 * #### Problem 85 (Easy) 
 * #### Problem 86 (Easy) 
@@ -222,11 +222,11 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 151 - Problem 160
 
-* #### Problem 151 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/151.MinStack/README.md) 
+* #### Problem 151 (Easy)
 * #### Problem 152 (Easy)
 * #### Problem 153 (Easy)
 * #### Problem 154 (Easy)
-* #### Problem 155 (Easy)
+* #### Problem 155 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/155.MinStack/README.md) 
 * #### Problem 156 (Easy)
 * #### Problem 157 (Easy)
 * #### Problem 158 (Easy)

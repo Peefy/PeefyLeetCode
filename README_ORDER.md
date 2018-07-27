@@ -37,7 +37,7 @@
 
 * Problem 70 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/70.ClimbStairs/README.md)
 
-* Problem 80 (Easy) [*ListDeleteDuplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/80.ListDeleteDuplicates/README.md)
+* Problem 83 (Easy) [*ListDeleteDuplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/83.ListDeleteDuplicates/README.md)
 
 * Problem 88 (Easy) [*MergeArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/88.MergeArray/README.md)
 
@@ -71,7 +71,7 @@
 
 * Problem 141 (Easy) [*141.ListHasCycle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/141.ListHasCycle/README.md) 
 
-* Problem 151 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/151.MinStack/README.md) 
+* Problem 155 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/155.MinStack/README.md) 
 
 * Problem 160 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/160.GetIntersectionNode/README.md) 
 
