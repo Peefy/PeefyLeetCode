@@ -340,7 +340,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 241 - Problem 250
 
 * #### Problem 241 (Easy)
-* #### Problem 242 (Easy)
+* #### Problem 242 (Easy) [*StringIsAnagram*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/242.StringIsAnagram/README.md)
 * #### Problem 243 (Easy)
 * #### Problem 244 (Easy)
 * #### Problem 245 (Easy)
@@ -358,8 +358,8 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 254 (Easy)
 * #### Problem 255 (Easy)
 * #### Problem 256 (Easy)
-* #### Problem 257 (Easy)
-* #### Problem 258 (Easy)
+* #### Problem 257 (Easy) [*BinaryTreePaths*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/257.BinaryTreePaths/README.md)
+* #### Problem 258 (Easy) [*NumberAddDigits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/258.NumberAddDigits/README.md)
 * #### Problem 259 (Easy)
 * #### Problem 260 (Easy)
 
@@ -367,7 +367,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 261 (Easy)
 * #### Problem 262 (Easy)
-* #### Problem 263 (Easy)
+* #### Problem 263 (Easy) [*IsUglyNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/263.IsUglyNumber/README.md)
 * #### Problem 264 (Easy)
 * #### Problem 265 (Easy)
 * #### Problem 266 (Easy)

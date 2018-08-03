@@ -137,6 +137,12 @@
 
 * Problem 237 (Easy) [*ListDeleteNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/237.ListDeleteNode/README.md)
 
+* Problem 242 (Easy) [*StringIsAnagram*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/242.StringIsAnagram/README.md)
+
+* Problem 257 (Easy) [*BinaryTreePaths*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/257.BinaryTreePaths/README.md)
+
+* Problem 258 (Easy) [*NumberAddDigits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/258.NumberAddDigits/README.md)
+
 ## Normal
 
 ## Hard
