@@ -69,10 +69,10 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 32 (Easy)
 * #### Problem 33 (Easy)
 * #### Problem 34 (Easy)
-* #### Problem 35 (Easy) [*SearchInsert*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/35.SearchInsert/README.md)
+* #### Problem 35 (Easy) [*Search Insert*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/35.SearchInsert/README.md)
 * #### Problem 36 (Easy)
 * #### Problem 37 (Easy)
-* #### Problem 38 (Easy) [*CountAndSay*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/38.CountAndSay/README.md)
+* #### Problem 38 (Easy) [*Count And Say*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/38.CountAndSay/README.md)
 * #### Problem 39 (Easy)
 * #### Problem 40 (Easy)
 
@@ -93,12 +93,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 51 (Easy)
 * #### Problem 52 (Easy)
-* #### Problem 53 (Easy) [*MaxSubArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/53.MaxSubArray/README.md)
+* #### Problem 53 (Easy) [*Max Sub Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/53.MaxSubArray/README.md)
 * #### Problem 54 (Easy)
 * #### Problem 55 (Easy) 
 * #### Problem 56 (Easy) 
 * #### Problem 57 (Easy) 
-* #### Problem 58 (Easy) [*LengthOfLastWord*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/58.LengthOfLastWord/README.md)
+* #### Problem 58 (Easy) [*Length Of Last Word*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/58.LengthOfLastWord/README.md)
 * #### Problem 59 (Easy)
 * #### Problem 60 (Easy)
 
@@ -109,11 +109,11 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 63 (Easy) 
 * #### Problem 64 (Easy)
 * #### Problem 65 (Easy) 
-* #### Problem 66 (Easy) [*PlusOne*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/66.PlusOne/README.md)
-* #### Problem 67 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/67.AddBinary/README.md)
+* #### Problem 66 (Easy) [*Plus One*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/66.PlusOne/README.md)
+* #### Problem 67 (Easy) [*Add Binary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/67.AddBinary/README.md)
 * #### Problem 68 (Easy) 
-* #### Problem 69 (Easy) [*MySqrt*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/69.MySqrt/README.md)
-* #### Problem 70 (Easy) [*AddBinary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/70.ClimbStairs/README.md)
+* #### Problem 69 (Easy) [*My Sqrt*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/69.MySqrt/README.md)
+* #### Problem 70 (Easy) [*Add Binary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/70.ClimbStairs/README.md)
 
 ## Problem 71 - Problem 80
 
@@ -133,12 +133,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 81 (Easy)
 * #### Problem 82 (Easy)
-* #### Problem 83 (Easy) [*ListDeleteDuplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/83.ListDeleteDuplicates/README.md) 
+* #### Problem 83 (Easy) [*List Delete Duplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/83.ListDeleteDuplicates/README.md) 
 * #### Problem 84 (Easy)
 * #### Problem 85 (Easy) 
 * #### Problem 86 (Easy) 
 * #### Problem 87 (Easy) 
-* #### Problem 88 (Easy) [*MergeArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/88.MergeArray/README.md)
+* #### Problem 88 (Easy) [*Merge Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/88.MergeArray/README.md)
 * #### Problem 89 (Easy) 
 * #### Problem 90 (Easy) 
 
@@ -153,41 +153,41 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 97 (Easy) 
 * #### Problem 98 (Easy) 
 * #### Problem 99 (Easy) 
-* #### Problem 100 (Easy) [*IsSameTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/100.IsSameTree/README.md)
+* #### Problem 100 (Easy) [*Is Same Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/100.IsSameTree/README.md)
 
 ## Problem 101 - Problem 110
 
-* #### Problem 101 (Easy) [*IsSymmetricTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/101.IsSymmetricTree/README.md)
+* #### Problem 101 (Easy) [*Is Symmetric Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/101.IsSymmetricTree/README.md)
 * #### Problem 102 (Easy)
 * #### Problem 103 (Easy) 
-* #### Problem 104 (Easy) [*TreeMaxDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/104.TreeMaxDepth/README.md)
+* #### Problem 104 (Easy) [*Tree Max Depth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/104.TreeMaxDepth/README.md)
 * #### Problem 105 (Easy) 
 * #### Problem 106 (Easy) 
-* #### Problem 107 (Easy) [*TreeLevelOrderBottom*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/107.TreeLevelOrderBottom/README.md)
-* #### Problem 108 (Easy) [*SortedArrayToBST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/108.SortedArrayToBST/README.md)
+* #### Problem 107 (Easy) [*TreeLevel Order Bottom*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/107.TreeLevelOrderBottom/README.md)
+* #### Problem 108 (Easy) [*Sorted Array To BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/108.SortedArrayToBST/README.md)
 * #### Problem 109 (Easy) 
-* #### Problem 110 (Easy) [*TreeIsBalanced*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/110.TreeIsBalanced/README.md)
+* #### Problem 110 (Easy) [*Tree Is Balanced*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/110.TreeIsBalanced/README.md)
 
 ## Problem 111 - Problem 120
 
-* #### Problem 111 (Easy) [*TreeMinDepth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/111.TreeMinDepth/README.md) 
-* #### Problem 112 (Easy) [*TreeHasPathSum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/112.TreeHasPathSum/README.md) 
+* #### Problem 111 (Easy) [*Tree Min Depth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/111.TreeMinDepth/README.md) 
+* #### Problem 112 (Easy) [*Tree Has Path Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/112.TreeHasPathSum/README.md) 
 * #### Problem 113 (Easy) 
 * #### Problem 114 (Easy) 
 * #### Problem 115 (Easy) 
 * #### Problem 116 (Easy) 
 * #### Problem 117 (Easy) 
-* #### Problem 118 (Easy) [*YangHuiTriangle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/118.YangHuiTriangle/README.md) 
-* #### Problem 119 (Easy) [*YangHuiTriangle II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/119.YangHuiTriangleII/README.md) 
+* #### Problem 118 (Easy) [*YangHui Triangle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/118.YangHuiTriangle/README.md) 
+* #### Problem 119 (Easy) [*YangHui Triangle II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/119.YangHuiTriangleII/README.md) 
 * #### Problem 120 (Easy) 
 
 ## Problem 121 - Problem 130
 
-* #### Problem 121 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/121.MaxProfit/README.md) 
-* #### Problem 122 (Easy) [*MaxProfit II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/121.MaxProfitII/README.md) 
+* #### Problem 121 (Easy) [*Max Profit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/121.MaxProfit/README.md) 
+* #### Problem 122 (Easy) [*Max Profit II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/121.MaxProfitII/README.md) 
 * #### Problem 123 (Easy) 
 * #### Problem 124 (Easy) 
-* #### Problem 125 (Easy) [*MaxProfit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/125.StringIsPalindrome/README.md) 
+* #### Problem 125 (Easy) [*String Is Palindrome*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/125.StringIsPalindrome/README.md) 
 * #### Problem 126 (Easy) 
 * #### Problem 127 (Easy) 
 * #### Problem 128 (Easy) 
@@ -201,7 +201,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 133 (Easy)
 * #### Problem 134 (Easy)
 * #### Problem 135 (Easy)
-* #### Problem 136 (Easy) [*SingleNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/136.SingleNumber/README.md) 
+* #### Problem 136 (Easy) [*Single Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/136.SingleNumber/README.md) 
 * #### Problem 137 (Easy)
 * #### Problem 138 (Easy)
 * #### Problem 139 (Easy)
@@ -209,7 +209,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 141 - Problem 150
 
-* #### Problem 141 (Easy) [*ListHasCycle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/141.ListHasCycle/README.md) 
+* #### Problem 141 (Easy) [*List Has Cycle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/141.ListHasCycle/README.md) 
 * #### Problem 142 (Easy)
 * #### Problem 143 (Easy)
 * #### Problem 144 (Easy)
@@ -226,12 +226,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 152 (Easy)
 * #### Problem 153 (Easy)
 * #### Problem 154 (Easy)
-* #### Problem 155 (Easy) [*MinStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/155.MinStack/README.md) 
+* #### Problem 155 (Easy) [*Min Stack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/155.MinStack/README.md) 
 * #### Problem 156 (Easy)
 * #### Problem 157 (Easy)
 * #### Problem 158 (Easy)
 * #### Problem 159 (Easy)
-* #### Problem 160 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/160.GetIntersectionNode/README.md) 
+* #### Problem 160 (Easy) [*Get Intersection Node*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/160.GetIntersectionNode/README.md) 
 
 ## Problem 161 - Problem 170
 
@@ -241,19 +241,19 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 164 (Easy)
 * #### Problem 165 (Easy)
 * #### Problem 166 (Easy)
-* #### Problem 167 (Easy) [*GetIntersectionNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/167.TwoSumII/README.md) 
-* #### Problem 168 (Easy) [*ConvertToExcelTitle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/168.ConvertToExcelTitle/README.md) 
-* #### Problem 169 (Easy) [*MajorityElement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/169.MajorityElement/README.md) 
+* #### Problem 167 (Easy) [*Get Intersection Node*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/167.TwoSumII/README.md) 
+* #### Problem 168 (Easy) [*Convert To Excel Title*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/168.ConvertToExcelTitle/README.md) 
+* #### Problem 169 (Easy) [*Majority Element*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/169.MajorityElement/README.md) 
 * #### Problem 170 (Easy)
 
 ## Problem 171 - Problem 180
 
-* #### Problem 171 (Easy) [*ExcelConvertToNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/171.ExcelConvertToNumber/README.md) 
-* #### Problem 172 (Easy) [*TrailingZeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/172.TrailingZeroes/README.md) 
+* #### Problem 171 (Easy) [*Excel Convert To Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/171.ExcelConvertToNumber/README.md) 
+* #### Problem 172 (Easy) [*Trailing Zeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/172.TrailingZeroes/README.md) 
 * #### Problem 173 (Easy)
 * #### Problem 174 (Easy)
-* #### Problem 175 (Easy) [*SqlCombineTwoTables*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/175.SqlCombineTwoTables/README.md) 
-* #### Problem 176 (Easy) [*SqlSecondHighestSalary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/176.SqlSecondHighestSalary/README.md) 
+* #### Problem 175 (Easy) [*Sql Combine Two Tables*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/175.SqlCombineTwoTables/README.md) 
+* #### Problem 176 (Easy) [*Sql Second Highest Salary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/176.SqlSecondHighestSalary/README.md) 
 * #### Problem 177 (Easy)
 * #### Problem 178 (Easy)
 * #### Problem 179 (Easy)
@@ -261,26 +261,26 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 181 - Problem 190
 
-* #### Problem 181 (Easy) [*SqlManagerMoreThanEmployee*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/181.SqlManagerMoreThanEmployee/README.md) 
-* #### Problem 182 (Easy) [*SqlDuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/182.SqlDuplicateEmail/README.md) 
-* #### Problem 183 (Easy) [*SqlCustomerNotOrder*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/183.SqlCustomerNotOrder/README.md) 
+* #### Problem 181 (Easy) [*Sql Manager More Than Employee*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/181.SqlManagerMoreThanEmployee/README.md) 
+* #### Problem 182 (Easy) [*Sql Duplicate Email*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/182.SqlDuplicateEmail/README.md) 
+* #### Problem 183 (Easy) [*Sql Customer Not Order*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/183.SqlCustomerNotOrder/README.md) 
 * #### Problem 184 (Easy)
 * #### Problem 185 (Easy)
 * #### Problem 186 (Easy)
 * #### Problem 187 (Easy)
 * #### Problem 188 (Easy)
-* #### Problem 189 (Easy) [*RotateArray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/189.RotateArray/README.md) 
-* #### Problem 190 (Easy) [*IntReverseBits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/190.IntReverseBits/README.md) 
+* #### Problem 189 (Easy) [*Rotate Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/189.RotateArray/README.md) 
+* #### Problem 190 (Easy) [*Int Reverse Bits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/190.IntReverseBits/README.md) 
 
 ## Problem 191 - Problem 200
 
-* #### Problem 191 (Easy) [*IntHammingWeight*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/191.IntHammingWeight/README.md) 
+* #### Problem 191 (Easy) [*Int Hamming Weight*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/191.IntHammingWeight/README.md) 
 * #### Problem 192 (Easy)
-* #### Problem 193 (Easy) [*ShellValidPhoneNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/193.ShellValidPhoneNumber/README.md) 
+* #### Problem 193 (Easy) [*Shell Valid PhoneNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/193.ShellValidPhoneNumber/README.md) 
 * #### Problem 194 (Easy)
-* #### Problem 195 (Easy) [*ShellTenthLine*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/195.ShellTenthLine/README.md) 
-* #### Problem 196 (Easy) [*SqlDeleteDuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/196.SqlDeleteDuplicateEmail/README.md) 
-* #### Problem 197 (Easy) [*SqlRisingTemperature*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/197.SqlRisingTemperature/README.md) 
+* #### Problem 195 (Easy) [*Shell Tenth Line*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/195.ShellTenthLine/README.md) 
+* #### Problem 196 (Easy) [*Sql Delete DuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/196.SqlDeleteDuplicateEmail/README.md) 
+* #### Problem 197 (Easy) [*Sql Rising Temperature*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/197.SqlRisingTemperature/README.md) 
 * #### Problem 198 (Easy) [*Rob*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/198.Rob/README.md) 
 * #### Problem 199 (Easy)
 * #### Problem 200 (Easy)
@@ -288,11 +288,11 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 201 - Problem 210
 
 * #### Problem 201 (Easy)
-* #### Problem 202 (Easy) [*IsHappyNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/202.IsHappyNumber/README.md) 
-* #### Problem 203 (Easy) [*ListRemoveElements*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/203.ListRemoveElements/README.md) 
-* #### Problem 204 (Easy) [*CountPrimes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/204.CountPrimes/README.md) 
-* #### Problem 205 (Easy) [*StringIsIsomorphic*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/205.StringIsIsomorphic/README.md) 
-* #### Problem 206 (Easy) [*ReverseList*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/206.ReverseList/README.md)
+* #### Problem 202 (Easy) [*Is Happy Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/202.IsHappyNumber/README.md) 
+* #### Problem 203 (Easy) [*List Remove Elements*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/203.ListRemoveElements/README.md) 
+* #### Problem 204 (Easy) [*Count Primes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/204.CountPrimes/README.md) 
+* #### Problem 205 (Easy) [*String Is Isomorphic*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/205.StringIsIsomorphic/README.md) 
+* #### Problem 206 (Easy) [*Reverse List*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/206.ReverseList/README.md)
 * #### Problem 207 (Easy)
 * #### Problem 208 (Easy)
 * #### Problem 209 (Easy)
@@ -306,9 +306,9 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 214 (Easy)
 * #### Problem 215 (Easy)
 * #### Problem 216 (Easy)
-* #### Problem 217 (Easy) [*ContainsDuplicate*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/217.ContainsDuplicate/README.md)
+* #### Problem 217 (Easy) [*Contains Duplicate*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/217.ContainsDuplicate/README.md)
 * #### Problem 218 (Easy)
-* #### Problem 219 (Easy) [*ContainsNearbyDuplicate*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/219.ContainsNearbyDuplicate/README.md)
+* #### Problem 219 (Easy) [*Contains Nearby Duplicate*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/219.ContainsNearbyDuplicate/README.md)
 * #### Problem 220 (Easy)
 
 ## Problem 221 - Problem 230
@@ -317,7 +317,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 222 (Easy)
 * #### Problem 223 (Easy)
 * #### Problem 224 (Easy)
-* #### Problem 225 (Easy) [*StackUsingQueue*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/225.StackUsingQueue/README.md)
+* #### Problem 225 (Easy) [*Stack Using Queue*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/225.StackUsingQueue/README.md)
 * #### Problem 226 (Easy) [*InvertTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/226.InvertTree/README.md)
 * #### Problem 227 (Easy)
 * #### Problem 228 (Easy)
@@ -326,13 +326,13 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 231 - Problem 240
 
-* #### Problem 231 (Easy) [*IsPowerOfTwo*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/231.IsPowerOfTwo/README.md)
-* #### Problem 232 (Easy) [*QuueUsingStack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/232.QuueUsingStack/README.md)
+* #### Problem 231 (Easy) [*Is Power Of Two*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/231.IsPowerOfTwo/README.md)
+* #### Problem 232 (Easy) [*Queue Using Stack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/232.QueueUsingStack/README.md)
 * #### Problem 233 (Easy)
-* #### Problem 234 (Easy) [*ListIsPalindrome*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/234.ListIsPalindrome/README.md)
-* #### Problem 235 (Easy) [*TreeLowestCommonAncestor*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/235.TreeLowestCommonAncestor/README.md)
+* #### Problem 234 (Easy) [*List Is Palindrome*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/234.ListIsPalindrome/README.md)
+* #### Problem 235 (Easy) [*Tree Lowest Common Ancestor*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/235.TreeLowestCommonAncestor/README.md)
 * #### Problem 236 (Easy)
-* #### Problem 237 (Easy) [*ListDeleteNode*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/237.ListDeleteNode/README.md)
+* #### Problem 237 (Easy) [*List Delete Node*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/237.ListDeleteNode/README.md)
 * #### Problem 238 (Easy)
 * #### Problem 239 (Easy)
 * #### Problem 240 (Easy)
@@ -340,7 +340,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 241 - Problem 250
 
 * #### Problem 241 (Easy)
-* #### Problem 242 (Easy) [*StringIsAnagram*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/242.StringIsAnagram/README.md)
+* #### Problem 242 (Easy) [*String Is Anagram*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/242.StringIsAnagram/README.md)
 * #### Problem 243 (Easy)
 * #### Problem 244 (Easy)
 * #### Problem 245 (Easy)
@@ -358,8 +358,8 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 254 (Easy)
 * #### Problem 255 (Easy)
 * #### Problem 256 (Easy)
-* #### Problem 257 (Easy) [*BinaryTreePaths*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/257.BinaryTreePaths/README.md)
-* #### Problem 258 (Easy) [*NumberAddDigits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/258.NumberAddDigits/README.md)
+* #### Problem 257 (Easy) [*Binary Tree Paths*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/257.BinaryTreePaths/README.md)
+* #### Problem 258 (Easy) [*Number Add Digits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/258.NumberAddDigits/README.md)
 * #### Problem 259 (Easy)
 * #### Problem 260 (Easy)
 
@@ -367,12 +367,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 261 (Easy)
 * #### Problem 262 (Easy)
-* #### Problem 263 (Easy) [*IsUglyNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/263.IsUglyNumber/README.md)
+* #### Problem 263 (Easy) [*Is Ugly Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/263.IsUglyNumber/README.md)
 * #### Problem 264 (Easy)
 * #### Problem 265 (Easy)
 * #### Problem 266 (Easy)
 * #### Problem 267 (Easy)
-* #### Problem 268 (Easy)
+* #### Problem 268 (Easy) [*Miss Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/268.MissNumber/README.md)
 * #### Problem 269 (Easy)
 * #### Problem 270 (Easy)
 

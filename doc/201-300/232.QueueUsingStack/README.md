@@ -1,7 +1,7 @@
 
-# problem 232 : QuueUsingStack
+# problem 232 : QueueUsingStack
 
-<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/232.QuueUsingStack/problem.png"/>
+<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/232.QueueUsingStack/problem.png"/>
 
 ## C++ Solution
 
