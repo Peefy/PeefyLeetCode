@@ -1,4 +1,4 @@
-namespace PeefyLeetCode.ListRemoveElements
+namespace PeefyLeetCode.ListDeleteNode
 {
 
     public class ListNode
