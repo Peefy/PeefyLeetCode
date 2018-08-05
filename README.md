@@ -385,7 +385,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 275 (Easy)
 * #### Problem 276 (Easy)
 * #### Problem 277 (Easy)
-* #### Problem 278 (Easy)
+* #### Problem 278 (Easy) [*First Bad Version*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/278.FirstBadVersion/README.md)
 * #### Problem 279 (Easy)
 * #### Problem 280 (Easy)
 
@@ -393,19 +393,19 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 281 (Easy)
 * #### Problem 282 (Easy)
-* #### Problem 283 (Easy)
+* #### Problem 283 (Easy) [*Move Zeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/283.MoveZeroes/README.md)
 * #### Problem 284 (Easy)
 * #### Problem 285 (Easy)
 * #### Problem 286 (Easy)
 * #### Problem 287 (Easy)
 * #### Problem 288 (Easy)
 * #### Problem 289 (Easy)
-* #### Problem 290 (Easy)
+* #### Problem 290 (Easy) [*Word Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/290.WordPattern/README.md)
 
 ## Problem 291 - Problem 300
 
 * #### Problem 291 (Easy)
-* #### Problem 292 (Easy)
+* #### Problem 292 (Easy) [*Word Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/292.CanWinNim/README.md)
 * #### Problem 293 (Easy)
 * #### Problem 294 (Easy)
 * #### Problem 295 (Easy)

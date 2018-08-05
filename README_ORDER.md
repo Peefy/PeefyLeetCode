@@ -145,6 +145,14 @@
 
 * Problem 268 (Easy) [*Miss Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/268.MissNumber/README.md)
 
+* Problem 278 (Easy) [*First Bad Version*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/278.FirstBadVersion/README.md)
+
+* Problem 283 (Easy) [*Move Zeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/283.MoveZeroes/README.md)
+
+* Problem 290 (Easy) [*Word Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/290.WordPattern/README.md)
+
+* Problem 292 (Easy) [*Word Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/292.CanWinNim/README.md)
+
 ## Normal
 
 ## Hard
