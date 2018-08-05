@@ -7,7 +7,19 @@
 
 ```c++
 
-
+class Solution {
+public:
+    int addDigits(int num) {
+        int r = 0;      
+        while (num > 0) {
+            r += num % 10;
+            num /= 10;
+        }
+        if (r >= 10)
+            return addDigits(r);
+        return r;
+    }
+};
 
 ```
 
@@ -15,7 +27,13 @@
 
 ```csharp
 
- 
+public class Solution {
+    public int AddDigits(int num) {
+        if (num == 0)
+            return 0;
+        return 1 + (num - 1) % 9;
+    }
+}
 
 ```
 
@@ -23,7 +41,13 @@
 
 ```java
 
-
+class Solution {
+    public int addDigits(int num) {
+        if (num == 0)
+            return 0;
+        return 1 + (num - 1) % 9;
+    }
+}
 
 ```
 
@@ -31,7 +55,13 @@
 
 ```python
 
-
+class Solution:
+    def addDigits(self, num):
+        """
+        :type num: int
+        :rtype: int
+        """
+        return 1 + (num - 1) % 9
 
 ```
 
