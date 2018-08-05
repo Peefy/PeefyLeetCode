@@ -7,6 +7,16 @@
 
 ```c++
 
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int xor = 0 ;
+        for(int i = 0; i<nums.size(); i++){
+            xor = xor ^ i ^ nums[i];
+        }
+        return xor ^ nums.size();
+    }
+};
 
 ```
 
@@ -14,7 +24,14 @@
 
 ```csharp
 
+using System;
+using System.Linq;
 
+public class Solution {
+    public int MissingNumber(int[] nums) {
+        return nums.Length * (nums.Length + 1) / 2 - nums.Sum();
+    }
+}
 
 ```
 
@@ -22,6 +39,16 @@
 
 ```java
 
+class Solution {
+    public int missingNumber(int[] nums) {
+        int xor = 0 ;
+        for(int i = 0; i<nums.length; i++){
+            xor = xor ^ i ^ nums[i];
+        }
+        
+        return xor ^ nums.length;
+    }
+}
 
 
 ```
@@ -30,7 +57,16 @@
 
 ```python
 
-
+class Solution:
+    def missingNumber(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        n = len(nums)
+        total = sum(nums)
+        real = n * (n + 1) // 2
+        return real - total
 
 ```
 

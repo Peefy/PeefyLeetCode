@@ -1,29 +1,17 @@
 
 class Solution:
-    def isUgly(self, num):
+    def missingNumber(self, nums):
         """
-        :type num: int
-        :rtype: bool
+        :type nums: List[int]
+        :rtype: int
         """
-        if num <= 0:
-            return False
-        while num % 2 == 0:
-            num = num // 2
-        while num % 3 == 0:
-            num = num // 3
-        while num % 5 == 0:
-            num = num // 5
-        if num == 1:
-            return True
-        return False
+        n = len(nums)
+        total = sum(nums)
+        real = n * (n + 1) // 2
+        return real - total
 
 if __name__ == '__main__':
     solution = Solution()
-    print(solution.isUgly(1));
-    print(solution.isUgly(2));
-    print(solution.isUgly(8));
-    print(solution.isUgly(12));
-    print(solution.isUgly(14));
-    print(solution.isUgly(123));
+    print(solution.missingNumber([3, 0, 1]));
 else:
     pass
