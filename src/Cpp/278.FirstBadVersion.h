@@ -1,6 +1,6 @@
  
-#ifndef __MISSING_NUMBER_H
-#define __MISSING_NUMBER_H
+#ifndef __FIRST_BAD_VERSION_H
+#define __FIRST_BAD_VERSION_H
 
 #include <iostream>
 #include <vector>
@@ -24,18 +24,18 @@ bool isBadVersion(int version);
 
 class Solution {
 public:
-    int firstBadVersion(int n) {
-        int left = 1;
-        int right = n;
-        while (left <= right) {
-            int middle = (left + right) / 2;
-            if (isBadVersion(middle) == true) {
-                right = middle - 1;
-            } else {
-                left = middle + 1;
+    void moveZeroes(vector<int>& nums) {
+        int j = 0;
+        int n = nums.size();
+        for(int i = 0; i < n; i++)
+        {
+            if (nums[i] != 0){
+                int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
+                ++j;
             }
-        }
-        return left;
+        }   
     }
 };
 
