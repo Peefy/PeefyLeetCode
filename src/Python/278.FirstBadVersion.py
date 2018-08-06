@@ -1,29 +1,27 @@
 
-class Solution:
-    def isUgly(self, num):
-        """
-        :type num: int
-        :rtype: bool
-        """
-        if num <= 0:
-            return False
-        while num % 2 == 0:
-            num = num // 2
-        while num % 3 == 0:
-            num = num // 3
-        while num % 5 == 0:
-            num = num // 5
-        if num == 1:
-            return True
+def isBadVersion(version):
+    if version <= 5:
         return False
+    return True
+
+class Solution:
+    def firstBadVersion(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        left = 1
+        right = n
+        while left <= right:
+            middle = (left + right) // 2
+            if isBadVersion(middle) == True:
+                right = middle - 1
+            else:
+                left = middle + 1
+        return left
 
 if __name__ == '__main__':
     solution = Solution()
-    print(solution.isUgly(1));
-    print(solution.isUgly(2));
-    print(solution.isUgly(8));
-    print(solution.isUgly(12));
-    print(solution.isUgly(14));
-    print(solution.isUgly(123));
+    print(solution.firstBadVersion(7));
 else:
     pass
