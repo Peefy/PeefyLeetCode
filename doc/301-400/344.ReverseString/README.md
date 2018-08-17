@@ -6,7 +6,13 @@
 ## C++ Solution
 
 ```c++
-
+class Solution {
+public:
+    string reverseString(string s) {      
+        reverse(s.begin(),s.end());
+        return s;
+    }
+};
 
 ```
 
@@ -14,6 +20,11 @@
 
 ```csharp
 
+public class Solution {
+    public string ReverseString(string s) {
+        return new string(s.Reverse().ToArray());
+    }
+}
 
 ```
 
@@ -21,7 +32,18 @@
 
 ```java
 
-
+class Solution {
+    public String reverseString(String s) {
+        char[] chars = s.toCharArray();
+        int n = chars.length;
+        for (int i = 0; i < n / 2; i++) {
+            char tmp = chars[i];  
+            chars[i] = chars[n - i - 1];
+            chars[n - i - 1] = tmp;
+        }
+        return new String(chars);
+    }
+}
 
 ```
 
@@ -29,7 +51,13 @@
 
 ```python
 
-
+class Solution:
+    def reverseString(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        return s[::-1]
 
 ```
 
