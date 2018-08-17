@@ -153,6 +153,12 @@
 
 * Problem 292 (Easy) [*Word Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/292.CanWinNim/README.md)
 
+* Problem 303 (Easy) [*Range Sum Query - Immutable*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/303.RangeSumQueryImmutable/README.md)
+
+* Problem 326 (Easy) [*Is Power Of Three*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/326.IsPowerOfThree/README.md)
+
+* Problem 342 (Easy) [*Is Power Of Four*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/342.IsPowerOfFour/README.md)
+
 ## Normal
 
 ## Hard

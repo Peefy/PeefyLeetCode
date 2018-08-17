@@ -419,7 +419,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 301 (Easy)
 * #### Problem 302 (Easy)
-* #### Problem 303 (Easy)
+* #### Problem 303 (Easy) [*Range Sum Query - Immutable*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/303.RangeSumQueryImmutable/README.md)
 * #### Problem 304 (Easy)
 * #### Problem 305 (Easy)
 * #### Problem 306 (Easy)
@@ -448,7 +448,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 323 (Easy)
 * #### Problem 324 (Easy)
 * #### Problem 325 (Easy)
-* #### Problem 326 (Easy)
+* #### Problem 326 (Easy) [*Is Power Of Three*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/326.IsPowerOfThree/README.md)
 * #### Problem 327 (Easy)
 * #### Problem 328 (Easy)
 * #### Problem 329 (Easy)
@@ -470,7 +470,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 341 - Problem 350
 
 * #### Problem 341 (Easy)
-* #### Problem 342 (Easy)
+* #### Problem 342 (Easy) [*Is Power Of Four*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/342.IsPowerOfFour/README.md)
 * #### Problem 343 (Easy)
 * #### Problem 344 (Easy)
 * #### Problem 345 (Easy)

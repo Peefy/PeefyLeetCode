@@ -664,29 +664,28 @@
     ]
   },
   "packageFolders": {
-    "/Users/dugu/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Developer/CodeLanuage/PeefyLeetCode/PeefyLeetCode.csproj",
+      "projectUniqueName": "f:\\_CodeLanguage\\PeefyLeetCode\\PeefyLeetCode.csproj",
       "projectName": "PeefyLeetCode",
-      "projectPath": "/Developer/CodeLanuage/PeefyLeetCode/PeefyLeetCode.csproj",
-      "packagesPath": "/Users/dugu/.nuget/packages/",
-      "outputPath": "/Developer/CodeLanuage/PeefyLeetCode/obj/",
+      "projectPath": "f:\\_CodeLanguage\\PeefyLeetCode\\PeefyLeetCode.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "f:\\_CodeLanguage\\PeefyLeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/dugu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "/Users/dugu/.dotnet/NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

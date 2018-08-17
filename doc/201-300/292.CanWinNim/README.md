@@ -7,7 +7,12 @@
 
 ```c++
 
-
+class Solution {
+public:
+    bool canWinNim(int n) {
+        return n % 4 == 0
+    }
+};
 
 ```
 
@@ -15,7 +20,11 @@
 
 ```csharp
 
-
+public class Solution {
+    public bool CanWinNim(int n) {
+        return n % 4 == 0;
+    }
+}
 
 ```
 
@@ -23,7 +32,11 @@
 
 ```java
 
-
+class Solution {
+    public boolean canWinNim(int n) {
+        return n % 4 == 0; 
+    }
+}
 
 ```
 
@@ -31,7 +44,13 @@
 
 ```python
 
-
+class Solution:
+    def canWinNim(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        return n % 4 != 0
 
 ```
 
