@@ -159,6 +159,8 @@
 
 * Problem 342 (Easy) [*Is Power Of Four*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/342.IsPowerOfFour/README.md)
 
+* Problem 344 (Easy) [*Reverse String*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/344.ReverseString/README.md)
+
 ## Normal
 
 ## Hard
