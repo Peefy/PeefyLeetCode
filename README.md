@@ -473,12 +473,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 342 (Easy) [*Is Power Of Four*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/342.IsPowerOfFour/README.md)
 * #### Problem 343 (Easy)
 * #### Problem 344 (Easy) [*Reverse String*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/344.ReverseString/README.md)
-* #### Problem 345 (Easy)
+* #### Problem 345 (Easy) [*Reverse Vowels String*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/345.ReverseVowelsString/README.md)
 * #### Problem 346 (Easy)
 * #### Problem 347 (Easy)
 * #### Problem 348 (Easy)
-* #### Problem 349 (Easy)
-* #### Problem 350 (Easy)
+* #### Problem 349 (Easy) [*Intersection Of Two Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/349.IntersectionOfTwoArrays/README.md)
+* #### Problem 350 (Easy) [*Intersection Of Two Arrays II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/350.IntersectionOfTwoArraysII/README.md)
 
 ## Problem 351 - Problem 360
 
@@ -501,17 +501,17 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 364 (Easy)
 * #### Problem 365 (Easy)
 * #### Problem 366 (Easy)
-* #### Problem 367 (Easy)
+* #### Problem 367 (Easy) [*Valid Perfect Square*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/367.ValidPerfectSquare/README.md)
 * #### Problem 368 (Easy)
 * #### Problem 369 (Easy)
 * #### Problem 370 (Easy)
 
 ## Problem 371 - Problem 380
 
-* #### Problem 371 (Easy)
+* #### Problem 371 (Easy) [*Sum Of Two Integers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/371.SumOfTwoIntegers/README.md)
 * #### Problem 372 (Easy)
 * #### Problem 373 (Easy)
-* #### Problem 374 (Easy)
+* #### Problem 374 (Easy) [*Guess Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/374.GuessNumber/README.md)
 * #### Problem 375 (Easy)
 * #### Problem 376 (Easy)
 * #### Problem 377 (Easy)
@@ -523,13 +523,13 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 381 (Easy)
 * #### Problem 382 (Easy)
-* #### Problem 383 (Easy)
+* #### Problem 383 (Easy) [*Ransom Note*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/383.RansomNote/README.md)
 * #### Problem 384 (Easy)
 * #### Problem 385 (Easy)
 * #### Problem 386 (Easy)
-* #### Problem 387 (Easy)
+* #### Problem 387 (Easy) [*First Uniq Char*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/387.FirstUniqChar/README.md)
 * #### Problem 388 (Easy)
-* #### Problem 389 (Easy)
+* #### Problem 389 (Easy) [*Find The Difference*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/389.FindTheDifference/README.md)
 * #### Problem 390 (Easy)
 
 ## Problem 391 - Problem 400
@@ -543,7 +543,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 397 (Easy)
 * #### Problem 398 (Easy)
 * #### Problem 399 (Easy)
-* #### Problem 400 (Easy)
+* #### Problem 400 (Easy) [*Find Nth Digit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/400.FindNthDigit/README.md)
 
 ## Problem 401 - Problem 410
 

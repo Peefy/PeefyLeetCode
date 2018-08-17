@@ -161,6 +161,26 @@
 
 * Problem 344 (Easy) [*Reverse String*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/344.ReverseString/README.md)
 
+* Problem 345 (Easy) [*Reverse Vowels String*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/345.ReverseVowelsString/README.md)
+
+* Problem 349 (Easy) [*Intersection Of Two Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/349.IntersectionOfTwoArrays/README.md)
+
+* Problem 350 (Easy) [*Intersection Of Two Arrays II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/350.IntersectionOfTwoArraysII/README.md)
+
+* Problem 367 (Easy) [*Valid Perfect Square*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/367.ValidPerfectSquare/README.md)
+
+* Problem 371 (Easy) [*Sum Of Two Integers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/371.SumOfTwoIntegers/README.md)
+
+* Problem 374 (Easy) [*Guess Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/374.GuessNumber/README.md)
+
+* Problem 383 (Easy) [*Ransom Note*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/383.RansomNote/README.md)
+
+* Problem 387 (Easy) [*First Uniq Char*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/387.FirstUniqChar/README.md)
+
+* Problem 389 (Easy) [*Find The Difference*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/389.FindTheDifference/README.md)
+
+* Problem 400 (Easy) [*Find Nth Digit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/400.FindNthDigit/README.md)
+
 ## Normal
 
 ## Hard
