@@ -1,6 +1,6 @@
  
-#ifndef __IS_POWER_OF_FOUR_H
-#define __IS_POWER_OF_FOUR_H
+#ifndef __REVERSE_STRING_H
+#define __REVERSE_STRING_H
 
 #include <iostream>
 #include <vector>
