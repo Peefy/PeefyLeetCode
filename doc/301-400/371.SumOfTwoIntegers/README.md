@@ -7,6 +7,18 @@
 
 ```c++
 
+class Solution {
+public:
+    int getSum(int a, int b) {
+        int carry = 0;
+        while (b!=0){
+            carry=a&b;
+            a=a^b;
+            b=carry<<1;
+        }
+        return a;
+    }
+};
 
 ```
 
@@ -14,6 +26,17 @@
 
 ```csharp
 
+public class Solution {
+    public int GetSum(int a, int b) {
+        int carry = 0;
+        while (b!=0){
+            carry=a&b;
+            a=a^b;
+            b=carry<<1;
+        }
+        return a;
+    }
+}
 
 ```
 
@@ -21,6 +44,17 @@
 
 ```java
 
+class Solution {
+    public int getSum(int a, int b) {
+                int carry = 0;
+        while (b!=0){
+            carry=a&b;
+            a=a^b;
+            b=carry<<1;
+        }
+        return a;
+    }
+}
 
 ```
 
@@ -28,7 +62,19 @@
 
 ```python
 
-
+class Solution:
+    def getSum(self, a, b):
+        """
+        :type a: int
+        :type b: int
+        :rtype: int
+        """
+        while b != 0:
+            carry = a & b
+            a = (a ^ b) % 0x100000000 # 转换为32位
+            b = (carry << 1) % 0x100000000 # 转换为32位
+        # 取反加1求补码
+        return a if a <= 0x7FFFFFFF else a | (~0x100000000+1)
 
 ```
 
