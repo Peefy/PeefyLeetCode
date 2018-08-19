@@ -3,9 +3,12 @@ using System.Collections.Generic;
 
 namespace PeefyLeetCode.GuessNumber
 {
-    public abstract class GuessGame
+    public class GuessGame
     {
-        public virtual int Guess(int num);
+        public int Guess(int num)
+        {
+            return 1;
+        }
     }
 public class Solution : GuessGame {
     public int GuessNumber(int n) {

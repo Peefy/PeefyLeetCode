@@ -9,3 +9,14 @@ f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.AssemblyInf
 f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.dll
 f:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.pdb
 F:\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.csprojAssemblyReference.cache
+e:\xpf\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.csprojAssemblyReference.cache
+e:\xpf\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.csproj.CoreCompileInputs.cache
+e:\xpf\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.AssemblyInfoInputs.cache
+e:\xpf\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.AssemblyInfo.cs
+e:\xpf\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.dll
+e:\xpf\_CodeLanguage\PeefyLeetCode\obj\Debug\netcoreapp2.0\PeefyLeetCode.pdb
+e:\xpf\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.deps.json
+e:\xpf\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.runtimeconfig.json
+e:\xpf\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.runtimeconfig.dev.json
+e:\xpf\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.dll
+e:\xpf\_CodeLanguage\PeefyLeetCode\bin\Debug\netcoreapp2.0\PeefyLeetCode.pdb
