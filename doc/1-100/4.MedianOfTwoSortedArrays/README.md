@@ -1,7 +1,7 @@
 
 # Problem 4 : Median of Two Sorted Arrays
 
-<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays.png"/>
+<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/.problem.png"/>
 
 ## C++ Solution
 
