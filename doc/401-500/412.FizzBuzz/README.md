@@ -1,7 +1,7 @@
 
-# problem 401 : BinaryWatch
+# problem 412 : FizzBuzz
 
-<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/401.BinaryWatch/problem.png"/>
+<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/412.FizzBuzz/problem.png"/>
 
 ## C++ Solution
 
@@ -22,7 +22,6 @@
 ## Java Solution
 
 ```java
-
 
 
 

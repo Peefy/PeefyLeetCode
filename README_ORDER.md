@@ -181,6 +181,22 @@
 
 * Problem 400 (Easy) [*Find Nth Digit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/400.FindNthDigit/README.md)
 
+* Problem 401 (Easy) [*Binary Watch*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/401.BinaryWatch/README.md)
+
+* Problem 404 (Easy) [*Tree Sum Of Left Leaves*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/404.TreeSumOfLeftLeaves/README.md)
+
+* Problem 405 (Easy) [*Number To Hex*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/405.NumberToHex/README.md)
+
+* Problem 409 (Easy) [*Longest Palindrome*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/409.LongestPalindrome/README.md)
+
+* Problem 412 (Easy) [*Fizz Buzz*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/412.FizzBuzz/README.md)
+
+* Problem 414 (Easy) [*Third Maximum Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/414.ThirdMaximumNumber/README.md)
+
+* Problem 415 (Easy) [*Add Strings*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/415.AddStrings/README.md)
+
+* Problem 427 (Easy) [*Construct Quad Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/427.ConstructQuadTree/README.md)
+
 ## Normal
 
 ## Hard
