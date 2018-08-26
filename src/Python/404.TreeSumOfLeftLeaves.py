@@ -11,7 +11,12 @@ class Solution:
         :type root: TreeNode
         :rtype: int
         """
-        pass
+        if root is None:
+            return 0
+        sum = 0
+        if root.left is not None and root.left.left is None and root.left.right is None:
+            sum = root.left.val
+        return sum + self.sumOfLeftLeaves(root.left) + self.sumOfLeftLeaves(root.right)
    
 if __name__ == '__main__':
     solution = Solution()
