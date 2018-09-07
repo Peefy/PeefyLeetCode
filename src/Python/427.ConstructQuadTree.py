@@ -13,11 +13,6 @@ class Solution:
             if grid[top][left] == 1:
                 return Node(True, True, None, None, None, None)
             return Node(False, True, None, None, None, None)
-        if width == 2:
-            if grid[top][left] == 1 and grid[top + 1][left] == 1 and grid[top][left + 1] == 1 and grid[top + 1][left + 1] == 1:
-                return Node(True, True, None, None, None, None)
-            if grid[top][left] == 0 and grid[top + 1][left] == 0 and grid[top][left + 1] == 0 and grid[top + 1][left + 1] == 0:
-                return Node(False, True, None, None, None, None)
         half_width = width // 2
         grid_1 = left, top, half_width
         grid_2 = left + half_width, top, half_width
@@ -31,9 +26,12 @@ class Solution:
         if topleft.val == True and topright.val == True and bottomleft.val == True and bottomright.val == True:
             node.val = True
             node.isLeaf = True
+            return node
         if topleft.val == False and topright.val == False and bottomleft.val == False and bottomright.val == False:
             node.val = False
             node.isLeaf = True
+            return node
+        node.val = "*"
         node.topLeft = topleft
         node.topRight = topright
         node.bottomLeft = bottomleft
@@ -46,9 +44,7 @@ class Solution:
         :type grid: List[List[int]]
         :rtype: Node
         """
-        width = len(grid)
-        root = self.construct_div(grid, 0, 0, width)
-        return root
+        return self.construct_div(grid, 0, 0, len(grid))
 
 if __name__ == '__main__':
     solution = Solution()
