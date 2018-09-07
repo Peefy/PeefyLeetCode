@@ -1,6 +1,6 @@
 
-#ifndef __LONGEST_PALINDROME_H
-#define __LONGEST_PALINDROME_H
+#ifndef __ADD_STRINGS_H
+#define __ADD_STRINGS_H
 
 #include <iostream>
 #include <vector>

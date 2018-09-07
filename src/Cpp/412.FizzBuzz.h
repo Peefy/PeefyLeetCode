@@ -1,6 +1,6 @@
 
-#ifndef __LONGEST_PALINDROME_H
-#define __LONGEST_PALINDROME_H
+#ifndef __FIZZ_BUZZ_H
+#define __FIZZ_BUZZ_H
 
 #include <iostream>
 #include <vector>

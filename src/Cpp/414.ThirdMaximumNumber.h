@@ -1,6 +1,6 @@
 
-#ifndef __LONGEST_PALINDROME_H
-#define __LONGEST_PALINDROME_H
+#ifndef __THIRD_MAX_NUMBER_H
+#define __THIRD_MAX_NUMBER_H
 
 #include <iostream>
 #include <vector>
