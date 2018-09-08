@@ -197,6 +197,16 @@
 
 * Problem 427 (Easy) [*Construct Quad Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/427.ConstructQuadTree/README.md)
 
+* Problem 429 (Easy) [*Tree Level Order*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/429.TreeLevelOrder/README.md)
+
+* Problem 434 (Easy) [*String Count Segments*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/434.StringCountSegments/README.md)
+
+* Problem 437 (Easy) [*Path Sum III*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/437.PathSumIII/README.md)
+
+* Problem 438 (Easy) [*String Find Anagrams*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/438.StringFindAnagrams/README.md)
+
+* Problem 441 (Easy) [*Arranging Coins*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/441.ArrangingCoins/README.md)
+
 ## Normal
 
 ## Hard
