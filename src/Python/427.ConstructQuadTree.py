@@ -10,9 +10,7 @@ class Node:
 class Solution:
     def construct_div(self, grid, left, top, width):
         if width == 1:
-            if grid[top][left] == 1:
-                return Node(True, True, None, None, None, None)
-            return Node(False, True, None, None, None, None)
+            return Node(grid[top][left] == 1, True, None, None, None, None)
         half_width = width // 2
         grid_1 = left, top, half_width
         grid_2 = left + half_width, top, half_width

@@ -8,12 +8,174 @@
 ## C++ Solution
 
 ```c++
+class ExNode : public Node {
+public:
+    bool isRand;
+    ExNode(bool _isrand) : Node(){
+        isRand = _isrand;
+    }
+    ExNode(){
+        isRand = false;
+    }
+};
 
-def construct_div(self, grid, left, top, width):
+class Solution {
+public:
+    ExNode* constuct_node(vector<vector<int> >& grid, int left, int top, int width){
+        if (width == 1){
+            ExNode* node = new ExNode(false);
+            node->isLeaf = true;
+            node->val = grid[top][left] == 1;
+            return node;           
+        }
+        auto half_width = width / 2;
+        auto topleft = this->constuct_node(grid, left, top, half_width);
+        auto topright = this->constuct_node(grid, left + half_width, top, half_width);
+        auto bottomleft = this->constuct_node(grid, left, top + half_width, half_width);
+        auto bottomright = this->constuct_node(grid, left + half_width, top + half_width, half_width);
+        auto node = new ExNode(false);
+        if (topleft->val == true && topright->val == true 
+            && bottomleft->val == true && bottomright->val == true && 
+             topleft->isRand == false && topright->isRand == false && bottomleft->isRand == false && bottomright->isRand == false){
+                node->val = true;
+                node->isLeaf = true;
+                return node;
+        }
+        if (topleft->val == false && topright->val == false 
+            && bottomleft->val == false && bottomright->val == false){
+                node->val = false;
+                node->isLeaf = true;
+                return node;
+        }
+        node->isRand = true;
+        node->val = true;
+        node->topLeft = topleft;
+        node->topRight = topright;
+        node->bottomLeft = bottomleft;
+        node->bottomRight = bottomright;
+        node->isLeaf = false;
+        return node;
+    }
+
+    Node* construct(vector<vector<int> >& grid) {
+        return this->constuct_node(grid, 0, 0, grid.size());
+    }
+};
+
+```
+
+## C# Solution
+
+```csharp
+
+public class ExtendNode : Node{
+    public bool isRand;
+    public ExtendNode(bool _isRand){
+        isRand = _isRand;
+    }
+}
+public class Solution {
+        public ExtendNode constructNode(int[][] grid, int left, int top, int width){
+        if (width == 1) {
+            var exnode = new ExtendNode(false);
+            exnode.val = grid[top][left] == 1;
+            exnode.isLeaf = true;
+            return exnode;
+        }
+        int half_width = width / 2;
+        ExtendNode topleft = constructNode(grid, left, top, half_width);
+        ExtendNode topright = constructNode(grid, left + half_width, top, half_width);
+        ExtendNode bottomleft = constructNode(grid, left, top + half_width, half_width);
+        ExtendNode bottomright = constructNode(grid, left + half_width, top + half_width, half_width);
+        ExtendNode node = new ExtendNode(false);
+        if (topleft.val == true && topright.val == true && bottomleft.val == true && bottomright.val == true 
+            && topleft.isRand == false && topright.isRand == false && bottomleft.isRand == false && bottomright.isRand == false){
+            node.val = true;
+            node.isLeaf = true;
+            return node;
+        }
+        if (topleft.val == false && topright.val == false && bottomleft.val == false && bottomright.val == false){
+            node.val = false;
+            node.isLeaf = true;
+            return node;
+        }
+        node.isRand = true;
+        node.val = true;
+        node.topLeft = topleft;
+        node.topRight = topright;
+        node.bottomLeft = bottomleft;
+        node.bottomRight = bottomright;
+        node.isLeaf = false;
+        return node;
+    }
+    public Node Construct(int[][] grid) {
+        return constructNode(grid, 0, 0, grid.Length);
+    }
+}
+
+```
+
+## Java Solution
+
+```java
+
+class ExtendNode extends Node{
+    public boolean isRand;
+    public ExtendNode(boolean _isRand){
+        isRand = _isRand;
+    }
+}
+
+class Solution {
+    public ExtendNode constructNode(int[][] grid, int left, int top, int width){
+        if (width == 1) {
+            ExtendNode node = new ExtendNode(false);
+            node.val = grid[top][left] == 1;
+            node.isLeaf = true;
+            return node;
+        }
+        int half_width = width / 2;
+        ExtendNode topleft = constructNode(grid, left, top, half_width);
+        ExtendNode topright = constructNode(grid, left + half_width, top, half_width);
+        ExtendNode bottomleft = constructNode(grid, left, top + half_width, half_width);
+        ExtendNode bottomright = constructNode(grid, left + half_width, top + half_width, half_width);
+        ExtendNode node = new ExtendNode(false);
+        if (topleft.val == true && topright.val == true && bottomleft.val == true && bottomright.val == true 
+            && topleft.isRand == false && topright.isRand == false && bottomleft.isRand == false && bottomright.isRand == false){
+            node.val = true;
+            node.isLeaf = true;
+            return node;
+        }
+        if (topleft.val == false && topright.val == false && bottomleft.val == false && bottomright.val == false){
+            node.val = false;
+            node.isLeaf = true;
+            return node;
+        }
+        node.isRand = true;
+        node.val = true;
+        node.topLeft = topleft;
+        node.topRight = topright;
+        node.bottomLeft = bottomleft;
+        node.bottomRight = bottomright;
+        node.isLeaf = false;
+        return node;
+    }
+
+    public Node construct(int[][] grid) {
+        return constructNode(grid, 0, 0, grid.length);
+    }
+}
+
+```
+
+## Python Solution
+
+```python
+
+class Solution:
+    def construct_div(self, grid, left, top, width):
         if width == 1:
-            if grid[top][left] == 1:
-                return Node(True, True, None, None, None, None)
-            return Node(False, True, None, None, None, None)
+            return Node(grid[top][left] == 1, True, None, None, None, None)
         half_width = width // 2
         grid_1 = left, top, half_width
         grid_2 = left + half_width, top, half_width
@@ -46,30 +208,6 @@ def construct_div(self, grid, left, top, width):
         :rtype: Node
         """
         return self.construct_div(grid, 0, 0, len(grid))
-
-```
-
-## C# Solution
-
-```csharp
-
-
-
-```
-
-## Java Solution
-
-```java
-
-
-
-```
-
-## Python Solution
-
-```python
-
-
 
 ```
 

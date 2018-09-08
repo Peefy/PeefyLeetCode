@@ -44,9 +44,9 @@ public:
 
 class ExNode : public Node {
 public:
-    bool isrand;
+    bool isRand;
     ExNode(bool _isrand) : Node(){
-        isrand = _isrand;
+        isRand = _isrand;
     }
 };
 
@@ -67,20 +67,19 @@ public:
         auto node = new ExNode(false);
         if (topleft->val == true && topright->val == true 
             && bottomleft->val == true && bottomright->val == true && 
-            topleft->isrand == false){
+             topleft->isRand == false && topright->isRand == false && bottomleft->isRand == false && bottomright->isRand == false){
                 node->val = true;
                 node->isLeaf = true;
                 return node;
         }
         if (topleft->val == false && topright->val == false 
-            && bottomleft->val == false && bottomright->val == false && 
-            topleft->isrand == false){
+            && bottomleft->val == false && bottomright->val == false){
                 node->val = false;
                 node->isLeaf = true;
                 return node;
         }
-        node->isrand = true;
-        node->val = NULL;
+        node->isRand = true;
+        node->val = true;
         node->topLeft = topleft;
         node->topRight = topright;
         node->bottomLeft = bottomleft;
