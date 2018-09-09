@@ -1,6 +1,6 @@
 
-#ifndef __ADD_STRINGS_H
-#define __ADD_STRINGS_H
+#ifndef __CONSTRACT_QUAD_TREE_H
+#define __CONSTRACT_QUAD_TREE_H
 
 #include <iostream>
 #include <vector>
