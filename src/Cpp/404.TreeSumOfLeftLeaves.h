@@ -1,6 +1,6 @@
 
 #ifndef __TREE_SUM_OF_LEFT_LEAVES_H
-#define __TREE_LOWEST_COMMON_ANCESTOR_H
+#define __TREE_SUM_OF_LEFT_LEAVES_H
 
 #include <iostream>
 #include <vector>
