@@ -207,6 +207,40 @@
 
 * Problem 441 (Easy) [*Arranging Coins*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/441.ArrangingCoins/README.md)
 
+* Problem 443 (Easy) [*String Compression*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/443.StringCompression/README.md)
+
+* Problem 447 (Easy) [*Number Of Boomerangs*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/447.NumberOfBoomerangs/README.md)
+
+* Problem 448 (Easy) [*Find Disappeared Numbers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/448.FindDisappearedNumbers/README.md)
+
+* Problem 453 (Easy) [*Min Moves*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/453.MinMoves/README.md)
+
+* Problem 455 (Easy) [*Assign Cookies*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/455.AssignCookies/README.md)
+
+* Problem 458 (Easy) [*Poor Pigs*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/458.PoorPigs/README.md)
+
+* Problem 459 (Easy) [*Repeated Substring Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/459.RepeatedSubstringPattern/README.md)
+
+* Problem 461 (Easy) [*Hamming Distance*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/461.HammingDistance/README.md)
+
+* Problem 463 (Easy) [*Island Perimeter*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/463.IslandPerimeter/README.md)
+
+* Problem 475 (Easy) [*Heaters*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/475.Heaters/README.md)
+
+* Problem 476 (Easy) [*Number Complement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/476.NumberComplement/README.md)
+
+* Problem 479 (Easy) [*Largest Palindrome Product*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/479.LargestPalindromeProduct/README.md)
+
+* Problem 482 (Easy) [*License Key Formatting*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/482.LicenseKeyFormatting/README.md)
+
+* Problem 485 (Easy) [*Max Consecutive Ones*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/485.MaxConsecutiveOnes/README.md)
+
+* Problem 492 (Easy) [*Construct Rectangle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/492.ConstructRectangle/README.md)
+
+* Problem 496 (Easy) [*NextGreater Element I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/496.NextGreaterElementI/README.md)
+
+* Problem 500 (Easy) [*Keyboard Row*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/500.KeyboardRow/README.md)
+
 ## Normal
 
 ## Hard
