@@ -1,7 +1,7 @@
 
 
-#ifndef __MIN_MOVES_H
-#define __MIN_MOVES_H
+#ifndef __ADD_COOKIES_H
+#define __ADD_COOKIES_H
 
 #include <iostream>
 #include <vector>
