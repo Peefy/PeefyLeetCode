@@ -29,3 +29,4 @@ class Solution:
             self.isfind = (nums[i] + nums[index]) == target
             if self.isfind == True:
                 return [i, index]
+
