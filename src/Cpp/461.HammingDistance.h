@@ -1,6 +1,6 @@
 
-#ifndef _HAMMING_DISTANCE_H
-#define __REPEATED_SUBSTRING_PATTERN_H
+#ifndef __HAMMING_DISTANCE_H
+#define __HAMMING_DISTANCE_H
 
 #include <iostream>
 #include <vector>
