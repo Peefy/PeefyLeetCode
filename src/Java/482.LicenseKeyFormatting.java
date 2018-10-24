@@ -37,6 +37,8 @@ class Solution {
         Character[] charsarr = new Character[size];
         Collections.reverse(chars);
         chars.toArray(charsarr);
-        return new StringBuffer(charsarr).toString();
+        return chars.stream()
+                     .map(String::valueOf)
+                     .collect(Collectors.joining());
     }
 }

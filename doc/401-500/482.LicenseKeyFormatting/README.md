@@ -39,7 +39,31 @@ public:
 
 ```csharp
 
-
+public class Solution {
+    public string LicenseKeyFormatting(string S, int K) {
+        var n = S.Length;
+        var count = 0;
+        var chars = new List<char>();
+        for(int i = 0; i < n; i++)
+        {
+            var j = n - i - 1;
+            if (S[j] == '-')
+                continue;
+            if (S[j] >= 'a' && S[j] <= 'z')
+                chars.Add((char)(S[j] - 'a' + 'A'));
+            else
+                chars.Add(S[j]);
+            count++;
+            if (count % K == 0)
+                chars.Add('-');
+        }
+        var size = chars.Count;
+        if (size > 0 && chars.Last() == '-')
+            chars.RemoveAt(size - 1);
+        chars.Reverse();
+        return new string(chars.ToArray());
+    }
+}
 
 ```
 
@@ -47,7 +71,40 @@ public:
 
 ```java
 
-
+class Solution {
+    public String licenseKeyFormatting(String S, int K) {
+        char[] Sarr = S.toCharArray();
+        int n = Sarr.length;
+        int count = 0;
+        int size = 0;
+        LinkedList<Character> chars = new LinkedList<>();
+        for(int i = 0; i < n; i++)
+        {
+            int j = n - i - 1;
+            if (Sarr[j] == '-')
+                continue;
+            if (Sarr[j] >= 'a' && Sarr[j] <= 'z')
+                chars.add((char)(Sarr[j] - 'a' + 'A'));
+            else
+                chars.add(Sarr[j]);
+            count++;
+            size++;
+            if (count % K == 0){
+                chars.add('-');
+                size++;
+            }
+        }
+        
+        if (size > 0 && chars.getLast() == '-')
+            chars.removeLast();
+        Character[] charsarr = new Character[size];
+        Collections.reverse(chars);
+        chars.toArray(charsarr);
+        return chars.stream()
+                     .map(String::valueOf)
+                     .collect(Collectors.joining());
+    }
+}
 
 ```
 
