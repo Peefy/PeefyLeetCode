@@ -45,17 +45,3 @@ public:
 
 #endif
 
-class Solution:
-    def nextGreaterElement(self, findNums, nums):
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: List[int]
-        """
-        dmap = {}
-        stack = []
-        for n in nums:
-            while stack and stack[-1] < n:
-                dmap[stack.pop()] = n
-            stack.append(n)
-        return [dmap.get(n, -1) for n in findNums]
