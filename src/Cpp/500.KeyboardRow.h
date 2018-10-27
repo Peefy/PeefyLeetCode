@@ -26,7 +26,44 @@ static int x = []() {
 class Solution {
 public:
     vector<string> findWords(vector<string>& words) {
-        
+        string firstLineLower = "qwertyuiop";
+        string firstLineUpper = "QWERTYUIOP";
+        string secondLineLower = "asdfghjkl";
+        string secondLineUpper = "ASDFGHJKL";
+        string thirdLineLower = "zxcvbnm";
+        string thirdLineUpper = "ZXCVBNM";
+        vector<string> r;
+        for(auto word : words){
+            auto count = 0;
+            int flag[3] = {0 ,0 ,0};
+            auto length = word.length();
+            for(auto letter : word){
+                if ((firstLineLower.find(letter) != -1) || 
+                    (firstLineUpper.find(letter) != -1)){
+                        if (flag[1] + flag[2] >= 1)
+                            break;
+                        flag[0] = 1;
+                        count += 1;
+                    }
+                if ((secondLineLower.find(letter) != -1) || 
+                    (secondLineUpper.find(letter) != -1)){
+                        if (flag[0] + flag[2] >= 1)
+                            break;
+                        flag[1] = 1;
+                        count += 1;
+                    }
+                if ((thirdLineLower.find(letter) != -1) || 
+                    (thirdLineUpper.find(letter) != -1)){
+                        if (flag[0] + flag[1] >= 1)
+                            break;
+                        flag[2] = 1;
+                        count += 1;
+                    }
+            }
+            if (count == length)
+                r.push_back(word);
+        }
+        return r;
     }
 };
 
