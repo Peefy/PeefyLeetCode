@@ -678,13 +678,13 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 501 - Problem 510
 
-* #### Problem 501 (Easy)
+* #### Problem 501 (Easy) [*Find Mode In BSTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/501.FindModeInBSTree/README.md)
 * #### Problem 502 (Easy)
 * #### Problem 503 (Easy)
-* #### Problem 504 (Easy)
+* #### Problem 504 (Easy) [*Convert To Base 7*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/504.ConvertToBase7/README.md)
 * #### Problem 505 (Easy)
-* #### Problem 506 (Easy)
-* #### Problem 507 (Easy)
+* #### Problem 506 (Easy) [*Relative Ranks*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/506.RelativeRanks/README.md)
+* #### Problem 507 (Easy) [*Perfect Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/507.PerfectNumber/README.md)
 * #### Problem 508 (Easy)
 * #### Problem 509 (Easy)
 * #### Problem 510 (Easy)
@@ -700,11 +700,11 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 517 (Easy)
 * #### Problem 518 (Easy)
 * #### Problem 519 (Easy)
-* #### Problem 520 (Easy)
+* #### Problem 520 (Easy) [*Detect Capital Use*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/520.DetectCapitalUse/README.md)
 
 ## Problem 521 - Problem 530
 
-* #### Problem 521 (Easy)
+* #### Problem 521 (Easy) [*Find LUS length I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/521.FindLUSlengthI/README.md)
 * #### Problem 522 (Easy)
 * #### Problem 523 (Easy)
 * #### Problem 524 (Easy)
@@ -713,7 +713,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 527 (Easy)
 * #### Problem 528 (Easy)
 * #### Problem 529 (Easy)
-* #### Problem 530 (Easy)
+* #### Problem 530 (Easy) [*Get Minimum Difference*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/530.GetMinimumDifference/README.md)
 
 ## Problem 531 - Problem 540
 

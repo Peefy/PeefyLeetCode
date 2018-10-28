@@ -241,6 +241,20 @@
 
 * Problem 500 (Easy) [*Keyboard Row*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/500.KeyboardRow/README.md)
 
+* Problem 501 (Easy) [*Find Mode In BSTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/501.FindModeInBSTree/README.md)
+
+* Problem 504 (Easy) [*Convert To Base 7*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/504.ConvertToBase7/README.md)
+
+* Problem 506 (Easy) [*Relative Ranks*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/506.RelativeRanks/README.md)
+
+* Problem 507 (Easy) [*Perfect Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/507.PerfectNumber/README.md)
+
+* Problem 520 (Easy) [*Detect Capital Use*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/520.DetectCapitalUse/README.md)
+
+* Problem 521 (Easy) [*Find LUS length I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/521.FindLUSlengthI/README.md)
+
+* Problem 530 (Easy) [*Get Minimum Difference*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/530.GetMinimumDifference/README.md)
+
 ## Normal
 
 ## Hard
