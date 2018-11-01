@@ -11,7 +11,6 @@ class Solution {
         if (num == 0) {
             return "0";
         }
-        Integer.toString(num, 7);
         int absnum = num > 0 ? num : -num;
         int jinzhi = 7;
         LinkedList<Character> base7list = new LinkedList<>();
