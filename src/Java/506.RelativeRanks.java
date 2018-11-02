@@ -7,24 +7,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 class Solution {
-    public String convertToBase7(int num) {
-        if (num == 0) {
-            return "0";
-        }
-        Integer.toString(num, 7).toCharArray();
-        int absnum = num > 0 ? num : -num;
-        int jinzhi = 7;
-        LinkedList<Character> base7list = new LinkedList<>();
-        while (absnum > 0){
-            base7list.add((char)(absnum % jinzhi + '0'));
-            absnum /= jinzhi;
-        }       
-        if (num < 0)
-            base7list.add('-');
-        Collections.reverse(base7list);
-        return base7list.stream()
-                .map(String::valueOf)
-                .collect(Collectors.joining());
+    public String[] findRelativeRanks(int[] nums) {
+        
     }
 }
 
