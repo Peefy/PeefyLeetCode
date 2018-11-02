@@ -43,6 +43,6 @@
         "stack": "cpp",
         "unordered_map": "cpp"
     },
-    "python.pythonPath": "/usr/local/bin/python3",
+    "python.pythonPath": "C:\\Users\\wuh15\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }
