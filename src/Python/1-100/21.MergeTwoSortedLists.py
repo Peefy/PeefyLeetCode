@@ -28,3 +28,12 @@ class Solution:
             r.next = l1
         return start.next
 
+def main():
+    l1 = ListNode(1)
+    l1.next = ListNode(3)
+    l2 = ListNode(2)
+    l2.next = ListNode(4)
+    print(Solution().mergeTwoLists(l1, l2).val)
+
+if __name__ == '__main__':
+    main()
