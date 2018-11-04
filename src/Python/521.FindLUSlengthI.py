@@ -6,26 +6,7 @@ class Solution:
         :type b: str
         :rtype: int
         """
-        m = len(a)
-        n = len(b)
-        shunxu = []
-        for c in a:
-            try:
-                shunxu.append(b.index(c))
-            except:
-                shunxu.append(-1)      
-        lastindex = -2
-        count = 0
-        maxcount = 0
-        for i in range(len(shunxu)):
-            if shunxu[i] >= lastindex:
-                count += 1
-            else:
-                maxcount = max(count, maxcount)
-                count = 1
-            lastindex = shunxu[i]
-        maxcount = max(count, maxcount)
-        return maxcount
+        return -1 if a == b else max(len(a), len(b))
             
 if __name__ == '__main__':
     solution = Solution()
