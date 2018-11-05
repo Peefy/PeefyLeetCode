@@ -718,21 +718,21 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 531 - Problem 540
 
 * #### Problem 531 (Easy)
-* #### Problem 532 (Easy)
+* #### Problem 532 (Easy) [*K diff Pairs In Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/532.KdiffPairsInArray/README.md)
 * #### Problem 533 (Easy)
 * #### Problem 534 (Easy)
 * #### Problem 535 (Easy)
 * #### Problem 536 (Easy)
 * #### Problem 537 (Easy)
-* #### Problem 538 (Easy)
+* #### Problem 538 (Easy) [*BST To Greater Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/538.BSTToGreaterTree/README.md)
 * #### Problem 539 (Easy)
 * #### Problem 540 (Easy)
 
 ## Problem 541 - Problem 550
 
-* #### Problem 541 (Easy)
+* #### Problem 541 (Easy) [*Reverse String II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/541.ReverseStringII/README.md)
 * #### Problem 542 (Easy)
-* #### Problem 543 (Easy)
+* #### Problem 543 (Easy) [*Diameter Of Binary Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/543.DiameterOfBinaryTree/README.md)
 * #### Problem 544 (Easy)
 * #### Problem 545 (Easy)
 * #### Problem 546 (Easy)
@@ -743,13 +743,13 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 551 - Problem 560
 
-* #### Problem 551 (Easy)
+* #### Problem 551 (Easy) [*Student Attendance Record I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/551.StudentAttendanceRecordI/README.md)
 * #### Problem 552 (Easy)
 * #### Problem 553 (Easy)
 * #### Problem 554 (Easy)
 * #### Problem 555 (Easy)
 * #### Problem 556 (Easy)
-* #### Problem 557 (Easy)
+* #### Problem 557 (Easy) [*Reverse String III*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/557.ReverseStringIII/README.md)
 * #### Problem 558 (Easy)
 * #### Problem 559 (Easy)
 * #### Problem 560 (Easy)

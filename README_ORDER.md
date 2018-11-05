@@ -255,6 +255,16 @@
 
 * Problem 530 (Easy) [*Get Minimum Difference*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/530.GetMinimumDifference/README.md)
 
+* Problem 532 (Easy) [*K diff Pairs In Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/532.KdiffPairsInArray/README.md)
+
+* Problem 538 (Easy) [*BST To Greater Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/538.BSTToGreaterTree/README.md)
+
+* Problem 541 (Easy) [*Reverse String II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/541.ReverseStringII/README.md)
+
+* Problem 543 (Easy) [*Diameter Of Binary Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/543.DiameterOfBinaryTree/README.md)
+
+* Problem 551 (Easy) [*Student Attendance Record I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/551.StudentAttendanceRecordI/README.md)
+
 ## Normal
 
 ## Hard
