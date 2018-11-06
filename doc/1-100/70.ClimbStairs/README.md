@@ -8,11 +8,6 @@
 ## C++ Solution
 
 ```c++
-```
-
-## C++ Solution
-
-```c++
 class Solution
 {
 
