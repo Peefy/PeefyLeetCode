@@ -265,6 +265,18 @@
 
 * Problem 551 (Easy) [*Student Attendance Record I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/551.StudentAttendanceRecordI/README.md)
 
+* Problem 557 (Easy) [*Reverse String III*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/557.ReverseStringIII/README.md)
+
+* Problem 558 (Easy) [*Quad Tree Intersection*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/558.QuadTreeIntersection/README.md)
+
+* Problem 559 (Easy) [*Maximum Depth Of N-ary Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/559.MaximumDepthOfN-aryTree/README.md)
+
+* Problem 561 (Easy) [*Array Partition I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/561.ArrayPartitionI/README.md)
+
+* Problem 566 (Easy) [*Matrix Reshape*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/566.MatrixReshape/README.md)
+
+* Problem 572 (Easy) [*Subtree Of Another Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/572.SubtreeOfAnotherTree/README.md)
+
 ## Normal
 
 ## Hard
