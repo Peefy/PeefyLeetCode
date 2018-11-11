@@ -277,6 +277,24 @@
 
 * Problem 572 (Easy) [*Subtree Of Another Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/572.SubtreeOfAnotherTree/README.md)
 
+* Problem 575 (Easy) [*Distribute Candies*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/575.DistributeCandies/README.md)
+
+* Problem 581 (Easy) [*Find Unsorted Subarray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/581.FindUnsortedSubarray/README.md)
+
+* Problem 589 (Easy) [*N-ary Tree Preorder*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/589.N-aryTreePreorder/README.md)
+
+* Problem 590 (Easy) [*N-ary Tree Postorder*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/590.N-aryTreePostorder/README.md)
+
+* Problem 594 (Easy) [*Longest Harmonious Subsequence*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/594.LongestHarmoniousSubsequence/README.md)
+
+* Problem 595 (Easy) [*Big Countries SQL*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/595.BigCountriesSQL/README.md)
+
+* Problem 596 (Easy) [*Classes More Than 5 Students SQL*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/596.ClassesMoreThan5StudentsSQL/README.md)
+
+* Problem 598 (Easy) [*Range Addition II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/598.RangeAdditionII/README.md)
+
+* Problem 599 (Easy) [*Minimum Index Sum Of Two Lists*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/599.MinimumIndexSumOfTwoLists/README.md)
+
 ## Normal
 
 ## Hard
