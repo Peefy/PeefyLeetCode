@@ -1,6 +1,6 @@
 
-#ifndef __REVERSE_STRING_IIi_H
-#define __REVERSE_STRING_IIi_H
+#ifndef __REVERSE_STRING_III_H
+#define __REVERSE_STRING_III_H
 
 #include <iostream>
 #include <vector>

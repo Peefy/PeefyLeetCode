@@ -41,7 +41,8 @@
         "xtree": "cpp",
         "xutility": "cpp",
         "stack": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "array": "cpp"
     },
     "python.pythonPath": "C:\\Users\\wuh15\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "C_Cpp.intelliSenseEngineFallback": "Enabled"
