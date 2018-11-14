@@ -273,6 +273,8 @@
 
 * Problem 561 (Easy) [*Array Partition I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/561.ArrayPartitionI/README.md)
 
+* Problem 563 (Easy) [*Binary Tree Tilt*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/563.BinaryTreeTilt/README.md)
+
 * Problem 566 (Easy) [*Matrix Reshape*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/566.MatrixReshape/README.md)
 
 * Problem 572 (Easy) [*Subtree Of Another Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/572.SubtreeOfAnotherTree/README.md)
