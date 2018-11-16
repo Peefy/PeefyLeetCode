@@ -1,6 +1,6 @@
 
-#ifndef __DISTRIBUTE_CANDIES_H
-#define __DISTRIBUTE_CANDIES_H
+#ifndef __NARY_TREE_PREORDER_H
+#define __NARY_TREE_PREORDER_H
 
 #include <iostream>
 #include <vector>

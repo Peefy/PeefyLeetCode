@@ -1,6 +1,6 @@
 
-#ifndef __DISTRIBUTE_CANDIES_H
-#define __DISTRIBUTE_CANDIES_H
+#ifndef __FIND_UNSORTED_SUBARRAY_H
+#define __FIND_UNSORTED_SUBARRAY_H
 
 #include <iostream>
 #include <vector>
