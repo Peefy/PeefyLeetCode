@@ -297,6 +297,8 @@
 
 * Problem 599 (Easy) [*Minimum Index Sum Of Two Lists*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/599.MinimumIndexSumOfTwoLists/README.md)
 
+* Problem 605 (Easy) [*Minimum Index Sum Of Two Lists*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/605.CanPlaceFlowers/README.md)
+
 ## Normal
 
 ## Hard

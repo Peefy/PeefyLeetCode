@@ -1,7 +1,7 @@
 
-# problem 501 : FindModeInBSTree
+# problem 605 : CanPlaceFlowers
 
-<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/501.FindModeInBSTree/problem.png"/>
+<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/605.CanPlaceFlowers/problem.png"/>
 
 ## C++ Solution
 
