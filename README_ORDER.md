@@ -297,7 +297,29 @@
 
 * Problem 599 (Easy) [*Minimum Index Sum Of Two Lists*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/599.MinimumIndexSumOfTwoLists/README.md)
 
-* Problem 605 (Easy) [*Minimum Index Sum Of Two Lists*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/605.CanPlaceFlowers/README.md)
+* Problem 605 (Easy) [*Can Place Flowers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/605.CanPlaceFlowers/README.md)
+
+* Problem 606 (Easy) [*Tree To Str*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/606.Tree2str/README.md)
+
+* Problem 617 (Easy) [*Merge Two Binary Trees*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/617.MergeTwoBinaryTrees/README.md)
+
+* Problem 620 (Easy) [*SQL Not Boring Movies*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/620.NotBoringMovies/README.md)
+
+* Problem 622 (Easy) [*Circular Queue*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/622.CircularQueue/README.md)
+
+* Problem 627 (Easy) [*SQL Swap Salary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/627.SQLSwapSalary/README.md)
+
+* Problem 628 (Easy) [*Maximum Product*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/628.MaximumProduct/README.md)
+
+* Problem 633 (Easy) [*Sum Of Square Numbers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/633.SumOfSquareNumbers/README.md)
+
+* Problem 637 (Easy) [*Tree Average Of Levels*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/637.TreeAverageOfLevels/README.md)
+
+* Problem 643 (Easy) [*Array Find Max Average*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/643.ArrayFindMaxAverage/README.md)
+
+* Problem 645 (Easy) [*Set Mismatch*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/645.SetMismatch/README.md)
+
+* Problem 653 (Easy) [*Two Sum BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/653.TwoSumBST/README.md)
 
 ## Normal
 
