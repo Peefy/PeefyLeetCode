@@ -80,30 +80,19 @@ public class Solution
 
 ```java
 
-class Solution {
+public class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
-        int count = 0;
-        int length = flowerbed.length;
-        int i = 0;
-        while (i < length){         
-            if (flowerbed[i] == 0){             
-                if (i == length - 1){
-                    count += 1;
-                    i += 1;
-                }
-                else if (flowerbed[i + 1] == 0){
-                    count += 1;  
-                    i += 1;
-                }                  
+        int i = 0, count = 0;
+        while (i < flowerbed.length) {
+            if (flowerbed[i] == 0 && (i == 0 || flowerbed[i - 1] == 0) && (i == flowerbed.length - 1 || flowerbed[i + 1] == 0)) {
+                flowerbed[i++] = 1;
+                count++;
             }
-            else if (flowerbed[i] == 1){
-                i += 1;
-            }
-            if(count >= n)
+             if(count>=n)
                 return true;
-            i += 1;
+            i++;
         }
-        return count >= n;
+        return false;
     }
 }
 
