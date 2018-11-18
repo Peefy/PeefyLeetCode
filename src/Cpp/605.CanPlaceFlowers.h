@@ -18,8 +18,8 @@
 using namespace std;
 
 static int x = []() {
-    ios::sync_with_stdio(false); // cin与stdin禁止同步
-    cin.tie(NULL);               //cin与cout解除绑定
+    ios::sync_with_stdio(false); 
+    cin.tie(NULL);              
     return 0;
 }();
 
