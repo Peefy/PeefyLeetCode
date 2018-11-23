@@ -1,6 +1,6 @@
 
-#ifndef _CAN_PLACE_FLOWERS_H
-#define _CAN_PLACE_FLOWERS_H
+#ifndef _MAXIMUM_PRODUCT_H
+#define _MAXIMUM_PRODUCT_H
 
 #include <iostream>
 #include <vector>
