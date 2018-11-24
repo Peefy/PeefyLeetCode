@@ -321,6 +321,36 @@
 
 * Problem 653 (Easy) [*Two Sum BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/653.TwoSumBST/README.md)
 
+* Problem 657 (Easy) [*Robot Return To Origin*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/657.RobotReturnToOrigin/README.md)
+
+* Problem 661 (Easy) [*Image Smoother*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/661.ImageSmoother/README.md)
+
+* Problem 665 (Easy) [*Non Decreasing Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/665.NonDecreasingArray/README.md)
+
+* Problem 669 (Easy) [*Trim BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/669.TrimBST/README.md)
+
+* Problem 671 (Easy) [*Tree Second Minimum Node*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/671.TreeSecondMinimumNode/README.md)
+
+* Problem 674 (Easy) [*Longest Continuous Increasing Subsequence*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/674.LongestContinuousIncreasingSubsequence/README.md)
+
+* Problem 680 (Easy) [*Valid Palindrome II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/680.ValidPalindromeII/README.md)
+
+* Problem 682 (Easy) [*Baseball Game*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/682.BaseballGame/README.md)
+
+* Problem 686 (Easy) [*Repeated String Match*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/686.RepeatedStringMatch/README.md)
+
+* Problem 687 (Easy) [*Longest Univalue Path*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/687.LongestUnivaluePath/README.md)
+
+* Problem 690 (Easy) [*Get Importance*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/690.GetImportance/README.md)
+
+* Problem 693 (Easy) [*Binary Number With Alternating Bits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/693.BinaryNumberWithAlternatingBits/README.md)
+
+* Problem 696 (Easy) [*Count inary Substrings*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/696.CountBinarySubstrings/README.md)
+
+* Problem 697 (Easy) [*Degree Of An Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/697.DegreeOfAnArray/README.md)
+
+* Problem 700 (Easy) [*Search In BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/700.SearchInBST/README.md)
+
 ## Normal
 
 ## Hard

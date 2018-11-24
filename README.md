@@ -879,62 +879,62 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 654 (Easy)
 * #### Problem 655 (Easy)
 * #### Problem 656 (Easy)
-* #### Problem 657 (Easy)
+* #### Problem 657 (Easy) [*Robot Return To Origin*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/657.RobotReturnToOrigin/README.md)
 * #### Problem 658 (Easy)
 * #### Problem 659 (Easy)
 * #### Problem 660 (Easy)
 
 ## Problem 661 - Problem 670
 
-* #### Problem 661 (Easy)
+* #### Problem 661 (Easy) [*Image Smoother*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/661.ImageSmoother/README.md)
 * #### Problem 662 (Easy)
 * #### Problem 663 (Easy)
 * #### Problem 664 (Easy)
-* #### Problem 665 (Easy)
+* #### Problem 665 (Easy) [*Non Decreasing Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/665.NonDecreasingArray/README.md)
 * #### Problem 666 (Easy)
 * #### Problem 667 (Easy)
 * #### Problem 668 (Easy)
-* #### Problem 669 (Easy)
+* #### Problem 669 (Easy) [*Trim BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/669.TrimBST/README.md)
 * #### Problem 670 (Easy)
 
 ## Problem 671 - Problem 680
 
-* #### Problem 671 (Easy)
+* #### Problem 671 (Easy) [*Tree Second Minimum Node*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/671.TreeSecondMinimumNode/README.md)
 * #### Problem 672 (Easy)
 * #### Problem 673 (Easy)
-* #### Problem 674 (Easy)
+* #### Problem 674 (Easy) [*Longest Continuous Increasing Subsequence*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/674.LongestContinuousIncreasingSubsequence/README.md)
 * #### Problem 675 (Easy)
 * #### Problem 676 (Easy)
 * #### Problem 677 (Easy)
 * #### Problem 678 (Easy)
 * #### Problem 679 (Easy)
-* #### Problem 680 (Easy)
+* #### Problem 680 (Easy) [*Valid Palindrome II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/680.ValidPalindromeII/README.md)
 
 ## Problem 681 - Problem 690
 
 * #### Problem 681 (Easy)
-* #### Problem 682 (Easy)
+* #### Problem 682 (Easy) [*Baseball Game*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/682.BaseballGame/README.md)
 * #### Problem 683 (Easy)
 * #### Problem 684 (Easy)
 * #### Problem 685 (Easy)
-* #### Problem 686 (Easy)
-* #### Problem 687 (Easy)
+* #### Problem 686 (Easy) [*Repeated String Match*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/686.RepeatedStringMatch/README.md)
+* #### Problem 687 (Easy) [*Longest Univalue Path*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/687.LongestUnivaluePath/README.md)
 * #### Problem 688 (Easy)
 * #### Problem 689 (Easy)
-* #### Problem 690 (Easy)
+* #### Problem 690 (Easy) [*Get Importance*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/690.GetImportance/README.md)
 
 ## Problem 691 - Problem 700
 
 * #### Problem 691 (Easy)
 * #### Problem 692 (Easy)
-* #### Problem 693 (Easy)
+* #### Problem 693 (Easy) [*Binary Number With Alternating Bits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/693.BinaryNumberWithAlternatingBits/README.md)
 * #### Problem 694 (Easy)
 * #### Problem 695 (Easy)
-* #### Problem 696 (Easy)
-* #### Problem 697 (Easy)
+* #### Problem 696 (Easy) [*Count inary Substrings*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/696.CountBinarySubstrings/README.md)
+* #### Problem 697 (Easy) [*Degree Of An Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/697.DegreeOfAnArray/README.md)
 * #### Problem 698 (Easy)
 * #### Problem 699 (Easy)
-* #### Problem 700 (Easy)
+* #### Problem 700 (Easy) [*Search In BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/601-700/700.SearchInBST/README.md)
 
 ## Problem 701 - Problem 710
 
