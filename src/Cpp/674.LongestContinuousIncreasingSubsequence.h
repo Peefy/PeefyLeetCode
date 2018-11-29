@@ -25,23 +25,20 @@ static int x = []() {
 
 class Solution {
 public:
-    bool validPalindrome(string s) {
-        int i = 0, j = s.length() - 1;
-        while (i < j) {
-            if (s[i] != s[j]) {
-                break;
-            }
-            i++;
-            j--;
+    int findLengthOfLCIS(vector<int>& nums) {
+        int count = 0;
+        int maxcount = 0;
+        int last = -9999999;
+        for (int num : nums){
+            if (num > last)
+                count += 1;
+            else
+                count = 1;
+            if (count > maxcount)
+                maxcount = count;
+            last = num;
         }
-        while (i < j) {
-            if (s[i + 1] != s[j] && s[i] != s[j - 1]) {
-                return false;
-            }
-            i++;
-            j--;
-        }
-        return true;
+        return maxcount; 
     }
 };
 
