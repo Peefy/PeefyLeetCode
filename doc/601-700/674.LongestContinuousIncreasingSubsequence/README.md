@@ -7,7 +7,30 @@
 
 ```c++
 
+static int x = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();
 
+class Solution {
+public:
+    int findLengthOfLCIS(vector<int>& nums) {
+        int count = 0;
+        int maxcount = 0;
+        int last = -9999999;
+        for (int num : nums){
+            if (num > last)
+                count += 1;
+            else
+                count = 1;
+            if (count > maxcount)
+                maxcount = count;
+            last = num;
+        }
+        return maxcount; 
+    }
+};
 
 ```
 
@@ -15,7 +38,23 @@
 
 ```csharp
 
-
+public class Solution {
+    public int FindLengthOfLCIS(int[] nums) {
+        int count = 0;
+        int maxcount = 0;
+        int last = -9999999;
+        foreach (var num in nums){
+            if (num > last)
+                count += 1;
+            else
+                count = 1;
+            if (count > maxcount)
+                maxcount = count;
+            last = num;
+        }
+        return maxcount; 
+    }
+}
 
 ```
 
@@ -23,7 +62,23 @@
 
 ```java
 
-
+class Solution {
+    public int findLengthOfLCIS(int[] nums) {
+        int count = 0;
+        int maxcount = 0;
+        int last = -9999999;
+        for (int num : nums){
+            if (num > last)
+                count += 1;
+            else
+                count = 1;
+            if (count > maxcount)
+                maxcount = count;
+            last = num;
+        }
+        return maxcount; 
+    }
+}
 
 ```
 
@@ -31,7 +86,23 @@
 
 ```python
 
-
+class Solution:
+    def findLengthOfLCIS(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        count = 0
+        maxcount = 0
+        last = -9999999
+        for num in nums:
+            if num > last:
+                count += 1
+            else:
+                count = 1
+            maxcount = max(maxcount, count)
+            last = num
+        return maxcount 
 
 ```
 
