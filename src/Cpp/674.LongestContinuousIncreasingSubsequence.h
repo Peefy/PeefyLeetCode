@@ -1,6 +1,6 @@
 
-#ifndef _NON_DECREASING_H
-#define _IMAGE_SMOOTHER_H
+#ifndef __LONGEST_CONTINOUS_INCREASING_SUB_H
+#define __LONGEST_CONTINOUS_INCREASING_SUB_H
 
 #include <iostream>
 #include <vector>
@@ -25,20 +25,23 @@ static int x = []() {
 
 class Solution {
 public:
-    int findLengthOfLCIS(vector<int>& nums) {
-        int count = 0;
-        int maxcount = 0;
-        int last = -9999999;
-        for (int num : nums){
-            if (num > last)
-                count += 1;
-            else
-                count = 1;
-            if (count > maxcount)
-                maxcount = count;
-            last = num;
+    bool validPalindrome(string s) {
+        int i = 0, j = s.length() - 1;
+        while (i < j) {
+            if (s[i] != s[j]) {
+                break;
+            }
+            i++;
+            j--;
         }
-        return maxcount; 
+        while (i < j) {
+            if (s[i + 1] != s[j] && s[i] != s[j - 1]) {
+                return false;
+            }
+            i++;
+            j--;
+        }
+        return true;
     }
 };
 
