@@ -1,5 +1,5 @@
 
-# View in order of difficulty
+# View in order of classification
 
 ## Easy
 
