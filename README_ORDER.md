@@ -353,6 +353,38 @@
 
 * Problem 703 (Easy) [*Kth Largest*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/703.KthLargest/README.md)
 
+* Problem 704 (Easy) [*Binary Search*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/704.BinarySearch/README.md)
+
+* Problem 705 (Easy) [*Design HashSet*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/705.DesignHashSet/README.md)
+
+* Problem 706 (Easy) [*Design HashMap*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/706.DesignHashMap/README.md)
+
+* Problem 707 (Easy) [*Design LinkedList*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/707.DesignLinkedList/README.md)
+
+* Problem 709 (Easy) [*To Lower Case*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/709.ToLowerCase/README.md)
+
+* Problem 717 (Easy) [*Is One Bit Character*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/717.IsOneBitCharacter/README.md)
+
+* Problem 720 (Easy) [*Longest Word*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/720.LongestWord/README.md)
+
+* Problem 724 (Easy) [*Find Pivot Index*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/724.FindPivotIndex/README.md)
+
+* Problem 728 (Easy) [*Self Dividing Numbers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/728.SelfDividingNumbers/README.md)
+
+* Problem 733 (Easy) [*Flood Fill*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/733.FloodFill/README.md)
+
+* Problem 743 (Easy) [*Network Delay Time*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/743.NetworkDelayTime/README.md)
+
+* Problem 744 (Easy) [*Next Greatest Letter*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/744.NextGreatestLetter/README.md)
+
+* Problem 746 (Easy) [*MinCost Climbing Stairs*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/746.MinCostClimbingStairs/README.md)
+
+* Problem 747 (Easy) [*Dominant Index*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/747.DominantIndex/README.md)
+
+* Problem 748 (Easy) [*Shortest Completing Word*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/748.ShortestCompletingWord/README.md)
+
+* Problem 754 (Easy) [*Reach Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/754.ReachNumber/README.md)
+
 ## Normal
 
 ## Hard
