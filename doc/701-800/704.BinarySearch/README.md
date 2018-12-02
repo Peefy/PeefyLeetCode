@@ -7,7 +7,23 @@
 
 ```c++
 
-
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int left = 0;
+        int right = nums.size() - 1;
+        while (left <= right){
+            int middle = left + (right - left) / 2;
+            if (nums[middle] == target)
+                return middle;
+            else if (nums[middle] < target)
+                left = middle + 1;
+            else
+                right = middle - 1;
+        }
+        return -1;
+    }
+};
 
 ```
 
@@ -15,7 +31,22 @@
 
 ```csharp
 
-
+public class Solution {
+    public int Search(int[] nums, int target) {
+        int left = 0;
+        int right = nums.Length - 1;
+        while (left <= right){
+            int middle = left + (right - left) / 2;
+            if (nums[middle] == target)
+                return middle;
+            else if (nums[middle] < target)
+                left = middle + 1;
+            else
+                right = middle - 1;
+        }
+        return -1;
+    }
+}
 
 ```
 
@@ -23,7 +54,22 @@
 
 ```java
 
-
+class Solution {
+    public int search(int[] nums, int target) {
+        int left = 0;
+        int right = nums.length - 1;
+        while (left <= right){
+            int middle = left + (right - left) / 2;
+            if (nums[middle] == target)
+                return middle;
+            else if (nums[middle] < target)
+                left = middle + 1;
+            else
+                right = middle - 1;
+        }
+        return -1;
+    }
+}
 
 ```
 
@@ -31,7 +77,24 @@
 
 ```python
 
-
+class Solution:
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        left = 0
+        right = len(nums) - 1
+        while left <= right:
+            middle = left + (right - left) // 2
+            if nums[middle] == target:
+                return middle
+            elif nums[middle] < target:
+                left = middle + 1
+            else:
+                right = middle - 1
+        return -1
 
 ```
 
