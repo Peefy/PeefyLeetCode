@@ -7,7 +7,24 @@
 
 ```c++
 
+static int pr = []() {
+    std::ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();
 
+class Solution {
+public:
+    string toLowerCase(string str) {
+        int n = str.length();
+        for(int i = 0; i < n; i++)
+        {
+             if(str[i] >= 'A' && str[i] <= 'Z')
+                str[i] += 32;
+        }
+        return str;
+    }
+};
 
 ```
 
@@ -15,7 +32,11 @@
 
 ```csharp
 
-
+public class Solution {
+    public string ToLowerCase(string str) {
+        return str.ToLower();
+    }
+}
 
 ```
 
@@ -23,7 +44,11 @@
 
 ```java
 
-
+class Solution {
+    public String toLowerCase(String str) {
+        return str.toLowerCase();
+    }
+}
 
 ```
 
@@ -31,7 +56,14 @@
 
 ```python
 
-
+class Solution:
+    def toLowerCase(self, str):
+        """
+        :type str: str
+        :rtype: str
+        """
+        return str.lower()
+        
 
 ```
 

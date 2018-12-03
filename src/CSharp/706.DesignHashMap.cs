@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace PeefyLeetCode.BinarySearch
+namespace PeefyLeetCode.MyHashMap
 {
 public class MyHashMap {
 

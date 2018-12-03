@@ -1,6 +1,6 @@
 
-#ifndef __BINARY_SERACH_H
-#define __BINARY_SERACH_H
+#ifndef __DESIGN_HASHSET_H
+#define __DESIGN_HASHSET_H
 
 #include <iostream>
 #include <vector>
