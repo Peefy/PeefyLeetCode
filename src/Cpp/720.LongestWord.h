@@ -1,6 +1,6 @@
 
-#ifndef __IS_ONE_BIT_CHARACTER_H
-#define __IS_ONE_BIT_CHARACTER_H
+#ifndef __LONGEST_WORD_H
+#define __LONGEST_WORD_H
 
 #include <iostream>
 #include <vector>
