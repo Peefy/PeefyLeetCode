@@ -1,30 +1,31 @@
 
-
 class Solution:
-    def selfDividingNumbers(self, left, right):
+    def floodFill(self, image, sr, sc, newColor):
         """
-        :type left: int
-        :type right: int
-        :rtype: List[int]
+        :type image: List[List[int]]
+        :type sr: int
+        :type sc: int
+        :type newColor: int
+        :rtype: List[List[int]]
         """
-        res = []
-        for i in range(left, right + 1):
-            j = i
-            while j:
-                d = j % 10
-                if not d:
-                    break
-                if i % d:
-                    break
-                j //= 10
-            if not j:
-                res.append(i)
-        return res
+        init = image[sr][sc]
+        if init == newColor:
+            return image
+        image[sr][sc] = newColor
+        if sr > 0 and image[sr - 1][sc] == init:
+            image = self.floodFill(image , sr - 1 , sc , newColor)
+        if sr < len(image) - 1 and image[sr + 1][sc] == init:
+            image = self.floodFill(image , sr + 1 , sc , newColor)
+        if sc > 0 and image[sr][sc-1] == init:
+            image = self.floodFill(image , sr , sc - 1 , newColor)
+        if sc < len(image[0]) - 1 and image[sr][sc + 1] == init:
+            image = self.floodFill(image , sr , sc + 1 , newColor)
+        return image
 
 if __name__ == '__main__':
     solution = Solution()
-    print(solution.selfDividingNumbers(1, 22))
-    print(solution.selfDividingNumbers(10, 22))
+    print(solution.floodFill(image=[[1, 1, 1], [1, 1, 0], [1, 0, 1]], \
+        sr=1, sc=1, newColor=2))
 else:
     pass
 
