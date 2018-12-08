@@ -1,6 +1,6 @@
 
-#ifndef __NEXT_GREATEST_LETTER_H
-#define __NEXT_GREATEST_LETTER_H
+#ifndef __MIN_COST_CLIMBING_STAIRS_H
+#define __MIN_COST_CLIMBING_STAIRS_H
 
 #include <iostream>
 #include <vector>
