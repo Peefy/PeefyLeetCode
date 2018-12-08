@@ -1,6 +1,6 @@
 
-#ifndef __NEXT_GREATER_LETTER_H
-#define __NEXT_GREATER_LETTER_H
+#ifndef __NEXT_GREATEST_LETTER_H
+#define __NEXT_GREATEST_LETTER_H
 
 #include <iostream>
 #include <vector>
