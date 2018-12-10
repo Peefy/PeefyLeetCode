@@ -1,6 +1,6 @@
 
-#ifndef __DOMINANT_INDEX_H
-#define __DOMINANT_INDEX_H
+#ifndef __SHORTEST_COMPLETING_WORD_H
+#define __SHORTEST_COMPLETING_WORD_H
 
 #include <iostream>
 #include <vector>
