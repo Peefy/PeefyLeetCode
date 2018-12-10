@@ -994,11 +994,11 @@
 ## Problem 761 - Problem 770
 
 * #### Problem 761 (Easy)
-* #### Problem 762 (Easy)
+* #### Problem 762 (Easy) [*Count Prime Set Bits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/762.CountPrimeSetBits/README.md)
 * #### Problem 763 (Easy)
 * #### Problem 764 (Easy)
 * #### Problem 765 (Easy)
-* #### Problem 766 (Easy)
+* #### Problem 766 (Easy) [*Toeplitz Matrix*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/766.ToeplitzMatrix/README.md)
 * #### Problem 767 (Easy)
 * #### Problem 768 (Easy)
 * #### Problem 769 (Easy)
@@ -1006,7 +1006,7 @@
 
 ## Problem 771 - Problem 780
 
-* #### Problem 771 (Easy)
+* #### Problem 771 (Easy) [*Jewels And Stones*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/771.JewelsAndStones/README.md)
 * #### Problem 772 (Easy)
 * #### Problem 773 (Easy)
 * #### Problem 774 (Easy)
@@ -1021,8 +1021,8 @@
 
 * #### Problem 781 (Easy)
 * #### Problem 782 (Easy)
-* #### Problem 783 (Easy)
-* #### Problem 784 (Easy)
+* #### Problem 783 (Easy) [*Min Diff In BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/783.MinDiffInBST/README.md)
+* #### Problem 784 (Easy) [*Letter Case Permutation*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/784.LetterCasePermutation/README.md)
 * #### Problem 785 (Easy)
 * #### Problem 786 (Easy)
 * #### Problem 787 (Easy)

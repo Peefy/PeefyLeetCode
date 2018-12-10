@@ -385,6 +385,16 @@
 
 * Problem 754 (Easy) [*Reach Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/754.ReachNumber/README.md)
 
+* Problem 762 (Easy) [*Count Prime Set Bits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/762.CountPrimeSetBits/README.md)
+
+* Problem 766 (Easy) [*Toeplitz Matrix*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/766.ToeplitzMatrix/README.md)
+
+* Problem 771 (Easy) [*Jewels And Stones*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/771.JewelsAndStones/README.md)
+
+* Problem 783 (Easy) [*Min Diff In BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/783.MinDiffInBST/README.md)
+
+* Problem 784 (Easy) [*Letter Case Permutation*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/784.LetterCasePermutation/README.md)
+
 ## Normal
 
 ## Hard
