@@ -1026,7 +1026,7 @@
 * #### Problem 785 (Easy)
 * #### Problem 786 (Easy)
 * #### Problem 787 (Easy)
-* #### Problem 788 (Easy)
+* #### Problem 788 (Easy) [*Rotated Digits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/788.RotatedDigits/README.md)
 * #### Problem 789 (Easy)
 * #### Problem 790 (Easy)
 
@@ -1037,7 +1037,7 @@
 * #### Problem 793 (Easy)
 * #### Problem 794 (Easy)
 * #### Problem 795 (Easy)
-* #### Problem 796 (Easy)
+* #### Problem 796 (Easy) [*Rotate String*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/796.RotateString/README.md)
 * #### Problem 797 (Easy)
 * #### Problem 798 (Easy)
 * #### Problem 799 (Easy)
@@ -1048,9 +1048,9 @@
 * #### Problem 801 (Easy)
 * #### Problem 802 (Easy)
 * #### Problem 803 (Easy)
-* #### Problem 804 (Easy)
+* #### Problem 804 (Easy)  [*804.UniqueMorseRepresentations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/804.UniqueMorseRepresentations/README.md)
 * #### Problem 805 (Easy)
-* #### Problem 806 (Easy)
+* #### Problem 806 (Easy) [*Number Of Lines*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/806.NumberOfLines/README.md)
 * #### Problem 807 (Easy)
 * #### Problem 808 (Easy)
 * #### Problem 809 (Easy)
@@ -1058,67 +1058,67 @@
 
 ## Problem 811 - Problem 820
 
-* #### Problem 811 (Easy)
-* #### Problem 812 (Easy)
+* #### Problem 811 (Easy) [*Subdomain Visit Count*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/811.SubdomainVisitCount/README.md)
+* #### Problem 812 (Easy) [*Largest Triangle Area*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/812.LargestTriangleArea/README.md)
 * #### Problem 813 (Easy)
 * #### Problem 814 (Easy)
 * #### Problem 815 (Easy)
 * #### Problem 816 (Easy)
 * #### Problem 817 (Easy)
 * #### Problem 818 (Easy)
-* #### Problem 819 (Easy)
+* #### Problem 819 (Easy) [*Most Common Word*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/819.MostCommonWord/README.md)
 * #### Problem 820 (Easy)
 
 ## Problem 821 - Problem 830
 
-* #### Problem 821 (Easy)
+* #### Problem 821 (Easy) [*Shortest To Char*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/821.ShortestToChar/README.md)
 * #### Problem 822 (Easy)
 * #### Problem 823 (Easy)
-* #### Problem 824 (Easy)
+* #### Problem 824 (Easy) [*Goat Latin*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/824.GoatLatin/README.md)
 * #### Problem 825 (Easy)
 * #### Problem 826 (Easy)
 * #### Problem 827 (Easy)
 * #### Problem 828 (Easy)
 * #### Problem 829 (Easy)
-* #### Problem 830 (Easy)
+* #### Problem 830 (Easy) [*Large Group Positions*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/830.LargeGroupPositions/README.md)
 
 ## Problem 831 - Problem 840
 
 * #### Problem 831 (Easy)
-* #### Problem 832 (Easy)
+* #### Problem 832 (Easy) [*Flip And Invert Image*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/832.FlipAndInvertImage/README.md)
 * #### Problem 833 (Easy)
 * #### Problem 834 (Easy)
 * #### Problem 835 (Easy)
-* #### Problem 836 (Easy)
+* #### Problem 836 (Easy) [*Rectangle Overlap*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/836.RectangleOverlap/README.md)
 * #### Problem 837 (Easy)
 * #### Problem 838 (Easy)
 * #### Problem 839 (Easy)
-* #### Problem 840 (Easy)
+* #### Problem 840 (Easy) [*Magic Squares In Grid*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/840.MagicSquaresInGrid/README.md)
 
 ## Problem 841 - Problem 850
 
 * #### Problem 841 (Easy)
 * #### Problem 842 (Easy)
 * #### Problem 843 (Easy)
-* #### Problem 844 (Easy)
+* #### Problem 844 (Easy) [*Backspace Compare*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/844.BackspaceCompare/README.md)
 * #### Problem 845 (Easy)
 * #### Problem 846 (Easy)
 * #### Problem 847 (Easy)
 * #### Problem 848 (Easy)
-* #### Problem 849 (Easy)
+* #### Problem 849 (Easy) [*Max Dist To Closest*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/849.MaxDistToClosest/README.md)
 * #### Problem 850 (Easy)
 
 ## Problem 851 - Problem 860
 
 * #### Problem 851 (Easy)
-* #### Problem 852 (Easy)
+* #### Problem 852 (Easy) [*Peak Index In Mountain Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/852.PeakIndexInMountainArray/README.md)
 * #### Problem 853 (Easy)
 * #### Problem 854 (Easy)
 * #### Problem 855 (Easy)
 * #### Problem 856 (Easy)
 * #### Problem 857 (Easy)
 * #### Problem 858 (Easy)
-* #### Problem 859 (Easy)
+* #### Problem 859 (Easy) [*Buddy Strings*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/859.BuddyStrings/README.md)
 * #### Problem 860 (Easy)
 
 ## Problem 861 - Problem 870
