@@ -1,28 +1,27 @@
 
 class Solution:
-    def letterCaseIndex(self, S, index):
-        r = []
-        for i in range(index, len(S)):
-            if S[i].isalpha() == True:
-                if S[i].isupper():
-                    r += self.letterCaseIndex(S, i + 1)
-                    S[i] = S[i].lower()
-                    r.append(''.join(S))
-                    self.letterCaseIndex(S, i + 1)
-                else:
-                    r += self.letterCaseIndex(S, i + 1)
-                    S[i] = S[i].upper()
-                    r.append(''.join(S))
-                    r += self.letterCaseIndex(S, i + 1)
-                break
-        return r
-
-    def letterCasePermutation(self, S):
-        """
-        :type S: str
-        :rtype: List[str]
-        """
-        return self.letterCaseIndex(list(S), 0)
+    def letterCasePermutation(self, S): 
+        ret = []
+        self.bktrace(S, ret, [], 0)
+        return ret
+    
+    def bktrace(self, s, ret, sb, i): 
+        if i == len(s):
+            ret.append(''.join(sb))
+            return
+        c = s[i]
+        if (c >= 'a' and c <= 'z') or (c >= 'A' and c <= 'Z'):
+            sb.append(c.lower())
+            self.bktrace(s, ret, sb, i + 1)
+            sb.pop(len(sb) - 1)
+            
+            sb.append(c.upper())
+            self.bktrace(s, ret, sb, i + 1)
+            sb.pop(len(sb) - 1)
+        else:
+            sb.append(c)
+            self.bktrace(s, ret, sb, i + 1)
+            sb.pop(len(sb) - 1)
 
 
 if __name__ == '__main__':
