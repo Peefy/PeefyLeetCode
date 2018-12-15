@@ -1,33 +1,21 @@
 
 class Solution:
-    def letterCasePermutation(self, S): 
-        ret = []
-        self.bktrace(S, ret, [], 0)
-        return ret
-    
-    def bktrace(self, s, ret, sb, i): 
-        if i == len(s):
-            ret.append(''.join(sb))
-            return
-        c = s[i]
-        if (c >= 'a' and c <= 'z') or (c >= 'A' and c <= 'Z'):
-            sb.append(c.lower())
-            self.bktrace(s, ret, sb, i + 1)
-            sb.pop(len(sb) - 1)
-            
-            sb.append(c.upper())
-            self.bktrace(s, ret, sb, i + 1)
-            sb.pop(len(sb) - 1)
-        else:
-            sb.append(c)
-            self.bktrace(s, ret, sb, i + 1)
-            sb.pop(len(sb) - 1)
-
+    def rotatedDigits(self, N):
+        """
+        :type N: int
+        :rtype: int
+        """
+        res = 0
+        for num in range(N+1):
+            s_num =  str(num)
+            if ('3' not in s_num and '4' not in s_num and  '7' not in s_num) and ('2' in s_num or '5' in s_num or '6' in s_num or '9' in s_num):
+                res += 1
+        return res
 
 if __name__ == '__main__':
     solution = Solution()
-    print(solution.letterCasePermutation("a1b2"))
-    print(solution.letterCasePermutation("3z4"))
+    print(solution.rotatedDigits(10))
+    print(solution.rotatedDigits(857))
 else:
     pass
 
