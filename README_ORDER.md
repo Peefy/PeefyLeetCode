@@ -427,6 +427,54 @@
 
 * Problem 859 (Easy) [*Buddy Strings*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/859.BuddyStrings/README.md)
 
+* Problem 860 (Easy) [*Lemonade Change*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/860.LemonadeChange/README.md)
+
+* Problem 867 (Easy) [*Transpose Matrix *](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/867.TransposeMatrix/README.md)
+
+* Problem 868 (Easy) [*Binary Gap*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/868.BinaryGap/README.md)
+
+* Problem 872 (Easy) [*Leaf Similar Trees*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/872.LeafSimilarTrees/README.md)
+
+* Problem 874 (Easy) [*Walking Robot Simulation*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/874.WalkingRobotSimulation/README.md)
+
+* Problem 883 (Easy) [*Projection Area*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/883.ProjectionArea/README.md)
+
+* Problem 884 (Easy) [*Uncommon From Sentences*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/884.UncommonFromSentences/README.md)
+
+* Problem 888 (Easy) [*Fair Candy Swap*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/888.FairCandySwap/README.md)
+
+* Problem 892 (Easy) [*Surface Area*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/892.SurfaceArea/README.md)
+
+* Problem 893 (Easy) [*Num Special Equiv Groups*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/893.NumSpecialEquivGroups/README.md)
+
+* Problem 896 (Easy) [*Monotonic Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/896.MonotonicArray/README.md)
+
+* Problem 897 (Easy) [*Increasing BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/897.IncreasingBST/README.md)
+
+* Problem 905 (Easy) [*Sort Array By Parity*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/897.IncreasingBST/README.md)
+
+* Problem 908 (Easy) [*Sort Array By Parity*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/908.SmallestRangeI/README.md)
+
+* Problem 914 (Easy) [*Has Groups Size X*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/914.HasGroupsSizeX/README.md)
+
+* Problem 917 (Easy) [*Reverse Only Letters*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/917.ReverseOnlyLetters/README.md)
+
+* Problem 925 (Easy) [*Long Pressed Name*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/925.LongPressedName/README.md)
+
+* Problem 929 (Easy) [*Num Unique Emails*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/929.NumUniqueEmails/README.md)
+
+* Problem 937 (Easy) [*Reorder Log Files*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/937.ReorderLogFiles/README.md)
+
+* Problem 941 (Easy) [*Valid Mountain Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/941.ValidMountainArray/README.md)
+
+* Problem 942 (Easy) [*Di String Match*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/942.DiStringMatch/README.md)
+
+* Problem 944 (Easy) [*944.DeleteColumnsToMakeSorted*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/944.DeleteColumnsToMakeSorted/README.md)
+
+* Problem 949 (Easy) [*949.LargestTimeFromDigits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/949.LargestTimeFromDigits/README.md) 
+
+* Problem 953 (Easy) [*Verifying An Alien Dictionary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/953.VerifyingAnAlienDictionary/README.md) 
+
 ## Normal
 
 ## Hard
