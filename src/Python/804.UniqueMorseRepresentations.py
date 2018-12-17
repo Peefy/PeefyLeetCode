@@ -1,28 +1,24 @@
 
 class Solution:
-    def rotateString(self, A, B):
+    def uniqueMorseRepresentations(self, words):
         """
-        :type A: str
-        :type B: str
-        :rtype: bool
+        :type words: List[str]
+        :rtype: int
         """
-        nA = len(A)
-        nB = len(B)
-        if nA != nB:
-            return False
-        if A == "":
-            return True
-        for i in range(nA):
-            A = A[1:] + A[0]
-            if A == B:
-                return True
-        return False
+        morse = [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
+        morsewords = set()
+        for word in words:
+            l = ""
+            for c in word:
+                l += morse[ord(c) - ord('a')]
+            morsewords.add(l)
+        return len(morsewords)
 
 
 if __name__ == '__main__':
     solution = Solution()
-    print(solution.rotateString(A = 'abcde', B = 'cdeab'))
-    print(solution.rotateString(A = 'abcde', B = 'abced'))
+    print(solution.uniqueMorseRepresentations(["gin", "zen", "gig", "msg"]))
 else:
     pass
+
 
