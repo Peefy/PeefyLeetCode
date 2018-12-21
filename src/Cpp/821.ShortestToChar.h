@@ -41,7 +41,7 @@ public:
         indexlist.push_back(10000); 
         for (int i = 0; i < S.length(); i++)
         {
-            if (C == S[i]){
+            if (C == S[i]){A
                 r.push_back(0);
                 ++j;
             }
