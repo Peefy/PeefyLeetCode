@@ -55,5 +55,6 @@
         "unordered_set": "cpp"
     },
     "python.pythonPath": "C:\\Users\\wuh15\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
-    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "python.formatting.provider": "yapf"
 }
