@@ -11,21 +11,18 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 
-public class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
-
 class Solution {
-    public ListNode middleNode(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-        while (fast != null && fast.next != null)
-        {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return slow;
+    public int projectionArea(int[][] grid) {
+        int area = 0;
+        for (int i = 0; i < grid.length; i++) {
+            int xy = 0, yz = 0, xz = 0;
+            for (int j = 0; j < grid[0].length; j++) {
+                xy += grid[i][j] == 0 ? 0 : 1;
+                yz = Math.max(yz, grid[i][j]);
+                xz = Math.max(xz, grid[j][i]);
+            }
+            area += (xy + yz + xz);
+        }       
+        return area;
     }
 }
