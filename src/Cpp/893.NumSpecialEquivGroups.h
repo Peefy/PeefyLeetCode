@@ -29,7 +29,22 @@ static int x = []() {
 class Solution {
 public:
     int numSpecialEquivGroups(vector<string>& A) {
-        
+        unordered_set<string> hash;
+		for (int i = 0; i < A.size(); i++) {
+			string ch = A[i];
+		    int len2 = ch.length() / 2;
+		    int len1 = ch.length() - len2;
+		    vector<char> ch1(len1);
+            vector<char> ch2(len2);
+		    for (int i = 0; i + i < ch.length(); i++)
+			    ch1[i] = ch[i + i];
+		    for (int i = 0; i + i + 1 < ch.length(); i++)
+			    ch2[i] = ch[i + i + 1];
+		    sort(ch1.begin(), ch1.end());
+		    sort(ch2.begin(), ch2.end());
+			hash.insert(string(ch1.begin(), ch1.end()) + string(ch2.begin(), ch2.end()));
+		}
+		return hash.size();
     }
 };
 

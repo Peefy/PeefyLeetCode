@@ -5,7 +5,7 @@ class Solution:
         :type A: List[str]
         :rtype: int
         """
-        pass
+        return len({''.join(sorted(a[::2])) + ''.join(sorted(a[1::2])) for a in A})
 
 
 if __name__ == '__main__':
