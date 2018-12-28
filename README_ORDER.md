@@ -469,9 +469,9 @@
 
 * Problem 942 (Easy) [*Di String Match*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/942.DiStringMatch/README.md)
 
-* Problem 944 (Easy) [*944.DeleteColumnsToMakeSorted*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/944.DeleteColumnsToMakeSorted/README.md)
+* Problem 944 (Easy) [*Delete Columns To Make Sorted*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/944.DeleteColumnsToMakeSorted/README.md)
 
-* Problem 949 (Easy) [*949.LargestTimeFromDigits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/949.LargestTimeFromDigits/README.md) 
+* Problem 949 (Easy) [*Largest Time From Digits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/949.LargestTimeFromDigits/README.md) 
 
 * Problem 953 (Easy) [*Verifying An Alien Dictionary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/953.VerifyingAnAlienDictionary/README.md) 
 

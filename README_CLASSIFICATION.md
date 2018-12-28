@@ -1230,12 +1230,12 @@
 * #### Problem 941 (Easy) [*Valid Mountain Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/941.ValidMountainArray/README.md)
 * #### Problem 942 (Easy) [*Di String Match*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/942.DiStringMatch/README.md)
 * #### Problem 943 (Easy)
-* #### Problem 944 (Easy) [*944.DeleteColumnsToMakeSorted*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/944.DeleteColumnsToMakeSorted/README.md)
+* #### Problem 944 (Easy) [*Delete Columns To Make Sorted*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/944.DeleteColumnsToMakeSorted/README.md)
 * #### Problem 945 (Easy)
 * #### Problem 946 (Easy)
 * #### Problem 947 (Easy)
 * #### Problem 948 (Easy)
-* #### Problem 949 (Easy) [*949.LargestTimeFromDigits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/949.LargestTimeFromDigits/README.md) 
+* #### Problem 949 (Easy) [*Largest Time From Digits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/949.LargestTimeFromDigits/README.md) 
 * #### Problem 950 (Easy)
 
 ## Problem 951 - Problem 960
