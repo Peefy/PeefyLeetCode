@@ -429,7 +429,7 @@
 
 * Problem 860 (Easy) [*Lemonade Change*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/860.LemonadeChange/README.md)
 
-* Problem 867 (Easy) [*Transpose Matrix *](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/867.TransposeMatrix/README.md)
+* Problem 867 (Easy) [*Transpose Matrix*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/867.TransposeMatrix/README.md)
 
 * Problem 868 (Easy) [*Binary Gap*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/868.BinaryGap/README.md)
 
