@@ -1048,7 +1048,7 @@
 * #### Problem 801 (Easy)
 * #### Problem 802 (Easy)
 * #### Problem 803 (Easy)
-* #### Problem 804 (Easy)  [*804.UniqueMorseRepresentations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/804.UniqueMorseRepresentations/README.md)
+* #### Problem 804 (Easy)  [*Unique Morse Representations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/804.UniqueMorseRepresentations/README.md)
 * #### Problem 805 (Easy)
 * #### Problem 806 (Easy) [*Number Of Lines*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/806.NumberOfLines/README.md)
 * #### Problem 807 (Easy)

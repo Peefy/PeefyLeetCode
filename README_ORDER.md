@@ -397,7 +397,7 @@
 
 * Problem 788 (Easy) [*Rotated Digits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/788.RotatedDigits/README.md)
 
-* Problem 804 (Easy)  [*804.UniqueMorseRepresentations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/804.UniqueMorseRepresentations/README.md)
+* Problem 804 (Easy)  [*Unique Morse Representations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/804.UniqueMorseRepresentations/README.md)
 
 * Problem 806 (Easy) [*Number Of Lines*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/801-900/806.NumberOfLines/README.md)
 
