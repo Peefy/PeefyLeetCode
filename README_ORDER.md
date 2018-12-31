@@ -475,6 +475,8 @@
 
 * Problem 953 (Easy) [*Verifying An Alien Dictionary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/953.VerifyingAnAlienDictionary/README.md) 
 
+* Problem 961 (Easy) [*Repeated N Times*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/901-1000/961.RepeatedNTimes/README.md) 
+
 ## Normal
 
 ## Hard
