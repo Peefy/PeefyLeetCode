@@ -479,6 +479,10 @@
 
 ## Normal
 
+* Problem 2 (Medium) [*Add Two Numbers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/2.AddTwoNumbers/README.md)
+
+* Problem 5 (Medium) [*Longest Palindromic Substring*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/5.LongestPalindromicSubstring/README.md) 
+
 ## Hard
 
 * Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)
