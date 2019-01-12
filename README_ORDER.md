@@ -483,6 +483,54 @@
 
 * Problem 5 (Medium) [*Longest Palindromic Substring*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/5.LongestPalindromicSubstring/README.md) 
 
+* Problem 6 (Medium) [*Zig Zag Conversion*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/6.ZigZagConversion/README.md) 
+
+* Problem 8 (Medium) [*String To Integer*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/8.StringToInteger/README.md) 
+
+* Problem 11 (Medium) [*Container With Most Water*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/11.ContainerWithMostWater/README.md) 
+
+* Problem 12 (Medium) [*Integer To Roman*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/12.IntegerToRoman/README.md)
+
+* Problem 15 (Medium) [*Three Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/15.ThreeSum/README.md)
+
+* Problem 16 (Medium) [*Three Sum Closest*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/16.ThreeSumClosest/README.md)
+
+* Problem 17 (Medium) [*Letter Combinations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/17.LetterCombinations/README.md)
+
+* Problem 18 (Medium) [*Four Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/18.FourSum/README.md)
+
+* Problem 19 (Medium) [*List Remove Nth From End*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/19.ListRemoveNthFromEnd/README.md)
+
+* Problem 22 (Medium) [*Generate Parentheses*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/22.GenerateParentheses/README.md) 
+
+* Problem 24 (Medium) [*List Swap Pairs*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/24.ListSwapPairs/README.md) 
+
+* Problem 29 (Medium) [*Divide Two Integers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/29.DivideTwoIntegers/README.md)
+
+* Problem 31 (Medium) [*Next Permutation*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/31.NextPermutation/README.md)
+
+* Problem 33 (Medium) [*Search In Rotated Sorted Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/33.SearchInRotatedSortedArray/README.md)
+
+* Problem 34 (Medium) [*Search Range*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/34.SearchRange/README.md)
+
+* Problem 36 (Medium) [*Is Valid Sudoku*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/36.IsValidSudoku/README.md)
+
+* Problem 39 (Medium) [*Combination Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/39.CombinationSum/README.md)
+
+* Problem 40 (Medium) [*Combination Sum II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/40.CombinationSumII/README.md)
+
+* Problem 43 (Medium) [*Multiply Strings*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/43.MultiplyStrings/README.md)
+
+* Problem 46 (Medium) [*Permutations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/46.Permutations/README.md)
+
+* Problem 47 (Medium) [*Permutations II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/46.PermutationsII/README.md)
+
+* Problem 48 (Medium) [*Rotate Image*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/48.RotateImage/README.md)
+
+* Problem 49 (Medium) [*Group Anagrams*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/49.GroupAnagrams/README.md)
+
+* Problem 50 (Medium) [*Pow(x,n)*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/50.Pow(x,n)/README.md)
+
 ## Hard
 
 * Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)

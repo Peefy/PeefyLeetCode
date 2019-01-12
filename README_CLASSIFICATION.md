@@ -8,63 +8,63 @@
 * #### Problem 3
 * #### Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)
 * #### Problem 5 (Medium) [*Longest Palindromic Substring*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/5.LongestPalindromicSubstring/README.md) 
-* #### Problem 6
+* #### Problem 6 (Medium) [*Zig Zag Conversion*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/6.ZigZagConversion/README.md) 
 * #### Problem 7 (Easy) [*Reverse Integer*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/7.ReverseInteger/README.md)
-* #### Problem 8
+* #### Problem 8 (Medium) [*String To Integer*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/8.StringToInteger/README.md) 
 * #### Problem 9 (Easy) [*Palindrome Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/9.PalindromeNumber/README.md)
 * #### Problem 10
 
 ## Problem 11 - Problem 20
 
-* #### Problem 11
-* #### Problem 12
+* #### Problem 11 (Medium) [*Container With Most Water*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/11.ContainerWithMostWater/README.md) 
+* #### Problem 12 (Medium) [*Integer To Roman*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/12.IntegerToRoman/README.md)
 * #### Problem 13 (Easy) [*Roman to Integer*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/13.RomantoInteger/README.md)
 * #### Problem 14 (Easy) [*Longest Common Prefix*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/14.LongestCommonPrefix/README.md)
-* #### Problem 15
-* #### Problem 16
-* #### Problem 17
-* #### Problem 18
-* #### Problem 19
+* #### Problem 15 (Medium) [*Three Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/15.ThreeSum/README.md)
+* #### Problem 16 (Medium) [*Three Sum Closest*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/16.ThreeSumClosest/README.md)
+* #### Problem 17 (Medium) [*Letter Combinations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/17.LetterCombinations/README.md)
+* #### Problem 18 (Medium) [*Four Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/18.FourSum/README.md)
+* #### Problem 19 (Medium) [*List Remove Nth From End*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/19.ListRemoveNthFromEnd/README.md)
 * #### Problem 20 (Easy) [*Valid Parentheses*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/20.ValidParentheses/README.md)
 
 ## Problem 21 - Problem 30
 
 * #### Problem 21 (Easy) [*Merge Two Sorted Lists*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/21.MergeTwoSortedLists/README.md)
-* #### Problem 22 
+* #### Problem 22 (Medium) [*Generate Parentheses*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/22.GenerateParentheses/README.md) 
 * #### Problem 23 
-* #### Problem 24 
+* #### Problem 24 (Medium) [*List Swap Pairs*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/24.ListSwapPairs/README.md) 
 * #### Problem 25
 * #### Problem 26 (Easy) [*Remove Duplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/26.RemoveDuplicates/README.md)
 * #### Problem 27 (Easy) [*Remove Element*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/27.RemoveElement/README.md)
 * #### Problem 28 (Easy) [*StrStr*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/28.StrStr/README.md)
-* #### Problem 29
+* #### Problem 29 (Medium) [*Divide Two Integers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/29.DivideTwoIntegers/README.md)
 * #### Problem 30 
 
 ## Problem 31 - Problem 40
 
-* #### Problem 31 (Easy)
+* #### Problem 31 (Medium) [*Next Permutation*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/31.NextPermutation/README.md)
 * #### Problem 32 (Easy)
-* #### Problem 33 (Easy)
-* #### Problem 34 (Easy)
+* #### Problem 33 (Medium) [*Search In Rotated Sorted Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/33.SearchInRotatedSortedArray/README.md)
+* #### Problem 34 (Medium) [*Search Range*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/34.SearchRange/README.md)
 * #### Problem 35 (Easy) [*Search Insert*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/35.SearchInsert/README.md)
-* #### Problem 36 (Easy)
+* #### Problem 36 (Medium) [*Is Valid Sudoku*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/36.IsValidSudoku/README.md)
 * #### Problem 37 (Easy)
 * #### Problem 38 (Easy) [*Count And Say*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/38.CountAndSay/README.md)
-* #### Problem 39 (Easy)
-* #### Problem 40 (Easy)
+* #### Problem 39 (Medium) [*Combination Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/39.CombinationSum/README.md)
+* #### Problem 40 (Medium) [*Combination Sum II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/40.CombinationSumII/README.md)
 
 ## Problem 41 - Problem 50
 
 * #### Problem 41 (Easy)
 * #### Problem 42 (Easy)
-* #### Problem 43 (Easy)
+* #### Problem 43 (Medium) [*Multiply Strings*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/43.MultiplyStrings/README.md)
 * #### Problem 44 (Easy)
 * #### Problem 45 (Easy) 
-* #### Problem 46 (Easy)
-* #### Problem 47 (Easy)
-* #### Problem 48 (Easy) 
-* #### Problem 49 (Easy)
-* #### Problem 50 (Easy)
+* #### Problem 46 (Medium) [*Permutations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/46.Permutations/README.md)
+* #### Problem 47 (Medium) [*Permutations II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/46.PermutationsII/README.md)
+* #### Problem 48 (Medium) [*Rotate Image*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/48.RotateImage/README.md)
+* #### Problem 49 (Medium) [*Group Anagrams*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/49.GroupAnagrams/README.md)
+* #### Problem 50 (Medium) [*Pow(x,n)*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/50.Pow(x,n)/README.md)
 
 ## Problem 51 - Problem 60
 
