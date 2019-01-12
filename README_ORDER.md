@@ -481,6 +481,8 @@
 
 * Problem 2 (Medium) [*Add Two Numbers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/2.AddTwoNumbers/README.md)
 
+* Problem 3 (Medium) [*Length Of Longest Substring*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/3.LengthOfLongestSubstring/README.md)
+
 * Problem 5 (Medium) [*Longest Palindromic Substring*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/5.LongestPalindromicSubstring/README.md) 
 
 * Problem 6 (Medium) [*Zig Zag Conversion*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/6.ZigZagConversion/README.md) 
