@@ -10,7 +10,26 @@
 
 ```c++
 
+static int x = []() {
+    ios::sync_with_stdio(false); 
+    cin.tie(NULL);              
+    return 0;
+}();
 
+
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        if (head != nullptr && head->next != nullptr){
+            head->next->next = swapPairs(head->next->next);
+            auto* second = head->next;
+            head->next = second->next;
+            second->next = head;
+            return second;
+        }
+        return head;
+    }
+};
 
 ```
 
@@ -18,7 +37,18 @@
 
 ```csharp
 
-
+public class Solution {
+    public ListNode SwapPairs(ListNode head) {
+        if (head != null && head.next != null){
+            head.next.next = SwapPairs(head.next.next);
+            ListNode second = head.next;
+            head.next = second.next;
+            second.next = head;
+            return second;
+        }
+        return head;
+    }
+}
 
 ```
 
@@ -26,7 +56,18 @@
 
 ```java
 
-
+class Solution {
+    public ListNode swapPairs(ListNode head) {
+        if (head != null && head.next != null){
+            head.next.next = swapPairs(head.next.next);
+            ListNode second = head.next;
+            head.next = second.next;
+            second.next = head;
+            return second;
+        }
+        return head;
+    }
+}
 
 ```
 

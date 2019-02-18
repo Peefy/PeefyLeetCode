@@ -1,6 +1,6 @@
 
-#ifndef __FOUR_SUM_H
-#define __FOUR_SUM_H
+#ifndef __LIST_REMOVE_NTH_FROM_END_H
+#define __LIST_REMOVE_NTH_FROM_END_H
 
 #include <iostream>
 #include <vector>
