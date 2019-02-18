@@ -13,12 +13,6 @@
 
 using namespace std;
 
-struct ListNode {
-    int val;
-    ListNode *next;
-    ListNode(int x) : val(x), next(NULL) {}
-};
-
 static int x = []() {
     ios::sync_with_stdio(false); 
     cin.tie(NULL);              
