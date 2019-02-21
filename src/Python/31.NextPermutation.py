@@ -40,4 +40,4 @@ if __name__ == "__main__":
     print(solution.nextPermutation([1, 3, 2]))
     print(solution.nextPermutation([5, 5, 2, 3, 4, 7]))
     print(solution.nextPermutation([5, 4, 7, 5, 3, 2]))
-    
+
