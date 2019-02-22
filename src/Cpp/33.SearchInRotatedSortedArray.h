@@ -1,6 +1,6 @@
 
-#ifndef __SEARCH_I_ROTATED_SORTED_ARRAY_H
-#define __SEARCH_I_ROTATED_SORTED_ARRAY_H
+#ifndef __SEARCH_IN_ROTATED_SORTED_ARRAY_H
+#define __SEARCH_IN_ROTATED_SORTED_ARRAY_H
 
 #include <iostream>
 #include <vector>
