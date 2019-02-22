@@ -18,7 +18,7 @@ class Solution {
             if(target == nums[i]){
                 res[0] = i;
                 break;
-            }
+            }a
         }
         for(int i=nums.length-1;i>=0;i--){
             if(target == nums[i]){
