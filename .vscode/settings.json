@@ -57,5 +57,6 @@
     },
     "python.pythonPath": "C:\\Users\\wuh15\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "C_Cpp.intelliSenseEngineFallback": "Enabled",
-    "python.formatting.provider": "yapf"
+    "python.formatting.provider": "yapf",
+    "C_Cpp.errorSquiggles": "Disabled"
 }
