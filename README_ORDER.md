@@ -533,6 +533,62 @@
 
 * Problem 50 (Medium) [*Pow(x,n)*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/50.Pow(x,n)/README.md)
 
+* Problem 54 (Medium) [*Spiral Matrix*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/54.SpiralMatrix/README.md)
+
+* Problem 55 (Medium) [*Jump Game*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/55.JumpGame/README.md)
+
+* Problem 56 (Medium) [*Merge Intervals*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/56.MergeIntervals/README.md)
+
+* Problem 59 (Medium) [*Spiral Matrix II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/59.SpiralMatrixII/README.md)
+
+* Problem 60 (Medium) [*Permutation Sequence*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/60.PermutationSequence/README.md)
+
+* Problem 62 (Medium) [*Unique Paths*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/62.UniquePaths/README.md)
+
+* Problem 63 (Medium) [*UniquePaths II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/63.UniquePathsII/README.md)
+
+* Problem 64 (Medium) [*Minimum Path Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/64.MinimumPathSum/README.md)
+
+* Problem 71 (Medium) [*Simplify Path*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/71.SimplifyPath/README.md)
+
+* Problem 73 (Medium) [*Set Matrix Zeroes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/73.SetMatrixZeroes/README.md)
+
+* Problem 74 (Medium) [*Search 2D Matrix*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/74.Search2DMatrix/README.md)
+
+* Problem 75 (Medium) [*Sort Colors*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/75.SortColors/README.md)
+
+* Problem 77 (Medium) [*Combinations*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/77.Combinations/README.md) 
+
+* Problem 78 (Medium) [*Subsets*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/78.Subsets/README.md) 
+
+* Problem 79 (Medium) [*Word Search*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/79.WordSearch/README.md) 
+
+* Problem 80 (Medium) [*Remove Duplicates From Sorted Array II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/80.RemoveDuplicatesFromSortedArrayII/README.md) 
+
+* Problem 81 (Medium) [*Search In Rotated Sorted Array II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/81.SearchInRotatedSortedArrayII/README.md)
+
+* Problem 82 (Medium) [*Remove Duplicates From Sorted List II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/82.RemoveDuplicatesFromSortedListII/README.md)
+
+* Problem 86 (Medium) [*Partition List*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/86.PartitionList/README.md)
+
+* Problem 89 (Medium) [*Gray Code*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/89.GrayCode/README.md)
+
+* Problem 90 (Medium) [*Subsets II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/90.SubsetsII/README.md)
+
+* Problem 91 (Medium) [*Decode Ways*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/91.DecodeWays/README.md)
+
+* Problem 92 (Medium) [*ReverseLinkedListII*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/92.ReverseLinkedListII/README.md)
+
+* Problem 93 (Medium) [*Restore IP Addresses*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/93.RestoreIPAddresses/README.md) 
+
+* Problem 94 (Medium) [*Binary Tree Inorder Traversal*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/94.BinaryTreeInorderTraversal/README.md) 
+
+* Problem 95 (Medium) [*Unique Binary Search Trees II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/95.UniqueBinarySearchTreesII/README.md) 
+
+* Problem 96 (Medium) [*Unique Binary Search Trees*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/96.UniqueBinarySearchTrees/README.md) 
+
+* Problem 98 (Medium) [*Validate Binary Search Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/98.ValidateBinarySearchTree/README.md)
+
 ## Hard
 
 * Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)
