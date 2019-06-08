@@ -1,6 +1,6 @@
 
-#ifndef __MINIMUM_PATH_SUM_H
-#define __MINIMUM_PATH_SUM_H
+#ifndef __SIMPLIFY_PATH_H
+#define __SIMPLIFY_PATH_H
 
 #include <iostream>
 #include <vector>
