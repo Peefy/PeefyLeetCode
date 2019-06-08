@@ -543,6 +543,8 @@
 
 * Problem 60 (Medium) [*Permutation Sequence*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/60.PermutationSequence/README.md)
 
+* Problem 61 (Medium) [*Rotate List*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/61.RotateList/README.md)
+
 * Problem 62 (Medium) [*Unique Paths*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/62.UniquePaths/README.md)
 
 * Problem 63 (Medium) [*UniquePaths II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/63.UniquePathsII/README.md)
