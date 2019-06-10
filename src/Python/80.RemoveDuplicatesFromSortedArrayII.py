@@ -1,13 +1,22 @@
 
 class Solution:
     def removeDuplicates(self, nums : list) -> int:
-        i = 0
-        k = 2
-        for n in nums:
-            if i < k or n != nums[i - k]:
-                nums[i] = n
-                i += 1
-        return i
+        n = len(nums)
+        if n == 0:
+            return 0
+        second = 0
+        count = 1
+        before = nums[0]
+        for i in range(1, n):
+            if nums[i] == before:
+                count += 1
+            else:
+                if count > 2:
+                    nums[second] = nums[i]
+            if count == 3:
+                second = i
+            before = nums[i]
+        return nums    
 
 if __name__ == "__main__":
     solution = Solution()
