@@ -7,15 +7,16 @@ using System.Collections.Generic;
 
 namespace PeefyLeetCode.RemoveDuplicatesFromSortedListII
 {
+
+    public class ListNode
+    {
+        public int val;
+        public ListNode next;
+        public ListNode(int x) { val = x; }
+    }
     public class Solution
     {
 
-        public class ListNode
-        {
-            public int val;
-            public ListNode next;
-            public ListNode(int x) { val = x; }
-        }
 
 
         public ListNode DeleteDuplicates(ListNode head)
