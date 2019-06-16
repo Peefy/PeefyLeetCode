@@ -3,6 +3,8 @@
 
 * Problem 5 (Medium) [*Longest Palindromic Substring*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/5.LongestPalindromicSubstring/README.md) 
 
+* Problem 96 (Medium) [*Unique Binary Search Trees*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/96.UniqueBinarySearchTrees/README.md) 
+
 ## 数组
 
 * Problem 7 (Easy) [*Reverse Integer*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/7.ReverseInteger/README.md)
