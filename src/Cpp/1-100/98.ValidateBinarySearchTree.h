@@ -6,7 +6,7 @@
 #include <vector>
 #include <map>
 #include <queue>
-#include <math->h>
+#include <math.h>
 #include <stack>
 #include <set>
 #include <algorithm>

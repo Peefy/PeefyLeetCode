@@ -21,6 +21,8 @@
 
 * Problem 104 (Easy) [*Tree Max Depth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/104.TreeMaxDepth/README.md)
 
+* Problem 102 (Medium) [*Binary Tree Level Order Traversal*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/102.BinaryTreeLevelOrderTraversal/README.md)
+
 ## 哈希表
 
 * Problem 1 (Easy) [*Two Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/1.TwoSum/README.md)
@@ -29,11 +31,15 @@
 
 ## 广度优先搜索BFS
 
+* Problem 102 (Medium) [*Binary Tree Level Order Traversal*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/102.BinaryTreeLevelOrderTraversal/README.md)
+
 ## 二分查找
 
 ## 贪心算法
 
 ## 双指针
+
+* #### Problem 141 (Easy) [*List Has Cycle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/141.ListHasCycle/README.md) 
 
 ## 栈
 
@@ -45,9 +51,13 @@
 
 ## 排序
 
+* Problem 148 (Medium) [*Sort List*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/148.SortList/README.md)
+
 ## 位运算
 
 ## 回溯算法
+
+* Problem 78 (Medium) [*Subsets*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/78.Subsets/README.md) 
 
 ## 分治算法
 
