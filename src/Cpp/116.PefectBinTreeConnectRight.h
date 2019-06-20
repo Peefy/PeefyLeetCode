@@ -1,6 +1,6 @@
 
-#ifndef __FLATTEN_BINARY_TREE_TO_LINKED_LIST_H
-#ifndef __FLATTEN_BINARY_TREE_TO_LINKED_LIST_H
+#ifndef __PERFECT_BINARY_TREE_CONNECT_RIGHT_H
+#ifndef __PERFECT_BINARY_TREE_CONNECT_RIGHT_H
 
 #include <iostream>
 #include <vector>
