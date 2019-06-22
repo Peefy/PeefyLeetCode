@@ -1,10 +1,11 @@
 
 class Solution:
-    def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+    def ladderLength(self, beginWord, endWord, wordList):
         pass
 
 
 if __name__ == "__main__":
     solution = Solution()
-    print(solution.minimumTotal([[2],[3,4],[6,5,7],[4,1,8,3]]))
+    print(solution.ladderLength("hit","cog",["hot","dot","dog","lot","log","cog"]))
+    print(solution.ladderLength("hit","cog",["hot","dot","dog","lot","log"]))
 
