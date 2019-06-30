@@ -1,4 +1,3 @@
-
 class Solution:
     def canCompleteCircuit(self, gas, cost):
         sum = 0
