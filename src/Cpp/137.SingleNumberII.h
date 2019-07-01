@@ -24,7 +24,12 @@ static int x = []() {
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        
+        int b1 = 0, b2 = 0;
+        for (int n : nums){
+            b1 = (b1 ^ n) & ~ b2; 
+            b2 = (b2 ^ n) & ~ b1;
+        }
+        return b1;
     }
 };
 
