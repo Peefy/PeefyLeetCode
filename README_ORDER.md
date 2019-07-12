@@ -635,6 +635,8 @@
 
 * Problem 144 (Medium) [*Binary Tree Preorder Traversal*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/144.BinaryTreePreorderTraversal/README.md)
 
+* Problem 146 (Medium) [*LRU Cache*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/146.LRUCache/README.md)
+
 * Problem 147 (Medium) [*Insertion SortList*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/147.InsertionSortList/README.md)
 
 * Problem 148 (Medium) [*Sort List*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/148.SortList/README.md)
