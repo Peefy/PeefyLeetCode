@@ -199,12 +199,12 @@
 
 ## Problem 151 - Problem 160
 
-* #### Problem 151 (Easy)
-* #### Problem 152 (Easy)
-* #### Problem 153 (Easy)
+* #### Problem 151 (Medium) [*Reverse Words In String*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/151.ReverseWordsInString/README.md)
+* #### Problem 152 (Medium) [*Maximum Product Subarray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/152.MaximumProductSubarray/README.md)
+* #### Problem 153 (Medium) [*Find Minimum In Rotated Sorted Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/153.FindMinimumInRotatedSortedArray/README.md)
 * #### Problem 154 (Easy)
 * #### Problem 155 (Easy) [*Min Stack*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/155.MinStack/README.md) 
-* #### Problem 156 (Easy)
+* #### Problem 156 (Medium) [*Binary Tree Upside Down*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/156.BinaryTreeUpsideDown/README.md)
 * #### Problem 157 (Easy)
 * #### Problem 158 (Easy)
 * #### Problem 159 (Easy)
@@ -212,9 +212,9 @@
 
 ## Problem 161 - Problem 170
 
-* #### Problem 161 (Easy)
-* #### Problem 162 (Easy)
-* #### Problem 163 (Easy)
+* #### Problem 161 (Medium) [*String One Edit Distance*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/161.StringOneEditDistance/README.md) 
+* #### Problem 162 (Medium) [*Find Peak Element*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/162.FindPeakElement/README.md) 
+* #### Problem 163 (Medium) [*Missing Ranges*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/163.MissingRanges/README.md) 
 * #### Problem 164 (Easy)
 * #### Problem 165 (Easy)
 * #### Problem 166 (Easy)
