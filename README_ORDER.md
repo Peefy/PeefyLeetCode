@@ -657,6 +657,16 @@
 
 * Problem 163 (Medium) [*Missing Ranges*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/163.MissingRanges/README.md) 
 
+* Problem 165 (Medium) [*Compare Version Numbers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/165.CompareVersionNumbers/README.md) 
+
+* Problem 166 (Medium) [*Fraction To Decimal*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/166.FractionToDecimal/README.md) 
+
+* Problem 173 (Medium) [*Binary Search Tree Iterator*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/173.BinarySearchTreeIterator/README.md) 
+
+* Problem 177 (Medium) [*Nth Highest Salary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/177.NthHighestSalary/README.md) 
+
+* Problem 178 (Medium) [*Rank Scores*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/178.RankScores/README.md) 
+
 ## Hard
 
 * Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)
