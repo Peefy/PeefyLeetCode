@@ -667,6 +667,18 @@
 
 * Problem 178 (Medium) [*Rank Scores*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/178.RankScores/README.md) 
 
+* Problem 179 (Medium) [*Largest Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/179.LargestNumber/README.md) 
+
+* Problem 180 (Medium) [*Consecutive Numbers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/180.ConsecutiveNumbers/README.md)
+
+* Problem 184 (Medium) [*Department Highest Salary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/184.DepartmentHighestSalary/README.md)
+
+* Problem 186 (Medium) [*Revers Words In String II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/186.ReverseWordsInStringII/README.md)
+
+* Problem 187 (Medium) [*Repeated DNA Sequences*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/187.RepeatedDNASequences/README.md)
+
+* Problem 192 (Medium) [*Word Frequency*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/192.WordFrequency/README.md)
+
 ## Hard
 
 * Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)

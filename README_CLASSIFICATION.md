@@ -233,18 +233,18 @@
 * #### Problem 176 (Easy) [*Sql Second Highest Salary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/176.SqlSecondHighestSalary/README.md) 
 * #### Problem 177 (Medium) [*Nth Highest Salary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/177.NthHighestSalary/README.md) 
 * #### Problem 178 (Medium) [*Rank Scores*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/178.RankScores/README.md) 
-* #### Problem 179 (Easy)
-* #### Problem 180 (Easy)
+* #### Problem 179 (Medium) [*Largest Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/179.LargestNumber/README.md) 
+* #### Problem 180 (Medium) [*Consecutive Numbers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/180.ConsecutiveNumbers/README.md)
 
 ## Problem 181 - Problem 190
 
 * #### Problem 181 (Easy) [*Sql Manager More Than Employee*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/181.SqlManagerMoreThanEmployee/README.md) 
 * #### Problem 182 (Easy) [*Sql Duplicate Email*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/182.SqlDuplicateEmail/README.md) 
 * #### Problem 183 (Easy) [*Sql Customer Not Order*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/183.SqlCustomerNotOrder/README.md) 
-* #### Problem 184 (Easy)
+* #### Problem 184 (Medium) [*Department Highest Salary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/184.DepartmentHighestSalary/README.md)
 * #### Problem 185 (Easy)
-* #### Problem 186 (Easy)
-* #### Problem 187 (Easy)
+* #### Problem 186 (Medium) [*Revers Words In String II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/186.ReverseWordsInStringII/README.md)
+* #### Problem 187 (Medium) [*Repeated DNA Sequences*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/187.RepeatedDNASequences/README.md)
 * #### Problem 188 (Easy)
 * #### Problem 189 (Easy) [*Rotate Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/189.RotateArray/README.md) 
 * #### Problem 190 (Easy) [*Int Reverse Bits*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/190.IntReverseBits/README.md) 
@@ -252,7 +252,7 @@
 ## Problem 191 - Problem 200
 
 * #### Problem 191 (Easy) [*Int Hamming Weight*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/191.IntHammingWeight/README.md) 
-* #### Problem 192 (Easy)
+* #### Problem 192 (Medium) [*Word Frequency*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/192.WordFrequency/README.md)
 * #### Problem 193 (Easy) [*Shell Valid PhoneNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/193.ShellValidPhoneNumber/README.md) 
 * #### Problem 194 (Easy)
 * #### Problem 195 (Easy) [*Shell Tenth Line*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/195.ShellTenthLine/README.md) 
