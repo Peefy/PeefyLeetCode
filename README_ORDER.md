@@ -679,6 +679,10 @@
 
 * Problem 192 (Medium) [*Word Frequency*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/192.WordFrequency/README.md)
 
+* Problem 194 (Medium) [*Transpose File*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/194.TransposeFile/README.md)
+
+* Problem 199 (Medium) [*Binary Tree Right Side View*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/199.BinaryTreeRightSideView/README.md)
+
 ## Hard
 
 * Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)

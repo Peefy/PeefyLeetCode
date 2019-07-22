@@ -254,12 +254,12 @@
 * #### Problem 191 (Easy) [*Int Hamming Weight*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/191.IntHammingWeight/README.md) 
 * #### Problem 192 (Medium) [*Word Frequency*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/192.WordFrequency/README.md)
 * #### Problem 193 (Easy) [*Shell Valid PhoneNumber*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/193.ShellValidPhoneNumber/README.md) 
-* #### Problem 194 (Easy)
+* #### Problem 194 (Medium) [*Transpose File*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/194.TransposeFile/README.md)
 * #### Problem 195 (Easy) [*Shell Tenth Line*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/195.ShellTenthLine/README.md) 
 * #### Problem 196 (Easy) [*Sql Delete DuplicateEmail*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/196.SqlDeleteDuplicateEmail/README.md) 
 * #### Problem 197 (Easy) [*Sql Rising Temperature*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/197.SqlRisingTemperature/README.md) 
 * #### Problem 198 (Easy) [*Rob*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/198.Rob/README.md) 
-* #### Problem 199 (Easy)
+* #### Problem 199 (Medium) [*Binary Tree Right Side View*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/199.BinaryTreeRightSideView/README.md)
 * #### Problem 200 (Easy)
 
 ## Problem 201 - Problem 210
