@@ -7,6 +7,17 @@
 
 ```c++
 
+class Solution {
+public:
+    TreeNode* upsideDownBinaryTree(TreeNode* root) {
+        if(!root || !root->left) return root;
+        TreeNode *newRoot = upsideDownBinaryTree(root->left);
+        root->left->left = root->right;
+        root->left->right = root;
+        root->left = NULL, root->right = NULL;
+        return newRoot;
+    }
+};
 
 
 ```
@@ -15,7 +26,18 @@
 
 ```csharp
 
-
+public class Solution {
+    public TreeNode UpsideDownBinaryTree(TreeNode root) {
+        if(root == null || root.left == null) 
+            return root;
+        TreeNode newRoot = UpsideDownBinaryTree(root.left);
+        root.left.left = root.right;
+        root.left.right = root;
+        root.left = null; 
+        root.right = null;
+        return newRoot;
+    }
+}
 
 ```
 
@@ -23,7 +45,18 @@
 
 ```java
 
-
+class Solution {
+    public TreeNode upsideDownBinaryTree(TreeNode root) {
+        if(root == null || root.left == null) 
+            return root;
+        TreeNode newRoot = upsideDownBinaryTree(root.left);
+        root.left.left = root.right;
+        root.left.right = root;
+        root.left = null; 
+        root.right = null;
+        return newRoot;
+    }
+}
 
 ```
 
@@ -31,7 +64,16 @@
 
 ```python
 
-
+class Solution:
+    def upsideDownBinaryTree(self, root):
+        if root is None or root.left is None: 
+            return root
+        newRoot = self.upsideDownBinaryTree(root.left)
+        root.left.left = root.right
+        root.left.right = root
+        root.left = None
+        root.right = None
+        return newRoot
 
 ```
 
