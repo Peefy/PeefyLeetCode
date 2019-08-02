@@ -7,7 +7,20 @@
 
 ```c++
 
-
+class Solution {
+public:
+    int findPeakElement(vector<int>& nums) {
+        int l = 0, r = nums.size() - 1;
+        while (l < r) {
+            int mid = (l + r) / 2;
+            if (nums[mid] > nums[mid + 1])
+                r = mid;
+            else
+                l = mid + 1;
+        }
+        return l;
+    }
+};
 
 ```
 
@@ -15,7 +28,19 @@
 
 ```csharp
 
-
+public class Solution {
+    public int FindPeakElement(int[] nums) {
+        int l = 0, r = nums.Length - 1;
+        while (l < r) {
+            int mid = (l + r) / 2;
+            if (nums[mid] > nums[mid + 1])
+                r = mid;
+            else
+                l = mid + 1;
+        }
+        return l;
+    }
+}
 
 ```
 
@@ -23,7 +48,19 @@
 
 ```java
 
-
+public class Solution {
+    public int findPeakElement(int[] nums) {
+        int l = 0, r = nums.length - 1;
+        while (l < r) {
+            int mid = (l + r) / 2;
+            if (nums[mid] > nums[mid + 1])
+                r = mid;
+            else
+                l = mid + 1;
+        }
+        return l;
+    }
+}
 
 ```
 
@@ -31,7 +68,17 @@
 
 ```python
 
-
+class Solution:
+    def findPeakElement(self, nums):
+        l = 0
+        right = len(nums) - 1
+        while l < r:
+            mid = (l + r) // 2
+            if nums[mid] > nums[mid + 1]:
+                r = mid
+            else:
+                l = mid + 1
+        return l
 
 ```
 

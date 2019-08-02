@@ -36,4 +36,4 @@ class Solution:
 
 if __name__ == "__main__":
     solution = Solution()
-    print(solution.upsideDownBinaryTree(node))
+    print(solution.isOneEditDistance("ss", "sst"))
