@@ -3,36 +3,13 @@
 
 <img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/178.RankScores/problem.png"/>
 
-## C++ Solution
+## DQL Solution
 
-```c++
+```sql
 
-
-
-```
-
-## C# Solution
-
-```csharp
-
-
+select 
+    a.Score as score , 
+    (select count(distinct b.Score) from Scores b where b.Score >=a.Score) as rank
+from Scores a order by Score DESC;
 
 ```
-
-## Java Solution
-
-```java
-
-
-
-```
-
-## Python Solution
-
-```python
-
-
-
-```
-
-
