@@ -3,36 +3,14 @@
 
 <img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/192.WordFrequency/problem.png"/>
 
-## C++ Solution
+## Bash Solution
 
-```c++
+```bash
 
-
-
-```
-
-## C# Solution
-
-```csharp
-
-
+cat words.txt | xargs -n 1 | sort | uniq -c | sort -nr | awk '{print $2" "$1}'
 
 ```
 
-## Java Solution
 
-```java
-
-
-
-```
-
-## Python Solution
-
-```python
-
-
-
-```
 
 
