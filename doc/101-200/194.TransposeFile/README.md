@@ -3,36 +3,18 @@
 
 <img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/194.TransposeFile/problem.png"/>
 
-## C++ Solution
+## Bash Solution
 
-```c++
+```bash
 
+line=$(awk 'END{print NF}' file.txt)
 
-
-```
-
-## C# Solution
-
-```csharp
-
-
+for ((i=1; i<=${line}; i++)); do
+	col_content=$(cut -f $i -d " " file.txt)
+	echo $col_content
+done
 
 ```
 
-## Java Solution
-
-```java
-
-
-
-```
-
-## Python Solution
-
-```python
-
-
-
-```
 
 
