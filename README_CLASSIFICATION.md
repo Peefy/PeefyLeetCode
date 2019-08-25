@@ -297,9 +297,9 @@
 * #### Problem 225 (Easy) [*Stack Using Queue*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/225.StackUsingQueue/README.md)
 * #### Problem 226 (Easy) [*InvertTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/226.InvertTree/README.md)
 * #### Problem 227 (Medium) [Basic Calculator II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/227.BasicCalculatorII/README.md)
-* #### Problem 228 (Easy)
-* #### Problem 229 (Easy)
-* #### Problem 230 (Easy)
+* #### Problem 228 (Medium) [Summary Ranges*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/228.SummaryRanges/README.md)
+* #### Problem 229 (Medium) [Majority Element II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/229.MajorityElementII/README.md)
+* #### Problem 230 (Medium) [Kth Smallest Element In a BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/230.KthSmallestElementInaBST/README.md)
 
 ## Problem 231 - Problem 240
 

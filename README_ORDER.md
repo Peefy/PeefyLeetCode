@@ -713,8 +713,15 @@
 
 * Problem 227 (Medium) [Basic Calculator II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/227.BasicCalculatorII/README.md)
 
+* Problem 228 (Medium) [Summary Ranges*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/228.SummaryRanges/README.md)
+
+* Problem 229 (Medium) [Majority Element II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/229.MajorityElementII/README.md)
+
+* Problem 230 (Medium) [Kth Smallest Element In a BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/230.KthSmallestElementInaBST/README.md)
+
 ## Hard
 
 * Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)
 
 * Problem 145 (Hard) [*Binary Tree Post Order Traversal*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/145.BinaryTreePostOrderTraversal/README.md)
+
