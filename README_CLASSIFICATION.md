@@ -260,7 +260,7 @@
 * #### Problem 197 (Easy) [*Sql Rising Temperature*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/197.SqlRisingTemperature/README.md) 
 * #### Problem 198 (Easy) [*Rob*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/198.Rob/README.md) 
 * #### Problem 199 (Medium) [*Binary Tree Right Side View*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/199.BinaryTreeRightSideView/README.md)
-* #### Problem 200 (Easy)
+* #### Problem 200 (Medium) [*Number Of Islands*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/200.NumberOfIslands/README.md)
 
 ## Problem 201 - Problem 210
 
