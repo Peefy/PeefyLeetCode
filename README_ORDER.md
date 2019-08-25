@@ -685,7 +685,33 @@
 
 * Problem 200 (Medium) [*Number Of Islands*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/200.NumberOfIslands/README.md)
 
-* Problem 201 (Medium) [*Number Of Islands*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/201.BitwiseANDOfNumbersRange/README.md)
+* Problem 201 (Medium) [*Number Of Islands*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/201.BitwiseANDOfNumbersRange/README.md)
+
+* Problem 207 (Medium) [*Course Schedule*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/207.CourseSchedule/README.md)
+
+* Problem 208 (Medium) [*Implement Trie(Prefix Tree)*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/208.ImplementTrie(PrefixTree)/README.md)
+
+* Problem 209 (Medium) [*209.MinimumSizeSubarraySum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/209.MinimumSizeSubarraySum/README.md)
+
+* Problem 210 (Medium) [*Course Schedule II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/210.CourseScheduleII/README.md)
+
+* Problem 211 (Medium) [*Add And Search Word*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/211.AddAndSearchWord/README.md)
+
+* Problem 213 (Medium) [*House Robber II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/213.HouseRobberII/README.md)
+
+* Problem 215 (Medium) [*Kth Largest Element In An Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/215.KthLargestElementInAnArray/README.md)
+
+* Problem 216 (Medium) [Combination Sum III*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/216.CombinationSumIII/README.md)
+
+* Problem 220 (Medium) [Contains Duplicate III*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/220.ContainsDuplicateIII/README.md)
+
+* Problem 221 (Medium) [Maximal Square*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/221.MaximalSquare/README.md)
+
+* Problem 222 (Medium) [Count Complete Tree Nodes*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/222.CountCompleteTreeNodes/README.md)
+
+* Problem 223 (Medium) [Rectangle Area*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/223.RectangleArea/README.md)
+
+* Problem 227 (Medium) [Basic Calculator II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/227.BasicCalculatorII/README.md)
 
 ## Hard
 
