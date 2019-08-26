@@ -1,15 +1,17 @@
 
-filename = 'README_CLASSIFICATION.md'
+import re
 
-lines = []
-wlines = []
+filenames = ['README_CLASSIFICATION.md', 'README_ORDER.md', 'README_TAG.md']
 
-with open(filename) as r:
-    lines = lines + r.readlines()
-    for line in lines:
-        l = line.replace('####', '')
-        wlines.append(l)
+for filename in filenames:
+    wlines = []
+    with open(filename) as r:
+        lines = r.readlines()
+        for line in lines:
+            l = line.replace('  [', ' [')
+            wlines.append(l)
 
-with open(filename, 'w') as w:
-    w.writelines(wlines)
+    with open(filename, 'w') as w:
+        w.writelines(wlines)
 
+print('deal ok')
