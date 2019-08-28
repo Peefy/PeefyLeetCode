@@ -3,7 +3,33 @@
 
 * Problem 5 [*Longest Palindromic Substring*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/5.LongestPalindromicSubstring/README.md) 
 
+* Problem 53 [*Max Sub Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/53.MaxSubArray/README.md)
+
+* Problem 62 [*Unique Paths*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/62.UniquePaths/README.md)
+
+* Problem 63 [*UniquePaths II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/63.UniquePathsII/README.md)
+
+* Problem 64 [*Minimum Path Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/64.MinimumPathSum/README.md)
+
+* Problem 70 [*Add Binary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/70.ClimbStairs/README.md)
+
+* Problem 91 [*Decode Ways*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/91.DecodeWays/README.md)
+
+* Problem 95 [*Unique Binary Search Trees II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/95.UniqueBinarySearchTreesII/README.md) 
+
 * Problem 96 [*Unique Binary Search Trees*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/96.UniqueBinarySearchTrees/README.md) 
+
+* Problem 120 [*Triangle Min Path*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/120.TriangleMinPath/README.md)
+
+* Problem 121 [*Max Profit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/121.MaxProfit/README.md) 
+
+* Problem 139 [*Word Break*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/139.WordBreak/README.md)
+
+* Problem 152 [*Maximum Product Subarray*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/152.MaximumProductSubarray/README.md)
+
+* Problem 198 [*Rob*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/198.Rob/README.md) 
+
+* Problem 746 [*MinCost Climbing Stairs*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/746.MinCostClimbingStairs/README.md)
 
 ## 数组
 
@@ -41,7 +67,7 @@
 
 ## 拓扑排序
 
-
+* Problem 207 [*Course Schedule*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/207.CourseSchedule/README.md)
 
 ## 二分查找
 
