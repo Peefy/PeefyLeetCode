@@ -33,7 +33,17 @@
 
 ## 数组
 
+* Problem 1 [*Two Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/1.TwoSum/README.md)
+
+* Problem 4 [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)
+
 * Problem 7 [*Reverse Integer*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/7.ReverseInteger/README.md)
+
+* Problem 11 [*Container With Most Water*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/11.ContainerWithMostWater/README.md) 
+
+* Problem 15 [*Three Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/15.ThreeSum/README.md)
+
+* Problem 16 [*Three Sum Closest*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/16.ThreeSumClosest/README.md)
 
 * Problem 88 [*Merge Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/88.MergeArray/README.md)
 
