@@ -7,6 +7,10 @@
 
 ```c++
 
+// dp(i, j) = min(dp(i - 1, j), dp(i, j - 1), dp(i - 1, j - 1)) + 1 if matrix[i - 1][j - 1] == '1'
+// maxn = max(maxn, dp(i , j))
+
+
 class Solution {
 public:
     int maximalSquare(vector<vector<char>>& matrix) {
