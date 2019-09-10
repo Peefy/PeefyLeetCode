@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace PeefyLeetCode.VerifyingAnAlienDictionary
+namespace PeefyLeetCode.RepeatedNTimes
 {
 public class Solution {
     public int RepeatedNTimes(int[] A) {

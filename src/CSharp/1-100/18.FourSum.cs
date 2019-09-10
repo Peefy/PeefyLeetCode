@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace PeefyLeetCode.ThreeSum
+namespace PeefyLeetCode.FourSum
 {
 public class Solution {
     public IList<IList<int>> FourSum(int[] nums, int target) {

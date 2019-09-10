@@ -16,6 +16,7 @@ public class Node {
         val = _val;
         next = _next;
         random = _random;
+    }
 }
 
 public class Solution {
@@ -47,5 +48,4 @@ public class Solution {
         return res;
     }
 }
-
 }
