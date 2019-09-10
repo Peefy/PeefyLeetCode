@@ -1,7 +1,13 @@
 
 class Solution:
-    def computeArea(self, A: int, B: int, C: int, D: int, E: int, F: int, G: int, H: int) -> int:
-        pass
+    def computeArea(self, A, B, C, D, E, F, G, H):
+        if E > C or A > G: 
+            return (C - A) * (D - B) + (G - E) * (H - F)
+        if F > D or H < B: 
+            return (C - A) * (D - B) + (G - E) * (H - F)
+        length = min(C, G) - max(A, E)
+        width = min(D, H) - max(B, F)
+        return (C - A) * (D - B) + (G - E) * (H - F) - length * width
 
 
 if __name__ == "__main__":
