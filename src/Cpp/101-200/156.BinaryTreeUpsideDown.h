@@ -1,6 +1,6 @@
 
 #ifndef __BINARY_TREE_UPSIDE_DOWN_H
-#ifndef __BINARY_TREE_UPSIDE_DOWN_H
+#define __BINARY_TREE_UPSIDE_DOWN_H
 
 #include <iostream>
 #include <vector>

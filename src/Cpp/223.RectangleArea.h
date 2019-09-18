@@ -1,6 +1,6 @@
 
 #ifndef __RECTANGLE_AREA_H
-#ifndef __RECTANGLE_AREA_H
+#define __RECTANGLE_AREA_H
 
 #include <iostream>
 #include <vector>

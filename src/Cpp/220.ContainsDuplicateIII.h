@@ -1,6 +1,6 @@
 
 #ifndef __CONTAINS_DUPLICATE_III_H
-#ifndef __CONTAINS_DUPLICATE_III_H
+#define __CONTAINS_DUPLICATE_III_H
 
 #include <iostream>
 #include <vector>

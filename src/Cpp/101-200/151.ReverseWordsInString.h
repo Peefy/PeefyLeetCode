@@ -1,6 +1,6 @@
 
 #ifndef __REVERSE_WORDS_IN_STRING_H
-#ifndef __REVERSE_WORDS_IN_STRING_H
+#define __REVERSE_WORDS_IN_STRING_H
 
 #include <iostream>
 #include <vector>

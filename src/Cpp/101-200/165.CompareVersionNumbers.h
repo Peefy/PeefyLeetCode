@@ -1,6 +1,6 @@
 
 #ifndef __COMPARE_VERSION_NUMBERS_H
-#ifndef __COMPARE_VERSION_NUMBERS_H
+#define __COMPARE_VERSION_NUMBERS_H
 
 #include <iostream>
 #include <vector>

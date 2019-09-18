@@ -1,6 +1,6 @@
 
 #ifndef __REORDER_LIST_H
-#ifndef __REORDER_LIST_H
+#define __REORDER_LIST_H
 
 #include <iostream>
 #include <vector>

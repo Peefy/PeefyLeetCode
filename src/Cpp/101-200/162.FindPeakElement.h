@@ -1,6 +1,6 @@
 
 #ifndef __FIND_PEAK_ELEMENT_H
-#ifndef __FIND_PEAK_ELEMENT_H
+#define __FIND_PEAK_ELEMENT_H
 
 #include <iostream>
 #include <vector>

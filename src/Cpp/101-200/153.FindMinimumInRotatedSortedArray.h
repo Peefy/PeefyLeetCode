@@ -1,6 +1,6 @@
 
 #ifndef __FIND_MIN_IN_ROTATED_SORTED_ARRAY_H
-#ifndef __FIND_MIN_IN_ROTATED_SORTED_ARRAY_H
+#define __FIND_MIN_IN_ROTATED_SORTED_ARRAY_H
 
 #include <iostream>
 #include <vector>

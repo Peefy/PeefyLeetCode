@@ -1,6 +1,6 @@
 
 #ifndef __FLATTEN_BINARY_TREE_TO_LINKED_LIST_H
-#ifndef __FLATTEN_BINARY_TREE_TO_LINKED_LIST_H
+#define __FLATTEN_BINARY_TREE_TO_LINKED_LIST_H
 
 #include <iostream>
 #include <vector>

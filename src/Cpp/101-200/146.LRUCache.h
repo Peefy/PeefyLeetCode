@@ -1,6 +1,6 @@
 
 #ifndef __LRU_CACHE_H
-#ifndef __LRU_CACHE_H
+#define __LRU_CACHE_H
 
 #include <iostream>
 #include <vector>

@@ -1,6 +1,6 @@
 
 #ifndef __GAS_STATION_H
-#ifndef __GAS_STATION_H
+#define __GAS_STATION_H
 
 #include <iostream>
 #include <vector>

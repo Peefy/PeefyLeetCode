@@ -1,6 +1,6 @@
 
 #ifndef __PERFECT_BINARY_TREE_CONNECT_RIGHT_H
-#ifndef __PERFECT_BINARY_TREE_CONNECT_RIGHT_H
+#define __PERFECT_BINARY_TREE_CONNECT_RIGHT_H
 
 #include <iostream>
 #include <vector>

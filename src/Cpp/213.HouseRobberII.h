@@ -1,6 +1,6 @@
 
 #ifndef __HOUSE_ROBBER_II_H
-#ifndef __HOUSE_ROBBER_II_H
+#define __HOUSE_ROBBER_II_H
 
 #include <iostream>
 #include <vector>

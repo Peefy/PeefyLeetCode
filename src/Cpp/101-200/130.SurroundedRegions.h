@@ -1,6 +1,6 @@
 
 #ifndef __SURROUNDED_REGIONS_H
-#ifndef __SURROUNDED_REGIONS_H
+#define __SURROUNDED_REGIONS_H
 
 #include <iostream>
 #include <vector>

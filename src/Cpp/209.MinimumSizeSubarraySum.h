@@ -1,6 +1,6 @@
 
 #ifndef __MINIMUM_SIZE_SUBARRAY_SUM_H
-#ifndef __MINIMUM_SIZE_SUBARRAY_SUM_H
+#define __MINIMUM_SIZE_SUBARRAY_SUM_H
 
 #include <iostream>
 #include <vector>

@@ -1,6 +1,6 @@
 
 #ifndef __COURSE_SCHEDULE_II_H
-#ifndef __COURSE_SCHEDULE_II_H
+#define __COURSE_SCHEDULE_II_H
 
 #include <iostream>
 #include <vector>

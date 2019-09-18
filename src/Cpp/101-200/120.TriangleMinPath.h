@@ -1,6 +1,6 @@
 
 #ifndef __TRIANGLE_MIN_PATH_H
-#ifndef __TRIANGLE_MIN_PATH_H
+#define __TRIANGLE_MIN_PATH_H
 
 #include <iostream>
 #include <vector>

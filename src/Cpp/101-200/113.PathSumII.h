@@ -1,6 +1,6 @@
 
 #ifndef __TREE_PATH_SUM_II_H
-#ifndef __TREE_PATH_SUM_II_H
+#define __TREE_PATH_SUM_II_H
 
 #include <iostream>
 #include <vector>

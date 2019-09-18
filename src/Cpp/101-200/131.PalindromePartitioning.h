@@ -1,6 +1,6 @@
 
 #ifndef __PALINDROME_PARTITIONING_H
-#ifndef __PALINDROME_PARTITIONING_H
+#define __PALINDROME_PARTITIONING_H
 
 #include <iostream>
 #include <vector>

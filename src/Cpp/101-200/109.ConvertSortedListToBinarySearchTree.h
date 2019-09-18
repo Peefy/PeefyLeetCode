@@ -1,6 +1,6 @@
 
 #ifndef __CONVERT_SORT_LIST_TO_BINARY_TREE_H
-#ifndef __CONVERT_SORT_LIST_TO_BINARY_TREE_H
+#define __CONVERT_SORT_LIST_TO_BINARY_TREE_H
 
 #include <iostream>
 #include <vector>

@@ -1,6 +1,6 @@
 
 #ifndef __INSERTION_SORT_LIST_H
-#ifndef __INSERTION_SORT_LIST_H
+#define __INSERTION_SORT_LIST_H
 
 #include <iostream>
 #include <vector>

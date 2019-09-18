@@ -1,6 +1,6 @@
 
 #ifndef __BITWISE_AND_OF_NUMBERS_RANGE_H
-#ifndef __BITWISE_AND_OF_NUMBERS_RANGE_H
+#define __BITWISE_AND_OF_NUMBERS_RANGE_H
 
 #include <iostream>
 #include <vector>

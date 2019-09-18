@@ -1,6 +1,6 @@
 
 #ifndef __COPY_RANDOM_LIST_H
-#ifndef __COPY_RANDOM_LIST_H
+#define __COPY_RANDOM_LIST_H
 
 #include <iostream>
 #include <vector>

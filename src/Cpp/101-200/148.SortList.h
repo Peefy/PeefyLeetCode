@@ -1,6 +1,6 @@
 
 #ifndef __QUICK_SORT_LIST_H
-#ifndef __QUICK_SORT_LIST_H
+#define __QUICK_SORT_LIST_H
 
 #include <iostream>
 #include <vector>

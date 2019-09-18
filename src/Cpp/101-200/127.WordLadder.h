@@ -1,6 +1,6 @@
 
 #ifndef __WORD_LADDER_H
-#ifndef __WORD_LADDER_H
+#define __WORD_LADDER_H
 
 #include <iostream>
 #include <vector>

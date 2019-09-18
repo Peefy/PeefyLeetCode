@@ -1,6 +1,6 @@
 
 #ifndef __SUMMARY_RANGES_H
-#ifndef __SUMMARY_RANGES_H
+#define __SUMMARY_RANGES_H
 
 #include <iostream>
 #include <vector>

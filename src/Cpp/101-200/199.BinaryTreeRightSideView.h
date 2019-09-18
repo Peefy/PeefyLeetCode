@@ -1,6 +1,6 @@
 
 #ifndef __BINARY_TREE_RIGHT_SIDE_VIEW_H
-#ifndef __BINARY_TREE_RIGHT_SIDE_VIEW_H
+#define __BINARY_TREE_RIGHT_SIDE_VIEW_H
 
 #include <iostream>
 #include <vector>

@@ -1,6 +1,6 @@
 
 #ifndef __SINGLE_NUMBER_II_H
-#ifndef __SINGLE_NUMBER_II_H
+#define __SINGLE_NUMBER_II_H
 
 #include <iostream>
 #include <vector>

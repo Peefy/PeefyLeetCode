@@ -1,6 +1,6 @@
 
 #ifndef __ADD_AND_SEARCH_WORD_H
-#ifndef __ADD_AND_SEARCH_WORD_H
+#define __ADD_AND_SEARCH_WORD_H
 
 #include <iostream>
 #include <vector>

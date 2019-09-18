@@ -1,6 +1,6 @@
 
 #ifndef __MISSING_RANGES_H
-#ifndef __MISSING_RANGES_H
+#define __MISSING_RANGES_H
 
 #include <iostream>
 #include <vector>

@@ -1,6 +1,6 @@
 
 #ifndef __MAXIMAL_SQUARE_H
-#ifndef __MAXIMAL_SQUARE_H
+#define __MAXIMAL_SQUARE_H
 
 #include <iostream>
 #include <vector>

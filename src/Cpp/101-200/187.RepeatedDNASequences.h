@@ -1,6 +1,6 @@
 
 #ifndef __REPEATED_DNA_SEQUENCES_H
-#ifndef __REPEATED_DNA_SEQUENCES_H
+#define __REPEATED_DNA_SEQUENCES_H
 
 #include <iostream>
 #include <vector>

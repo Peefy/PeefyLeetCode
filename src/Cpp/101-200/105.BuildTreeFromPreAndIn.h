@@ -1,6 +1,6 @@
 
 #ifndef __BUILD_BINARY_TREE_FROM_PRE_AND_INORDER_H
-#ifndef __BUILD_BINARY_TREE_FROM_PRE_AND_INORDER_H
+#define __BUILD_BINARY_TREE_FROM_PRE_AND_INORDER_H
 
 #include <iostream>
 #include <vector>

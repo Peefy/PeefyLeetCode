@@ -1,6 +1,6 @@
 
 #ifndef __BINARY_SEARCH_TREE_ITERATOR_H
-#ifndef __BINARY_SEARCH_TREE_ITERATOR_H
+#define __BINARY_SEARCH_TREE_ITERATOR_H
 
 #include <iostream>
 #include <vector>

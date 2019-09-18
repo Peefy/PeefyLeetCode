@@ -1,6 +1,6 @@
 
 #ifndef __BUILD_BINARY_TREE_PREORDER_TRAVERSAL_H
-#ifndef __BUILD_BINARY_TREE_PREORDER_TRAVERSAL_H
+#define __BUILD_BINARY_TREE_PREORDER_TRAVERSAL_H
 
 #include <iostream>
 #include <vector>

@@ -1,6 +1,6 @@
 
 #ifndef __EVALUATE_REVERSE_POLISH_NOTATION_H
-#ifndef __EVALUATE_REVERSE_POLISH_NOTATION_H
+#define __EVALUATE_REVERSE_POLISH_NOTATION_H
 
 #include <iostream>
 #include <vector>

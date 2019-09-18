@@ -1,6 +1,6 @@
 
 #ifndef __BASIC_CALCULATOR_II_H
-#ifndef __BASIC_CALCULATOR_II_H
+#define __BASIC_CALCULATOR_II_H
 
 #include <iostream>
 #include <vector>

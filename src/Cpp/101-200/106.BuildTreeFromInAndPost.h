@@ -1,6 +1,6 @@
 
 #ifndef __BUILD_BINARY_TREE_FROM_IN_AND_POST_ORDER_H
-#ifndef __BUILD_BINARY_TREE_FROM_IN_AND_POST_ORDER_H
+#define __BUILD_BINARY_TREE_FROM_IN_AND_POST_ORDER_H
 
 #include <iostream>
 #include <vector>

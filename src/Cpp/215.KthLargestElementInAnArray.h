@@ -1,6 +1,6 @@
 
 #ifndef __KTH_LARGEST_ELEMENT_IN_AN_ARRAY_H
-#ifndef __KTH_LARGEST_ELEMENT_IN_AN_ARRAY_H
+#define __KTH_LARGEST_ELEMENT_IN_AN_ARRAY_H
 
 #include <iostream>
 #include <vector>

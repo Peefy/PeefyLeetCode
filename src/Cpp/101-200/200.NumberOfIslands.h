@@ -1,6 +1,6 @@
 
 #ifndef __NUMBER_OF_ISLANDS_H
-#ifndef __NUMBER_OF_ISLANDS_H
+#define __NUMBER_OF_ISLANDS_H
 
 #include <iostream>
 #include <vector>

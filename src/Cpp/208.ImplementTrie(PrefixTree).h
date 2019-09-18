@@ -1,6 +1,6 @@
 
 #ifndef __IMPLEMENT_TRIE_H
-#ifndef __IMPLEMENT_TRIE_H
+#define __IMPLEMENT_TRIE_H
 
 #include <math.h>
 #include <iostream>

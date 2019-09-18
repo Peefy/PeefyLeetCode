@@ -1,6 +1,6 @@
 
 #ifndef __LIST_HAS_CYCLE_II_H
-#ifndef __LIST_HAS_CYCLE_II_H
+#define __LIST_HAS_CYCLE_II_H
 
 #include <iostream>
 #include <vector>

@@ -1,6 +1,6 @@
 
 #ifndef __COUNT_COMPLETE_TREE_NODES_H
-#ifndef __COUNT_COMPLETE_TREE_NODES_H
+#define __COUNT_COMPLETE_TREE_NODES_H
 
 #include <iostream>
 #include <vector>

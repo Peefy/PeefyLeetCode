@@ -1,6 +1,6 @@
 
 #ifndef __WORD_BREAK_H
-#ifndef __WORD_BREAK_H
+#define __WORD_BREAK_H
 
 #include <iostream>
 #include <vector>

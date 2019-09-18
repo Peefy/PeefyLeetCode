@@ -1,6 +1,6 @@
 
 #ifndef __COMBINATION_SUM_III_H
-#ifndef __COMBINATION_SUM_III_H
+#define __COMBINATION_SUM_III_H
 
 #include <iostream>
 #include <vector>

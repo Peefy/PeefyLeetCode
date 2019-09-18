@@ -1,6 +1,6 @@
 
 #ifndef __TREE_SUM_ROOT_LEAF_NUMBERS_H
-#ifndef __TREE_SUM_ROOT_LEAF_NUMBERS_H
+#define __TREE_SUM_ROOT_LEAF_NUMBERS_H
 
 #include <iostream>
 #include <vector>

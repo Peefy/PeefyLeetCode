@@ -1,6 +1,6 @@
 
 #ifndef __STRING_ONE_EDIT_DISTANCE_H
-#ifndef __STRING_ONE_EDIT_DISTANCE_H
+#define __STRING_ONE_EDIT_DISTANCE_H
 
 #include <iostream>
 #include <vector>

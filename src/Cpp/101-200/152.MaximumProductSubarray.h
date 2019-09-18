@@ -1,6 +1,6 @@
 
 #ifndef __MAXIMUM_PRODUCT_SUBARRAY_H
-#ifndef __MAXIMUM_PRODUCT_SUBARRAY_H
+#define __MAXIMUM_PRODUCT_SUBARRAY_H
 
 #include <iostream>
 #include <vector>

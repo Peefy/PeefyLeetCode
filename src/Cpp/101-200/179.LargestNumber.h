@@ -1,6 +1,6 @@
 
 #ifndef __LARGEST_NUMBER_H
-#ifndef __LARGEST_NUMBER_H
+#define __LARGEST_NUMBER_H
 
 #include <iostream>
 #include <vector>

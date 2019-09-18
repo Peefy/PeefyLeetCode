@@ -1,6 +1,6 @@
 
 #ifndef __CLONE_GRAPH_H
-#ifndef __CLONE_GRAPH_H
+#define __CLONE_GRAPH_H
 
 #include <iostream>
 #include <vector>

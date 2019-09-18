@@ -1,6 +1,6 @@
 
 #ifndef __FRACTION_TO_DECIMAL_H
-#ifndef __FRACTION_TO_DECIMAL_H
+#define __FRACTION_TO_DECIMAL_H
 
 #include <iostream>
 #include <vector>
