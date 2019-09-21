@@ -1,6 +1,6 @@
 
-#ifndef __KTH_SMALLEST_H
-#define __MAJORITY_ELEMENT_II_H
+#ifndef __KTH_SMALLEST_ELEMENT_IN_BST_H
+#define __KTH_SMALLEST_ELEMENT_IN_BST_H
 
 #include <iostream>
 #include <vector>
