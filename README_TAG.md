@@ -33,6 +33,8 @@
 
 * Problem 264 [*Ugly Number II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/264.UglyNumberII/README.md)
 
+* Problem 279 [*Perfect Squares*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/279.PerfectSquares/README.md)
+
 * Problem 746 [*MinCost Climbing Stairs*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/701-800/746.MinCostClimbingStairs/README.md)
 
 ## 数组
@@ -57,6 +59,8 @@
 
 ## 数学
 
+* Problem 279 [*Perfect Squares*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/279.PerfectSquares/README.md)
+
 ## 树
 
 * Problem 104 [*Tree Max Depth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/104.TreeMaxDepth/README.md)
@@ -78,6 +82,8 @@
 * Problem 102 [*Binary Tree Level Order Traversal*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/102.BinaryTreeLevelOrderTraversal/README.md)
 
 * Problem 127 [*Word Ladder*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/127.WordLadder/README.md)
+
+* Problem 279 [*Perfect Squares*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/279.PerfectSquares/README.md)
 
 ## 拓扑排序
 

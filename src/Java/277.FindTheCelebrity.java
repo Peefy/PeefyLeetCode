@@ -13,26 +13,16 @@ import java.util.LinkedList;
 import java.util.Random;
 import java.util.Stack;
 
-public class Relation {
-    public boolean knows(int candidate1, int candidate2) {
-        return false;
-    }
-}
 
-public class Solution extends Relation {
-    public int findCelebrity(int n) {
-        int candidate = 0;
-        for (int i = 1; i < n; i++) {
-            if (knows(candidate, i))
-                candidate = i;
+public class Solution {
+    public int numSquares(int n) {
+        int[] dp = new int[n + 1]; // 默认初始化值都为0
+        for (int i = 1; i <= n; i++) {
+            dp[i] = i; // 最坏的情况就是每次+1
+            for (int j = 1; i - j * j >= 0; j++) { 
+                dp[i] = Math.min(dp[i], dp[i - j * j] + 1); // 动态转移方程
+            }
         }
-        for (int i = 0; i < n; i++) {
-            if (i == candidate) 
-                continue;
-            if (!knows(i, candidate) || knows(candidate, i))
-                return -1;
-        }
-
-        return candidate;
+        return dp[n];
     }
 }
