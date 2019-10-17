@@ -3,6 +3,7 @@ class Relation:
     def knows(self, can, i):
         pass
 
+
 class Solution(Relation):
     def findCelebrity(self, n):
         candidate = 0
