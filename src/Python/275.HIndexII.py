@@ -1,7 +1,6 @@
 
 class Solution:
     def hIndex(self, citations):
-        # sorted-array binary find 
         n = len(citations)
         if n == 0 or citations[-1] == 0:
             return 0
