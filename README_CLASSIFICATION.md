@@ -362,7 +362,7 @@
 * Problem 277 [*Find The Celebrity*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/277.FindTheCelebrity/README.md)
 * Problem 278 [*First Bad Version*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/278.FirstBadVersion/README.md)
 * Problem 279 [*Perfect Squares*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/279.PerfectSquares/README.md)
-* Problem 280 
+* Problem 280 [*Wiggle Sort*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/280.WiggleSort/README.md)
 
 ## Problem 281 - Problem 290
 

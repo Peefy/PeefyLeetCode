@@ -765,6 +765,8 @@
 
 * Problem 279 [*Perfect Squares*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/279.PerfectSquares/README.md)
 
+* Problem 280 [*Wiggle Sort*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/280.WiggleSort/README.md)
+
 * Problem 282 [*Expression Add Operators*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/282.ExpressionAddOperators/README.md)
 
 * Problem 285 [*Inorder Successor In BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/285.InorderSuccessorInBST/README.md)
