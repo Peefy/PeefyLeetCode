@@ -53,7 +53,8 @@
         "sstream": "cpp",
         "string_view": "cpp",
         "unordered_set": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "functional": "cpp"
     },
     "python.pythonPath": "C:\\Users\\wuh15\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "C_Cpp.intelliSenseEngineFallback": "Enabled",

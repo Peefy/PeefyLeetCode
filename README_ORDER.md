@@ -771,6 +771,8 @@
 
 * Problem 282 [*Expression Add Operators*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/282.ExpressionAddOperators/README.md)
 
+* Problem 284 [*Peeking Iterator*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/284.PeekingIterator/README.md)
+
 * Problem 285 [*Inorder Successor In BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/285.InorderSuccessorInBST/README.md)
 
 * Problem 287 [*Find The Duplicate Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/287.FindTheDuplicateNumber/README.md)
