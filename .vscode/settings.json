@@ -54,7 +54,8 @@
         "string_view": "cpp",
         "unordered_set": "cpp",
         "numeric": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "set": "cpp"
     },
     "python.pythonPath": "/usr/local/bin/python3",
     "C_Cpp.intelliSenseEngineFallback": "Enabled",
