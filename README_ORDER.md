@@ -153,6 +153,8 @@
 
 * Problem 292 [*Word Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/292.CanWinNim/README.md)
 
+* Problem 299 [*Bulls And Cows*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/299.BullsAndCows/README.md)
+
 * Problem 303 [*Range Sum Query - Immutable*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/303.RangeSumQueryImmutable/README.md)
 
 * Problem 326 [*Is Power Of Three*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/326.IsPowerOfThree/README.md)
